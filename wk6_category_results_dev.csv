@@ -1,0 +1,8 @@
+category,n,faith_change,ci_low,ci_high,fkgl_change
+"Blood, Heart and Circulation",3,-0.083,-0.247,0.08,-0.91
+"Bones, Joints and Muscles",5,-0.05,-0.148,0.048,-1.51
+Digestive System,6,-0.047,-0.159,0.066,-0.86
+Infections,9,-0.028,-0.082,0.027,-1.12
+Mental Health and Behavior,3,0.0,0.0,0.0,-2.62
+Cancers,8,0.018,-0.017,0.052,-1.57
+Brain and Nerves,6,0.028,-0.027,0.084,-1.74

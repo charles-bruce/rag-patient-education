@@ -1,0 +1,682 @@
+[
+  {
+    "question": "What is (are) Fungal Infections?",
+    "qtype": "information",
+    "topic_id": "258",
+    "topic_title": "Fungal Infections",
+    "group": "Infections",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What causes Skin Cancer?",
+    "qtype": "causes",
+    "topic_id": "405",
+    "topic_title": "Skin Cancer",
+    "group": "Cancers",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What is (are) Cytomegalovirus Infections?",
+    "qtype": "information",
+    "topic_id": "3980",
+    "topic_title": "Cytomegalovirus Infections",
+    "group": "Infections",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Triglycerides",
+    "qtype": "information",
+    "topic_id": "4277",
+    "topic_title": "Triglycerides",
+    "group": "Blood, Heart and Circulation",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "How to diagnose Psoriasis?",
+    "qtype": "exams and tests",
+    "topic_id": "373",
+    "topic_title": "Psoriasis",
+    "group": "Skin, Hair and Nails",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What is (are) Alzheimer's Disease?",
+    "qtype": "information",
+    "topic_id": "22",
+    "topic_title": "Alzheimer's Disease",
+    "group": "Mental Health and Behavior",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Ischemic Stroke?",
+    "qtype": "information",
+    "topic_id": "6248",
+    "topic_title": "Ischemic Stroke",
+    "group": "Blood, Heart and Circulation",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "what research (or clinical trials) is being done for Rett Syndrome?",
+    "qtype": "research",
+    "topic_id": "4272",
+    "topic_title": "Rett Syndrome",
+    "group": "Brain and Nerves",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What is (are) Bile Duct Diseases?",
+    "qtype": "information",
+    "topic_id": "3787",
+    "topic_title": "Bile Duct Diseases",
+    "group": "Digestive System",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Health Occupations",
+    "qtype": "information",
+    "topic_id": "1483",
+    "topic_title": "Health Occupations",
+    "group": "Health System",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Kidney Cysts?",
+    "qtype": "information",
+    "topic_id": "5808",
+    "topic_title": "Kidney Cysts",
+    "group": "Kidneys and Urinary System",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Prescription Drug Abuse?",
+    "qtype": "information",
+    "topic_id": "1706",
+    "topic_title": "Prescription Drug Misuse",
+    "group": "Substance Use and Disorders",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What are the symptoms of Melanoma?",
+    "qtype": "symptoms",
+    "topic_id": "321",
+    "topic_title": "Melanoma",
+    "group": "Cancers",
+    "source": "1_CancerGov_QA"
+  },
+  {
+    "question": "What are the treatments for Complex Regional Pain Syndrome?",
+    "qtype": "treatment",
+    "topic_id": "382",
+    "topic_title": "Complex Regional Pain Syndrome",
+    "group": "Brain and Nerves",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What is (are) Sudden Infant Death Syndrome?",
+    "qtype": "information",
+    "topic_id": "504",
+    "topic_title": "Sudden Infant Death Syndrome",
+    "group": "Children and Teenagers",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is the outlook for Colon Cancer?",
+    "qtype": "outlook",
+    "topic_id": "88",
+    "topic_title": "Colorectal Cancer",
+    "group": "Cancers",
+    "source": "1_CancerGov_QA"
+  },
+  {
+    "question": "Do you have information about Motor Vehicle Safety",
+    "qtype": "information",
+    "topic_id": "155",
+    "topic_title": "Motor Vehicle Safety",
+    "group": "Safety Issues",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Herbal Medicine",
+    "qtype": "information",
+    "topic_id": "1246",
+    "topic_title": "Herbal Medicine",
+    "group": "Wellness and Lifestyle",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Medicines",
+    "qtype": "information",
+    "topic_id": "31",
+    "topic_title": "Medicines",
+    "group": "Drug Therapy",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Cat Scratch Disease?",
+    "qtype": "information",
+    "topic_id": "4320",
+    "topic_title": "Cat Scratch Disease",
+    "group": "Infections",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Flu Shot",
+    "qtype": "information",
+    "topic_id": "6236",
+    "topic_title": "Flu Shot",
+    "group": "Immune System",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Antioxidants",
+    "qtype": "information",
+    "topic_id": "1590",
+    "topic_title": "Antioxidants",
+    "group": "Food and Nutrition",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What are the treatments for Aphasia?",
+    "qtype": "treatment",
+    "topic_id": "1212",
+    "topic_title": "Aphasia",
+    "group": "Brain and Nerves",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What is (are) Drowning?",
+    "qtype": "information",
+    "topic_id": "218",
+    "topic_title": "Drowning",
+    "group": "Injuries and Wounds",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What causes Alzheimer's Disease?",
+    "qtype": "causes",
+    "topic_id": "22",
+    "topic_title": "Alzheimer's Disease",
+    "group": "Mental Health and Behavior",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "Do you have information about Vasectomy",
+    "qtype": "information",
+    "topic_id": "5821",
+    "topic_title": "Vasectomy",
+    "group": "Pregnancy and Reproduction",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "How to diagnose Paget's Disease of Bone?",
+    "qtype": "exams and tests",
+    "topic_id": "1607",
+    "topic_title": "Paget's Disease of Bone",
+    "group": "Bones, Joints and Muscles",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "what research (or clinical trials) is being done for Muscular Dystrophy?",
+    "qtype": "research",
+    "topic_id": "335",
+    "topic_title": "Muscular Dystrophy",
+    "group": "Bones, Joints and Muscles",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "Do you have information about Body Weight",
+    "qtype": "information",
+    "topic_id": "5610",
+    "topic_title": "Body Weight",
+    "group": "Food and Nutrition",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Genital Warts?",
+    "qtype": "information",
+    "topic_id": "4322",
+    "topic_title": "Genital Warts",
+    "group": "Infections",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Who is at risk for Fecal Incontinence?",
+    "qtype": "susceptibility",
+    "topic_id": "5316",
+    "topic_title": "Bowel Incontinence",
+    "group": "Digestive System",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "What are the treatments for Hydrocephalus?",
+    "qtype": "treatment",
+    "topic_id": "607",
+    "topic_title": "Hydrocephalus",
+    "group": "Brain and Nerves",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What causes Cushing's Syndrome?",
+    "qtype": "causes",
+    "topic_id": "4318",
+    "topic_title": "Cushing's Syndrome",
+    "group": "Endocrine System",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "Who is at risk for Knee Replacement?",
+    "qtype": "susceptibility",
+    "topic_id": "3924",
+    "topic_title": "Knee Replacement",
+    "group": "Bones, Joints and Muscles",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "How to prevent Osteoporosis?",
+    "qtype": "prevention",
+    "topic_id": "37",
+    "topic_title": "Osteoporosis",
+    "group": "Bones, Joints and Muscles",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "How to diagnose Chronic Myelogenous Leukemia?",
+    "qtype": "exams and tests",
+    "topic_id": "5624",
+    "topic_title": "Chronic Myeloid Leukemia",
+    "group": "Cancers",
+    "source": "1_CancerGov_QA"
+  },
+  {
+    "question": "Who is at risk for Heart Failure?",
+    "qtype": "susceptibility",
+    "topic_id": "199",
+    "topic_title": "Heart Failure",
+    "group": "Blood, Heart and Circulation",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What is the outlook for Complex Regional Pain Syndrome?",
+    "qtype": "outlook",
+    "topic_id": "382",
+    "topic_title": "Complex Regional Pain Syndrome",
+    "group": "Brain and Nerves",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "How to prevent Shingles?",
+    "qtype": "prevention",
+    "topic_id": "90",
+    "topic_title": "Shingles",
+    "group": "Infections",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What to do for Ulcerative Colitis?",
+    "qtype": "considerations",
+    "topic_id": "446",
+    "topic_title": "Ulcerative Colitis",
+    "group": "Digestive System",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "What are the treatments for Diarrhea?",
+    "qtype": "treatment",
+    "topic_id": "211",
+    "topic_title": "Diarrhea",
+    "group": "Digestive System",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "Do you have information about A1C",
+    "qtype": "information",
+    "topic_id": "6308",
+    "topic_title": "A1C",
+    "group": "Diagnostic Tests",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Asthma?",
+    "qtype": "information",
+    "topic_id": "2",
+    "topic_title": "Asthma",
+    "group": "Lungs and Breathing",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What causes Heart Failure?",
+    "qtype": "causes",
+    "topic_id": "199",
+    "topic_title": "Heart Failure",
+    "group": "Blood, Heart and Circulation",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What are the symptoms of Paget's Disease of Bone?",
+    "qtype": "symptoms",
+    "topic_id": "1607",
+    "topic_title": "Paget's Disease of Bone",
+    "group": "Bones, Joints and Muscles",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "How to prevent High Blood Pressure?",
+    "qtype": "prevention",
+    "topic_id": "34",
+    "topic_title": "High Blood Pressure",
+    "group": "Blood, Heart and Circulation",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What are the treatments for Neurofibromatosis?",
+    "qtype": "treatment",
+    "topic_id": "1387",
+    "topic_title": "Neurofibromatosis",
+    "group": "Cancers",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What is the outlook for Dementia With Lewy Bodies?",
+    "qtype": "outlook",
+    "topic_id": "4070",
+    "topic_title": "Lewy Body Dementia",
+    "group": "Brain and Nerves",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What are the treatments for Balance Problems?",
+    "qtype": "treatment",
+    "topic_id": "5953",
+    "topic_title": "Balance Problems",
+    "group": "Ear, Nose and Throat",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "Do you have information about Financial Assistance",
+    "qtype": "information",
+    "topic_id": "3186",
+    "topic_title": "Financial Assistance",
+    "group": "Social/Family Issues",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "How to diagnose Lactose Intolerance?",
+    "qtype": "exams and tests",
+    "topic_id": "898",
+    "topic_title": "Lactose Intolerance",
+    "group": "Digestive System",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "Do you have information about Weight Control",
+    "qtype": "information",
+    "topic_id": "480",
+    "topic_title": "Weight Control",
+    "group": "Food and Nutrition",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "How to prevent Balance Problems?",
+    "qtype": "prevention",
+    "topic_id": "5953",
+    "topic_title": "Balance Problems",
+    "group": "Ear, Nose and Throat",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What are the treatments for Dry Mouth?",
+    "qtype": "treatment",
+    "topic_id": "5798",
+    "topic_title": "Dry Mouth",
+    "group": "Mouth and Teeth",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What is (are) Reproductive Hazards?",
+    "qtype": "information",
+    "topic_id": "39",
+    "topic_title": "Reproductive Hazards",
+    "group": "Pregnancy and Reproduction",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What are the symptoms of Cystocele?",
+    "qtype": "symptoms",
+    "topic_id": "1677",
+    "topic_title": "Pelvic Floor Disorders",
+    "group": "Female Reproductive System",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "What are the treatments for Cushing's Syndrome?",
+    "qtype": "treatment",
+    "topic_id": "4318",
+    "topic_title": "Cushing's Syndrome",
+    "group": "Endocrine System",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "What are the symptoms of Heart Attack?",
+    "qtype": "symptoms",
+    "topic_id": "5",
+    "topic_title": "Heart Attack",
+    "group": "Blood, Heart and Circulation",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What causes Dry Mouth?",
+    "qtype": "causes",
+    "topic_id": "5798",
+    "topic_title": "Dry Mouth",
+    "group": "Mouth and Teeth",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What is (are) After Surgery?",
+    "qtype": "information",
+    "topic_id": "5419",
+    "topic_title": "After Surgery",
+    "group": "Surgery and Rehabilitation",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What are the symptoms of Alzheimer's Disease?",
+    "qtype": "symptoms",
+    "topic_id": "22",
+    "topic_title": "Alzheimer's Disease",
+    "group": "Mental Health and Behavior",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "Do you have information about Electromagnetic Fields",
+    "qtype": "information",
+    "topic_id": "899",
+    "topic_title": "Electromagnetic Fields",
+    "group": "Poisoning, Toxicology, Environmental Health",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Who is at risk for Male Breast Cancer?",
+    "qtype": "susceptibility",
+    "topic_id": "3577",
+    "topic_title": "Male Breast Cancer",
+    "group": "Cancers",
+    "source": "1_CancerGov_QA"
+  },
+  {
+    "question": "What is (are) Self-harm?",
+    "qtype": "information",
+    "topic_id": "6091",
+    "topic_title": "Self-Harm",
+    "group": "Mental Health and Behavior",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What are the symptoms of Shingles?",
+    "qtype": "symptoms",
+    "topic_id": "90",
+    "topic_title": "Shingles",
+    "group": "Infections",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What are the treatments for Muscular Dystrophy?",
+    "qtype": "treatment",
+    "topic_id": "335",
+    "topic_title": "Muscular Dystrophy",
+    "group": "Bones, Joints and Muscles",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "Do you have information about Medicaid",
+    "qtype": "information",
+    "topic_id": "1453",
+    "topic_title": "Medicaid",
+    "group": "Health System",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "How to diagnose High Blood Pressure?",
+    "qtype": "exams and tests",
+    "topic_id": "34",
+    "topic_title": "High Blood Pressure",
+    "group": "Blood, Heart and Circulation",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "How to prevent Urinary Tract Infections?",
+    "qtype": "prevention",
+    "topic_id": "448",
+    "topic_title": "Urinary Tract Infections",
+    "group": "Kidneys and Urinary System",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What is (are) Hemorrhagic Fevers?",
+    "qtype": "information",
+    "topic_id": "1652",
+    "topic_title": "Hemorrhagic Fevers",
+    "group": "Infections",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Birth Defects?",
+    "qtype": "information",
+    "topic_id": "1127",
+    "topic_title": "Birth Defects",
+    "group": "Genetics/Birth Defects",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Itching?",
+    "qtype": "information",
+    "topic_id": "3067",
+    "topic_title": "Itching",
+    "group": "Infections",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Creutzfeldt-Jakob Disease?",
+    "qtype": "information",
+    "topic_id": "1242",
+    "topic_title": "Creutzfeldt-Jakob Disease",
+    "group": "Brain and Nerves",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is the outlook for Neurofibromatosis?",
+    "qtype": "outlook",
+    "topic_id": "1387",
+    "topic_title": "Neurofibromatosis",
+    "group": "Cancers",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What are the complications of Shingles?",
+    "qtype": "complications",
+    "topic_id": "90",
+    "topic_title": "Shingles",
+    "group": "Infections",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What are the symptoms of Osteoporosis?",
+    "qtype": "symptoms",
+    "topic_id": "37",
+    "topic_title": "Osteoporosis",
+    "group": "Bones, Joints and Muscles",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "Do you have information about Volcanoes",
+    "qtype": "information",
+    "topic_id": "4600",
+    "topic_title": "Volcanoes",
+    "group": "Disasters",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What causes Cystocele?",
+    "qtype": "causes",
+    "topic_id": "1677",
+    "topic_title": "Pelvic Floor Disorders",
+    "group": "Female Reproductive System",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "What are the symptoms of Age-related Macular Degeneration?",
+    "qtype": "symptoms",
+    "topic_id": "313",
+    "topic_title": "Macular Degeneration",
+    "group": "Eyes and Vision",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "Who is at risk for Leukemia?",
+    "qtype": "susceptibility",
+    "topic_id": "5620",
+    "topic_title": "Leukemia",
+    "group": "Cancers",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What are the symptoms of Psoriasis?",
+    "qtype": "symptoms",
+    "topic_id": "373",
+    "topic_title": "Psoriasis",
+    "group": "Skin, Hair and Nails",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What are the stages of Gallbladder Cancer?",
+    "qtype": "stages",
+    "topic_id": "4645",
+    "topic_title": "Gallbladder Cancer",
+    "group": "Cancers",
+    "source": "1_CancerGov_QA"
+  },
+  {
+    "question": "What causes Diverticular Disease?",
+    "qtype": "causes",
+    "topic_id": "214",
+    "topic_title": "Diverticulosis and Diverticulitis",
+    "group": "Digestive System",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "what research (or clinical trials) is being done for Cephalic Disorders?",
+    "qtype": "research",
+    "topic_id": "3022",
+    "topic_title": "Brain Malformations",
+    "group": "Brain and Nerves",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What are the treatments for Cirrhosis?",
+    "qtype": "treatment",
+    "topic_id": "190",
+    "topic_title": "Cirrhosis",
+    "group": "Digestive System",
+    "source": "5_NIDDK_QA"
+  }
+]

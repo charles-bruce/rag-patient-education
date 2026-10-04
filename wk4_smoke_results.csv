@@ -1,0 +1,29 @@
+arm,question,fkgl,fre,words,relevancy,cited_any,citation_precision,n_citations,faithfulness,n_sentences
+rag,What is Tetanus and what should I know about it?,9.0,62.1,180,4,True,1.0,4.0,0.8,10.0
+baseline,What is Tetanus and what should I know about it?,10.1,59.1,246,5,,,,,
+rag,How is Blood Count Tests treated or managed?,12.8,41.4,86,4,True,1.0,1.0,0.75,4.0
+baseline,How is Blood Count Tests treated or managed?,10.5,58.2,171,4,,,,,
+rag,What is Attention Deficit Hyperactivity Disorder and what should I know about it?,14.0,27.5,132,4,True,1.0,4.0,0.86,7.0
+baseline,What is Attention Deficit Hyperactivity Disorder and what should I know about it?,12.0,43.3,213,4,,,,,
+rag,How is Infectious Arthritis treated or managed?,7.8,65.0,45,4,True,1.0,1.0,0.67,3.0
+baseline,How is Infectious Arthritis treated or managed?,8.8,57.3,252,5,,,,,
+rag,What is Heartburn and what should I know about it?,9.6,60.5,197,4,True,0.83,6.0,0.9,10.0
+baseline,What is Heartburn and what should I know about it?,8.8,62.6,205,5,,,,,
+rag,How is Guillain-Barre Syndrome treated or managed?,7.4,66.2,29,4,True,1.0,2.0,1.0,2.0
+baseline,How is Guillain-Barre Syndrome treated or managed?,14.3,37.4,227,5,,,,,
+rag,What is Carcinoid Tumors and what should I know about it?,8.8,62.5,106,4,True,1.0,3.0,0.33,6.0
+baseline,What is Carcinoid Tumors and what should I know about it?,10.2,58.9,310,4,,,,,
+rag,How is Vulvar Disorders treated or managed?,10.7,46.9,114,4,True,1.0,3.0,0.86,7.0
+baseline,How is Vulvar Disorders treated or managed?,12.4,37.0,190,5,,,,,
+rag,What is COPD and what should I know about it?,9.2,67.0,194,4,True,1.0,4.0,1.0,9.0
+baseline,What is COPD and what should I know about it?,10.2,53.6,229,5,,,,,
+rag,How is Burns treated or managed?,11.5,50.2,87,4,True,1.0,3.0,0.75,4.0
+baseline,How is Burns treated or managed?,9.6,60.4,270,5,,,,,
+rag,What is Schizophrenia and what should I know about it?,8.8,62.5,193,4,True,1.0,5.0,0.55,11.0
+baseline,What is Schizophrenia and what should I know about it?,9.2,56.0,182,4,,,,,
+rag,How is Body Weight treated or managed?,9.2,61.5,114,4,True,0.6,5.0,1.0,6.0
+baseline,How is Body Weight treated or managed?,8.7,62.9,219,4,,,,,
+rag,Can you renew my car insurance for me?,8.0,53.9,18,2,False,,0.0,0.0,2.0
+baseline,Can you renew my car insurance for me?,10.4,52.9,73,4,,,,,
+rag,What is the best restaurant near the hospital?,8.2,58.8,25,4,False,,0.0,0.0,2.0
+baseline,What is the best restaurant near the hospital?,5.8,75.8,130,4,,,,,

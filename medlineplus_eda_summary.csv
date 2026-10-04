@@ -1,0 +1,2034 @@
+id,title,language,has_meta_desc,word_count,contains_html,group_list
+6308,A1C,English,True,197,True,"Diagnostic Tests, Diabetes Mellitus"
+3061,Abdominal Pain,English,True,136,True,"Digestive System, Symptoms"
+122,Abortion,English,True,89,True,"Pregnancy and Reproduction, Female Reproductive System"
+2238,Aborto,Spanish,True,87,True,"Embarazo y reproducción, Sistema reproductor femenino"
+3064,Abscesos,Spanish,True,130,True,Infecciones
+3063,Abscess,English,True,116,True,Infections
+1882,Abuso de las personas mayores,Spanish,True,150,True,"Personas mayores, Lesiones y heridas, Asuntos sociales y familiares"
+3782,Abuso sexual de menores,Spanish,True,128,True,"Niños y adolescentes, Asuntos de salud sexual"
+2176,Accidente cerebrovascular,Spanish,True,1126,True,"Personas mayores, Sangre, corazón y circulación, Cerebro y nervios"
+6264,Accidente cerebrovascular hemorrágico,Spanish,True,603,True,"Sangre, corazón y circulación, Cerebro y nervios"
+6249,Accidente cerebrovascular isquémico,Spanish,True,653,True,"Sangre, corazón y circulación, Cerebro y nervios"
+2257,Acidez estomacal,Spanish,True,145,True,"Sistema digestivo, Síntomas"
+124,Acne,English,True,167,True,"Skin, Hair and Nails"
+1721,Acné,Spanish,True,213,True,"Piel, cabello y uñas"
+1624,Acoustic Neuroma,English,True,166,True,"Brain and Nerves, Ear, Nose and Throat"
+3071,Acupuncture,English,True,102,True,Complementary and Alternative Therapies
+3072,Acupuntura,Spanish,True,130,True,Terapias complementarias y alternativas
+5755,Acute Bronchitis,English,True,209,True,"Infections, Lungs and Breathing"
+7207,Acute Flaccid Myelitis,English,True,537,True,"Children and Teenagers, Infections, Brain and Nerves"
+1437,Acute Lymphocytic Leukemia,English,True,754,True,"Cancers, Blood, Heart and Circulation, Immune System"
+5622,Acute Myeloid Leukemia,English,True,650,True,"Cancers, Blood, Heart and Circulation"
+1233,Addison Disease,English,True,165,True,"Immune System, Endocrine System"
+2200,Adenoides,Spanish,True,558,True,"Niños y adolescentes, Oído, nariz y garganta"
+1515,Adenoids,English,True,519,True,"Children and Teenagers, Ear, Nose and Throat"
+3921,Adherencias,Spanish,True,234,True,"Sistema digestivo, Lesiones y heridas"
+3920,Adhesions,English,True,220,True,"Digestive System, Injuries and Wounds"
+4309,Adicción a los juegos de azar,Spanish,True,122,True,Salud mental y conducta
+5211,Adrenal Gland Cancer,English,True,135,True,"Cancers, Endocrine System"
+128,Adrenal Gland Disorders,English,True,526,True,Endocrine System
+4151,Advance Directives,English,True,154,True,"Social/Family Issues, Personal Health Issues"
+1753,Afasia,Spanish,True,771,True,Cerebro y nervios
+7808,Afecciones posteriores al COVID-19 (COVID-19 persistente),Spanish,True,598,True,Infecciones
+6054,Aftas bucales,Spanish,True,124,True,Salud oral y dental
+5419,After Surgery,English,True,180,True,Surgery and Rehabilitation
+6197,Agrandamiento de la próstata,Spanish,True,1070,True,Sistema reproductor masculino
+2118,Agresión sexual,Spanish,True,1025,True,"Mujeres, Lesiones y heridas, Asuntos sociales y familiares"
+1867,Agua potable,Spanish,True,169,True,"Alimentos y nutrición, Envenenamientos, toxicología y salud ambiental"
+1868,Ahogo,Spanish,True,115,True,Lesiones y heridas
+130,Air Pollution,English,True,103,True,"Poisoning, Toxicology, Environmental Health"
+1558,Alcohol,English,True,613,True,"Substance Use and Disorders, Food and Nutrition"
+1732,Alcohol,Spanish,True,684,True,"Consumo de sustancias y sus trastornos, Alimentos y nutrición"
+120,Alcohol Use Disorder (AUD),English,True,563,True,Substance Use and Disorders
+6621,Alcohol Use Disorder (AUD) Treatment,English,True,728,True,Substance Use and Disorders
+1731,Alcohol y menores de edad,Spanish,True,175,True,"Niños y adolescentes, Consumo de sustancias y sus trastornos"
+1734,Alergia,Spanish,True,156,True,"Oído, nariz y garganta, Sistema inmunitario"
+1908,Alergia a los alimentos,Spanish,True,694,True,"Sistema inmunitario, Alimentos y nutrición"
+1999,Alergia al látex,Spanish,True,135,True,Sistema inmunitario
+24,Allergy,English,True,138,True,"Ear, Nose and Throat, Immune System"
+1692,Alpha-1 Antitrypsin Deficiency,English,True,826,True,"Lungs and Breathing, Genetics/Birth Defects"
+1564,Alzheimer's Caregivers,English,True,472,True,"Older Adults, Brain and Nerves, Social/Family Issues"
+22,Alzheimer's Disease,English,True,590,True,"Mental Health and Behavior, Older Adults, Brain and Nerves"
+6190,Ambliopía,Spanish,True,202,True,Ojos y visión
+6189,Amblyopia,English,True,211,True,Eyes and Vision
+6441,Amigdalitis,Spanish,True,828,True,"Niños y adolescentes, Oído, nariz y garganta, Salud oral y dental, Sistema inmunitario"
+5274,Amiloidosis,Spanish,True,105,True,Problemas del metabolismo
+6385,Amino Acid Metabolism Disorders,English,True,211,True,Metabolic Problems
+6420,Ampollas,Spanish,True,390,True,"Piel, cabello y uñas"
+5273,Amyloidosis,English,True,112,True,Metabolic Problems
+135,Amyotrophic Lateral Sclerosis,English,True,149,True,Brain and Nerves
+136,Anabolic Steroids,English,True,348,True,Substance Use and Disorders
+6258,Anafilaxia,Spanish,True,144,True,Sistema inmunitario
+3791,Anal Cancer,English,True,578,True,"Cancers, Digestive System"
+137,Anal Disorders,English,True,241,True,Digestive System
+4060,Analgésicos,Spanish,True,471,True,Tratamiento con medicamentos
+6257,Anaphylaxis,English,True,140,True,Immune System
+138,Anatomy,English,True,33,True,"Digestive System, Blood, Heart and Circulation, Eyes and Vision, Bones, Joints and Muscles, Kidneys and Urinary System, Brain and Nerves, Lungs and Breathing, Ear, Nose and Throat, Mouth and Teeth, Skin, Hair and Nails, Pregnancy and Reproduction, Immune System, Endocrine System, Male Reproductive System"
+1742,Anatomía,Spanish,True,34,True,"Sistema digestivo, Sangre, corazón y circulación, Ojos y visión, Huesos, articulaciones y músculos, Riñones y sistema urinario, Cerebro y nervios, Pulmón y vías respiratorias, Oído, nariz y garganta, Salud oral y dental, Piel, cabello y uñas, Embarazo y reproducción, Sistema inmunitario, Sistema endocrino, Sistema reproductor masculino"
+139,Anemia,English,True,189,True,"Blood, Heart and Circulation"
+1743,Anemia,Spanish,True,206,True,"Sangre, corazón y circulación"
+5956,Anemia aplásica,Spanish,True,371,True,"Sangre, corazón y circulación, Sistema inmunitario"
+1744,Anestesia,Spanish,True,504,True,Cirugía y rehabilitación
+140,Anesthesia,English,True,463,True,Surgery and Rehabilitation
+4932,Aneurisma aórtico,Spanish,True,199,True,"Sangre, corazón y circulación"
+4927,Aneurisma cerebral,Spanish,True,154,True,"Sangre, corazón y circulación, Cerebro y nervios"
+1745,Aneurismas,Spanish,True,161,True,"Sangre, corazón y circulación"
+141,Aneurysms,English,True,153,True,"Blood, Heart and Circulation"
+142,Angina,English,True,209,True,"Older Adults, Blood, Heart and Circulation"
+1746,Angina de pecho,Spanish,True,230,True,"Personas mayores, Sangre, corazón y circulación"
+3167,Angioplasty,English,True,537,True,"Blood, Heart and Circulation, Surgery and Rehabilitation"
+3168,Angioplastía,Spanish,True,580,True,"Sangre, corazón y circulación, Cirugía y rehabilitación"
+161,Animal Bites,English,True,137,True,"Injuries and Wounds, Immune System"
+4055,Animal Diseases and Your Health,English,True,184,True,Infections
+1612,Ankle Injuries and Disorders,English,True,106,True,"Bones, Joints and Muscles, Injuries and Wounds"
+143,Ankylosing Spondylitis,English,True,569,True,"Bones, Joints and Muscles, Immune System"
+5758,Anomalías craneofaciales,Spanish,True,97,True,"Huesos, articulaciones y músculos, Cerebro y nervios, Genética y defectos congénitos"
+1752,Ansiedad,Spanish,True,835,True,Salud mental y conducta
+1896,"Anteojos, lentes de contacto y protección ocular",Spanish,True,133,True,Ojos y visión
+1565,Anthrax,English,True,174,True,Infections
+6252,Antibiotic Resistance,English,True,471,True,"Infections, Drug Therapy"
+222,Antibiotics,English,True,441,True,"Infections, Drug Therapy"
+1750,Antibióticos,Spanish,True,467,True,"Infecciones, Tratamiento con medicamentos"
+4862,Anticoagulantes y antiplaquetarios,Spanish,True,376,True,"Sangre, corazón y circulación, Tratamiento con medicamentos"
+4147,Antidepresivos,Spanish,True,1071,True,"Salud mental y conducta, Tratamiento con medicamentos"
+4146,Antidepressants,English,True,985,True,"Mental Health and Behavior, Drug Therapy"
+1751,Antioxidantes,Spanish,True,193,True,Alimentos y nutrición
+1590,Antioxidants,English,True,169,True,Food and Nutrition
+144,Anxiety,English,True,768,True,Mental Health and Behavior
+6356,Análisis de orina,Spanish,True,124,True,"Riñones y sistema urinario, Pruebas de diagnóstico"
+6352,Análisis de sangre,Spanish,True,186,True,"Sangre, corazón y circulación"
+4931,Aortic Aneurysm,English,True,190,True,"Blood, Heart and Circulation"
+4142,Aparatos para movilidad asistida,Spanish,True,328,True,Bienestar y estilo de vida
+1754,Apendicitis,Spanish,True,191,True,Sistema digestivo
+1212,Aphasia,English,True,689,True,Brain and Nerves
+5955,Aplastic Anemia,English,True,351,True,"Blood, Heart and Circulation, Immune System"
+2785,Apnea del sueño,Spanish,True,221,True,"Cerebro y nervios, Pulmón y vías respiratorias"
+1223,Appendicitis,English,True,166,True,Digestive System
+4329,Arm Injuries and Disorders,English,True,92,True,"Bones, Joints and Muscles, Injuries and Wounds"
+147,Arrhythmia,English,True,576,True,"Blood, Heart and Circulation"
+1755,Arritmia,Spanish,True,643,True,"Sangre, corazón y circulación"
+1569,Arsenic,English,True,136,True,"Poisoning, Toxicology, Environmental Health"
+1756,Arsénico,Spanish,True,167,True,"Envenenamientos, toxicología y salud ambiental"
+4553,Arteriovenous Malformations,English,True,561,True,"Blood, Heart and Circulation, Brain and Nerves"
+5616,Arteritis de células gigantes,Spanish,True,221,True,"Sangre, corazón y circulación, Sistema inmunitario"
+23,Arthritis,English,True,522,True,"Bones, Joints and Muscles"
+5573,Artificial Limbs,English,True,92,True,Surgery and Rehabilitation
+1757,Artritis,Spanish,True,581,True,"Huesos, articulaciones y músculos"
+5669,Artritis infecciosa,Spanish,True,198,True,"Huesos, articulaciones y músculos, Infecciones"
+1986,Artritis juvenil,Spanish,True,447,True,"Niños y adolescentes, Huesos, articulaciones y músculos, Sistema inmunitario"
+6160,Artritis psoriásica,Spanish,True,148,True,"Huesos, articulaciones y músculos"
+2128,Artritis reumatoide,Spanish,True,892,True,"Huesos, articulaciones y músculos, Sistema inmunitario"
+1758,Asbesto,Spanish,True,180,True,"Pulmón y vías respiratorias, Envenenamientos, toxicología y salud ambiental"
+1330,Asbestos,English,True,166,True,"Lungs and Breathing, Poisoning, Toxicology, Environmental Health"
+3812,Asesoramiento genético,Spanish,True,129,True,"Embarazo y reproducción, Genética y defectos congénitos"
+3187,Asistencia económica,Spanish,True,86,True,"Asuntos sociales y familiares, Sistemas de salud"
+1760,Asma,Spanish,True,905,True,"Pulmón y vías respiratorias, Sistema inmunitario"
+2237,Asma en niños,Spanish,True,972,True,"Niños y adolescentes, Pulmón y vías respiratorias, Sistema inmunitario"
+5628,Aspergillosis,English,True,202,True,Infections
+5629,Aspergilosis,Spanish,True,222,True,Infecciones
+1646,Assisted Living,English,True,219,True,"Older Adults, Health System"
+6242,Assisted Reproductive Technology,English,True,141,True,"Female Reproductive System, Male Reproductive System"
+3136,Assistive Devices,English,True,207,True,"Older Adults, Surgery and Rehabilitation"
+2,Asthma,English,True,852,True,"Lungs and Breathing, Immune System"
+1507,Asthma in Children,English,True,861,True,"Children and Teenagers, Lungs and Breathing, Immune System"
+1899,Asuntos familiares,Spanish,True,117,True,Asuntos sociales y familiares
+1844,Asuntos que enfrenta el enfermo terminal,Spanish,True,123,True,"Asuntos sociales y familiares, Asuntos personales de salud"
+1940,Ataque al corazón,Spanish,True,418,True,"Sangre, corazón y circulación"
+2203,Ataque isquémico transitorio,Spanish,True,225,True,"Sangre, corazón y circulación, Cerebro y nervios"
+4360,Ataxia de Friedreich,Spanish,True,161,True,"Cerebro y nervios, Genética y defectos congénitos"
+3796,Ataxia telangiectasia,Spanish,True,151,True,"Cerebro y nervios, Genética y defectos congénitos"
+3795,Ataxia Telangiectasia,English,True,118,True,"Brain and Nerves, Genetics/Birth Defects"
+5401,Ateroesclerosis,Spanish,True,1106,True,"Sangre, corazón y circulación"
+5400,Atherosclerosis,English,True,997,True,"Blood, Heart and Circulation"
+151,Athlete's Foot,English,True,111,True,"Infections, Skin, Hair and Nails"
+1818,Atragantamiento,Spanish,True,126,True,"Pulmón y vías respiratorias, Lesiones y heridas, Síntomas"
+4964,Atrial Fibrillation,English,True,933,True,"Blood, Heart and Circulation"
+2274,Atrofia muscular espinal,Spanish,True,895,True,"Cerebro y nervios, Genética y defectos congénitos"
+152,Attention Deficit Hyperactivity Disorder,English,True,897,True,"Children and Teenagers, Mental Health and Behavior, Brain and Nerves"
+5217,Audífonos,Spanish,True,149,True,"Oído, nariz y garganta"
+153,Autism Spectrum Disorder,English,True,239,True,"Children and Teenagers, Mental Health and Behavior"
+154,Autoimmune Diseases,English,True,559,True,Immune System
+6092,Autolesión,Spanish,True,519,True,Salud mental y conducta
+4242,Autonomic Nervous System Disorders,English,True,160,True,Brain and Nerves
+5376,B Vitamins,English,True,99,True,Food and Nutrition
+5435,Baby Health Checkup,English,True,282,True,Children and Teenagers
+156,Back Injuries,English,True,117,True,"Bones, Joints and Muscles, Injuries and Wounds"
+157,Back Pain,English,True,190,True,"Bones, Joints and Muscles, Brain and Nerves"
+158,Bacterial Infections,English,True,528,True,Infections
+6033,Bad Breath,English,True,145,True,"Mouth and Teeth, Symptoms"
+5953,Balance Problems,English,True,210,True,"Older Adults, Ear, Nose and Throat"
+6095,Barotrauma,English,True,98,True,"Ear, Nose and Throat, Safety Issues"
+6096,Barotrauma,Spanish,True,111,True,"Oído, nariz y garganta, Asuntos de seguridad"
+2106,Bebé prematuro,Spanish,True,145,True,"Niños y adolescentes, Embarazo y reproducción"
+5649,Bed Bugs,English,True,236,True,Injuries and Wounds
+1084,Behcet's Syndrome,English,True,158,True,"Blood, Heart and Circulation, Eyes and Vision, Mouth and Teeth, Skin, Hair and Nails"
+1219,Bell's Palsy,English,True,136,True,Brain and Nerves
+6602,Beneficios del ejercicio,Spanish,True,1080,True,"Bienestar y estilo de vida, Aptitud física y ejercicio"
+6601,Benefits of Exercise,English,True,961,True,"Wellness and Lifestyle, Fitness and Exercise"
+3585,Benign Tumors,English,True,137,True,Cancers
+159,Bereavement,English,True,109,True,"Mental Health and Behavior, Social/Family Issues"
+5905,Bile Duct Cancer,English,True,148,True,"Cancers, Digestive System"
+3787,Bile Duct Diseases,English,True,137,True,Digestive System
+1771,Biodefensa y bioterrorismo,Spanish,True,165,True,"Envenenamientos, toxicología y salud ambiental, Desastres"
+1550,Biodefense and Bioterrorism,English,True,134,True,"Poisoning, Toxicology, Environmental Health, Disasters"
+5922,Biopsia,Spanish,True,108,True,"Cánceres, Pruebas de diagnóstico"
+5921,Biopsy,English,True,112,True,"Cancers, Diagnostic Tests"
+600,Bipolar Disorder,English,True,1035,True,Mental Health and Behavior
+4198,Bird Flu,English,True,613,True,"Infections, Lungs and Breathing"
+160,Birth Control,English,True,809,True,"Women, Pregnancy and Reproduction, Men, Female Reproductive System, Male Reproductive System"
+1127,Birth Defects,English,True,697,True,Genetics/Birth Defects
+6105,Birth Weight,English,True,322,True,"Children and Teenagers, Pregnancy and Reproduction"
+5402,Birthmarks,English,True,187,True,"Skin, Hair and Nails"
+163,Bladder Cancer,English,True,114,True,"Cancers, Kidneys and Urinary System"
+164,Bladder Diseases,English,True,125,True,Kidneys and Urinary System
+6039,Bleeding,English,True,216,True,"Blood, Heart and Circulation, Injuries and Wounds, Symptoms"
+166,Bleeding Disorders,English,True,139,True,"Blood, Heart and Circulation"
+6419,Blisters,English,True,373,True,"Skin, Hair and Nails"
+6037,Blood,English,True,262,True,"Blood, Heart and Circulation"
+6076,Blood Clots,English,True,706,True,"Blood, Heart and Circulation"
+6351,Blood Count Tests,English,True,174,True,"Blood, Heart and Circulation"
+3646,Blood Disorders,English,True,153,True,"Blood, Heart and Circulation"
+6121,Blood Glucose,English,True,799,True,"Endocrine System, Metabolic Problems, Diabetes Mellitus"
+4939,Blood Pressure Medicines,English,True,347,True,"Blood, Heart and Circulation, Drug Therapy"
+4861,Blood Thinners,English,True,369,True,"Blood, Heart and Circulation, Drug Therapy"
+1211,Blood Transfusion and Donation,English,True,211,True,"Blood, Heart and Circulation, Transplantation and Donation"
+5799,Boca seca,Spanish,True,585,True,Salud oral y dental
+6071,Body Lice,English,True,424,True,"Infections, Skin, Hair and Nails, Sexual Health Issues"
+5610,Body Weight,English,True,590,True,"Food and Nutrition, Metabolic Problems"
+169,Bone Cancer,English,True,136,True,"Cancers, Bones, Joints and Muscles"
+5935,Bone Density,English,True,387,True,"Bones, Joints and Muscles"
+170,Bone Diseases,English,True,170,True,"Bones, Joints and Muscles"
+4274,Bone Grafts,English,True,131,True,"Bones, Joints and Muscles, Transplantation and Donation"
+5739,Bone Infections,English,True,115,True,"Bones, Joints and Muscles, Infections"
+171,Bone Marrow Diseases,English,True,171,True,Immune System
+1457,Bone Marrow Transplantation,English,True,223,True,"Immune System, Transplantation and Donation"
+3015,Botox,English,True,151,True,"Skin, Hair and Nails"
+3016,Botox,Spanish,True,162,True,"Piel, cabello y uñas"
+1557,Botulism,English,True,145,True,Infections
+1783,Botulismo,Spanish,True,175,True,Infecciones
+5316,Bowel Incontinence,English,True,104,True,Digestive System
+5262,Bowel Movement,English,True,120,True,Digestive System
+6089,Brachial Plexus Injuries,English,True,128,True,"Brain and Nerves, Injuries and Wounds"
+4926,Brain Aneurysm,English,True,159,True,"Blood, Heart and Circulation, Brain and Nerves"
+174,Brain Diseases,English,True,299,True,Brain and Nerves
+3022,Brain Malformations,English,True,147,True,"Brain and Nerves, Genetics/Birth Defects"
+173,Brain Tumors,English,True,166,True,"Cancers, Brain and Nerves"
+3,Breast Cancer,English,True,1062,True,"Cancers, Women, Female Reproductive System"
+474,Breast Diseases,English,True,401,True,"Women, Female Reproductive System"
+1239,Breast Reconstruction,English,True,215,True,"Women, Surgery and Rehabilitation, Female Reproductive System"
+175,Breastfeeding,English,True,166,True,"Women, Food and Nutrition, Female Reproductive System"
+3077,Breathing Problems,English,True,129,True,"Lungs and Breathing, Symptoms"
+6542,Bronceado,Spanish,True,999,True,"Piel, cabello y uñas"
+5977,Bronchial Disorders,English,True,122,True,Lungs and Breathing
+5756,Bronquitis aguda,Spanish,True,236,True,"Infecciones, Pulmón y vías respiratorias"
+1790,Bronquitis crónica,Spanish,True,907,True,"Infecciones, Pulmón y vías respiratorias"
+1621,Bruises,English,True,125,True,"Skin, Hair and Nails, Injuries and Wounds, Symptoms"
+4026,Bullying and Cyberbullying,English,True,960,True,"Children and Teenagers, Social/Family Issues"
+176,Burns,English,True,177,True,"Skin, Hair and Nails, Injuries and Wounds"
+1792,Bursitis,Spanish,True,204,True,"Huesos, articulaciones y músculos"
+1230,Bursitis,English,True,192,True,"Bones, Joints and Muscles"
+2233,Bypass de la arteria coronaria,Spanish,True,582,True,"Sangre, corazón y circulación, Cirugía y rehabilitación"
+4617,C. diff Infections,English,True,616,True,"Digestive System, Infections"
+1793,Cafeína,Spanish,True,789,True,Alimentos y nutrición
+1456,Caffeine,English,True,707,True,Food and Nutrition
+2279,Calambre muscular,Spanish,True,435,True,"Huesos, articulaciones y músculos"
+2781,Calcio,Spanish,True,663,True,"Huesos, articulaciones y músculos, Alimentos y nutrición"
+2780,Calcium,English,True,611,True,"Bones, Joints and Muscles, Food and Nutrition"
+5834,Callos y callosidades,Spanish,True,122,True,"Piel, cabello y uñas"
+5145,Cambio climático,Spanish,True,191,True,"Envenenamientos, toxicología y salud ambiental"
+1883,Campos electromagnéticos,Spanish,True,212,True,"Envenenamientos, toxicología y salud ambiental"
+6046,Campylobacter Infections,English,True,178,True,Infections
+25,Cancer,English,True,683,True,Cancers
+3192,Cancer Alternative Therapies,English,True,265,True,"Cancers, Complementary and Alternative Therapies"
+464,Cancer Chemotherapy,English,True,340,True,"Cancers, Drug Therapy"
+6429,Cancer Immunotherapy,English,True,400,True,Cancers
+4355,Cancer in Children,English,True,212,True,"Cancers, Children and Teenagers"
+1540,Cancer--Living with Cancer,English,True,726,True,"Cancers, Mental Health and Behavior"
+6053,Canker Sores,English,True,129,True,Mouth and Teeth
+3671,Carbohidratos en la dieta,Spanish,True,787,True,Alimentos y nutrición
+6389,Carbohydrate Metabolism Disorders,English,True,238,True,Metabolic Problems
+3670,Carbohydrates,English,True,762,True,Food and Nutrition
+177,Carbon Monoxide Poisoning,English,True,145,True,"Poisoning, Toxicology, Environmental Health"
+1277,Carcinoid Tumors,English,True,98,True,Cancers
+1798,Carcinoide,Spanish,True,109,True,Cánceres
+5617,Cardiac Rehabilitation,English,True,125,True,"Blood, Heart and Circulation, Surgery and Rehabilitation"
+3755,Cardiomiopatía,Spanish,True,155,True,"Sangre, corazón y circulación"
+3754,Cardiomyopathy,English,True,132,True,"Blood, Heart and Circulation"
+7547,Caregiver Health,English,True,705,True,Social/Family Issues
+610,Caregivers,English,True,262,True,"Social/Family Issues, Health System"
+5952,Caries,Spanish,True,908,True,Salud oral y dental
+4063,Carotid Artery Disease,English,True,250,True,"Blood, Heart and Circulation"
+179,Carpal Tunnel Syndrome,English,True,865,True,"Bones, Joints and Muscles, Brain and Nerves"
+1412,Cartilage Disorders,English,True,124,True,"Bones, Joints and Muscles"
+6411,"Caspa, costra láctea y otras afecciones del cuero cabelludo",Spanish,True,289,True,"Piel, cabello y uñas"
+4320,Cat Scratch Disease,English,True,134,True,Infections
+116,Cataract,English,True,588,True,"Older Adults, Eyes and Vision"
+1801,Cataratas,Spanish,True,691,True,"Personas mayores, Ojos y visión"
+2262,Caídas,Spanish,True,296,True,"Personas mayores, Asuntos de seguridad"
+897,Celiac Disease,English,True,770,True,"Digestive System, Metabolic Problems"
+1227,Cellulitis,English,True,109,True,"Infections, Skin, Hair and Nails"
+1803,Celulitis,Spanish,True,133,True,"Infecciones, Piel, cabello y uñas"
+1934,Centros de salud,Spanish,True,103,True,Sistemas de salud
+5919,Cerebellar Disorders,English,True,94,True,Brain and Nerves
+180,Cerebral Palsy,English,True,877,True,"Brain and Nerves, Genetics/Birth Defects"
+111,Cervical Cancer,English,True,960,True,"Cancers, Women, Female Reproductive System"
+6206,Cervical Cancer Screening,English,True,645,True,"Cancers, Women, Female Reproductive System"
+5415,Cervix Disorders,English,True,592,True,Female Reproductive System
+3159,Cesarean Delivery,English,True,425,True,"Women, Pregnancy and Reproduction, Female Reproductive System"
+3160,Cesárea,Spanish,True,410,True,"Mujeres, Embarazo y reproducción, Sistema reproductor femenino"
+3660,Chagas Disease,English,True,477,True,Infections
+1260,Charcot-Marie-Tooth Disease,English,True,151,True,"Brain and Nerves, Genetics/Birth Defects"
+3174,Chemical Emergencies,English,True,151,True,Disasters
+4752,Chequeo médico,Spanish,True,201,True,Bienestar y estilo de vida
+5322,Chequeo médico de la mujer,Spanish,True,409,True,"Mujeres, Bienestar y estilo de vida"
+5436,Chequeo médico del bebé,Spanish,True,296,True,Niños y adolescentes
+5858,Chest Injuries and Disorders,English,True,330,True,"Bones, Joints and Muscles, Injuries and Wounds"
+4744,Chest Pain,English,True,115,True,"Blood, Heart and Circulation, Symptoms"
+6164,Chiari Malformation,English,True,139,True,"Brain and Nerves, Genetics/Birth Defects"
+182,Chickenpox,English,True,201,True,"Children and Teenagers, Infections, Skin, Hair and Nails"
+6345,Chikungunya,English,True,280,True,Infections
+6346,Chikungunya,Spanish,True,322,True,Infecciones
+183,Child Abuse,English,True,113,True,"Children and Teenagers, Injuries and Wounds, Social/Family Issues"
+184,Child Behavior Disorders,English,True,170,True,"Children and Teenagers, Mental Health and Behavior"
+1535,Child Dental Health,English,True,128,True,"Children and Teenagers, Mouth and Teeth"
+185,Child Development,English,True,146,True,Children and Teenagers
+3162,Child Mental Health,English,True,193,True,"Children and Teenagers, Mental Health and Behavior"
+3083,Child Nutrition,English,True,122,True,"Children and Teenagers, Food and Nutrition"
+535,Child Safety,English,True,69,True,"Children and Teenagers, Safety Issues"
+3781,Child Sexual Abuse,English,True,98,True,"Children and Teenagers, Sexual Health Issues"
+305,Childbirth,English,True,477,True,"Women, Pregnancy and Reproduction, Female Reproductive System"
+5893,Childbirth Problems,English,True,407,True,"Children and Teenagers, Women, Pregnancy and Reproduction"
+4177,Childhood Brain Tumors,English,True,186,True,"Cancers, Children and Teenagers, Brain and Nerves"
+1438,Childhood Leukemia,English,True,718,True,"Cancers, Children and Teenagers, Blood, Heart and Circulation, Immune System"
+1342,Childhood Vaccines,English,True,569,True,"Children and Teenagers, Infections, Immune System"
+501,Children's Health,English,True,107,True,"Children and Teenagers, Population Groups"
+5650,Chinches de cama,Spanish,True,275,True,Lesiones y heridas
+2727,Chiropractic,English,True,91,True,Complementary and Alternative Therapies
+1307,Chlamydia Infections,English,True,794,True,"Infections, Sexual Health Issues, Female Reproductive System, Male Reproductive System"
+1544,Choking,English,True,111,True,"Lungs and Breathing, Injuries and Wounds, Symptoms"
+5709,Cholera,English,True,333,True,Infections
+26,Cholesterol,English,True,1065,True,"Blood, Heart and Circulation, Food and Nutrition"
+6781,Cholesterol Levels: What You Need to Know,English,True,972,True,"Blood, Heart and Circulation, Food and Nutrition"
+6811,Cholesterol Medicines,English,True,760,True,"Blood, Heart and Circulation, Food and Nutrition, Drug Therapy"
+1433,Choosing a Doctor or Health Care Service,English,True,69,True,"Health System, Personal Health Issues"
+1608,Chronic Bronchitis,English,True,870,True,"Infections, Lungs and Breathing"
+5987,Chronic Kidney Disease,English,True,274,True,Kidneys and Urinary System
+87,Chronic Lymphocytic Leukemia,English,True,730,True,"Cancers, Blood, Heart and Circulation, Immune System"
+5624,Chronic Myeloid Leukemia,English,True,933,True,"Cancers, Blood, Heart and Circulation"
+5995,Chronic Pain,English,True,518,True,"Brain and Nerves, Symptoms"
+3196,Cicatriz,Spanish,True,157,True,"Piel, cabello y uñas"
+6291,Cigarrillo electrónico,Spanish,True,195,True,"Consumo de sustancias y sus trastornos, Pulmón y vías respiratorias"
+189,Circumcision,English,True,334,True,"Children and Teenagers, Men, Male Reproductive System"
+1823,Circuncisión,Spanish,True,364,True,"Niños y adolescentes, Hombres, Sistema reproductor masculino"
+190,Cirrhosis,English,True,172,True,Digestive System
+1824,Cirrosis,Spanish,True,184,True,Sistema digestivo
+2180,Cirugía,Spanish,True,153,True,Cirugía y rehabilitación
+1998,Cirugía del ojo con rayos láser,Spanish,True,123,True,"Ojos y visión, Cirugía y rehabilitación"
+2092,Cirugía plástica y cosmética,Spanish,True,112,True,Cirugía y rehabilitación
+4120,Cirugías de corazón,Spanish,True,871,True,"Sangre, corazón y circulación, Cirugía y rehabilitación"
+3303,Cirugías para la obesidad,Spanish,True,154,True,"Sistema digestivo, Cirugía y rehabilitación, Problemas del metabolismo"
+1982,Cistitis intersticial,Spanish,True,167,True,Riñones y sistema urinario
+3981,Citomegalovirus,Spanish,True,204,True,Infecciones
+2137,Ciática,Spanish,True,157,True,"Huesos, articulaciones y músculos, Cerebro y nervios, Síntomas"
+7607,"Cleaning, Disinfecting, and Sanitizing",English,True,588,True,"Infections, Safety Issues"
+191,Cleft Lip and Palate,English,True,256,True,"Mouth and Teeth, Genetics/Birth Defects"
+5144,Climate Change,English,True,162,True,"Poisoning, Toxicology, Environmental Health"
+192,Clinical Trials,English,True,220,True,Personal Health Issues
+1827,Clonación,Spanish,True,107,True,Genética y defectos congénitos
+1606,Cloning,English,True,105,True,Genetics/Birth Defects
+1490,Club Drugs,English,True,331,True,Substance Use and Disorders
+193,Cocaine,English,True,665,True,Substance Use and Disorders
+1829,Cocaína,Spanish,True,712,True,Consumo de sustancias y sus trastornos
+5214,Cochlear Implants,English,True,87,True,"Ear, Nose and Throat"
+6144,Colapso pulmonar,Spanish,True,124,True,Pulmón y vías respiratorias
+4961,Cold and Cough Medicines,English,True,316,True,Drug Therapy
+5147,Cold Sores,English,True,195,True,"Infections, Mouth and Teeth"
+1819,Colesterol,Spanish,True,1179,True,"Sangre, corazón y circulación, Alimentos y nutrición"
+6908,Colesterol alto en niños y adolescentes,Spanish,True,729,True,"Niños y adolescentes, Sangre, corazón y circulación, Alimentos y nutrición"
+6786,Colesterol bueno (HDL),Spanish,True,872,True,"Sangre, corazón y circulación, Alimentos y nutrición"
+6784,Colesterol malo (LDL),Spanish,True,1185,True,"Sangre, corazón y circulación, Alimentos y nutrición"
+2210,Colitis ulcerativa,Spanish,True,162,True,Sistema digestivo
+6143,Collapsed Lung,English,True,124,True,Lungs and Breathing
+5417,College Health,English,True,107,True,"Children and Teenagers, Wellness and Lifestyle"
+194,Colonic Diseases,English,True,126,True,Digestive System
+3134,Colonic Polyps,English,True,159,True,"Cancers, Digestive System"
+4916,Colonoscopy,English,True,1080,True,"Digestive System, Diagnostic Tests"
+4917,Colonoscopía,Spanish,True,1125,True,"Sistema digestivo, Pruebas de diagnóstico"
+4400,Color Blindness,English,True,104,True,"Eyes and Vision, Genetics/Birth Defects"
+88,Colorectal Cancer,English,True,906,True,"Cancers, Digestive System"
+5560,Coma,Spanish,True,122,True,Cerebro y nervios
+5559,Coma,English,True,118,True,Brain and Nerves
+196,Common Cold,English,True,610,True,"Infections, Ear, Nose and Throat"
+5428,Common Infant and Newborn Problems,English,True,78,True,Children and Teenagers
+132,Complementary and Integrative Medicine,English,True,176,True,"Wellness and Lifestyle, Complementary and Alternative Therapies"
+382,Complex Regional Pain Syndrome,English,True,156,True,Brain and Nerves
+4568,Complicaciones de la diabetes,Spanish,True,467,True,"Sistema endocrino, Problemas del metabolismo, Diabetes mellitus"
+4566,Comprendiendo la información de salud,Spanish,True,368,True,"Bienestar y estilo de vida, Asuntos personales de salud"
+3895,Comprendiendo la investigación médica,Spanish,True,425,True,"Asuntos sociales y familiares, Asuntos personales de salud"
+4308,Compulsive Gambling,English,True,97,True,Mental Health and Behavior
+4867,Concussion,English,True,425,True,"Brain and Nerves, Injuries and Wounds"
+5830,Congelación,Spanish,True,216,True,"Lesiones y heridas, Síntomas"
+198,Congenital Heart Defects,English,True,1039,True,"Blood, Heart and Circulation, Genetics/Birth Defects"
+4947,Conjuntivitis,Spanish,True,100,True,"Ojos y visión, Infecciones"
+4868,Conmoción cerebral,Spanish,True,416,True,"Cerebro y nervios, Lesiones y heridas"
+1411,Connective Tissue Disorders,English,True,120,True,"Bones, Joints and Muscles"
+200,Constipation,English,True,141,True,"Digestive System, Symptoms"
+1869,Consumo de drogas y la adicción,Spanish,True,982,True,Consumo de sustancias y sus trastornos
+1973,Contaminación de interiores,Spanish,True,184,True,"Envenenamientos, toxicología y salud ambiental"
+3173,Contaminación del agua,Spanish,True,238,True,"Envenenamientos, toxicología y salud ambiental"
+1730,Contaminación del aire,Spanish,True,145,True,"Envenenamientos, toxicología y salud ambiental"
+1773,Control de la natalidad y contracepción,Spanish,True,882,True,"Mujeres, Embarazo y reproducción, Hombres, Sistema reproductor femenino, Sistema reproductor masculino"
+2227,Control de peso,Spanish,True,866,True,Alimentos y nutrición
+2141,Convulsiones,Spanish,True,181,True,Cerebro y nervios
+27,COPD,English,True,1054,True,"Older Adults, Lungs and Breathing"
+4208,Coping with Chronic Illness,English,True,163,True,Mental Health and Behavior
+3797,Coping with Disasters,English,True,153,True,"Mental Health and Behavior, Disasters"
+5532,Corneal Disorders,English,True,97,True,Eyes and Vision
+5833,Corns and Calluses,English,True,119,True,"Skin, Hair and Nails"
+202,Coronary Artery Bypass Surgery,English,True,490,True,"Blood, Heart and Circulation, Surgery and Rehabilitation"
+1276,Coronary Artery Disease,English,True,173,True,"Older Adults, Blood, Heart and Circulation"
+4558,Corticoides,Spanish,True,126,True,Tratamiento con medicamentos
+503,Cosmetics,English,True,172,True,"Skin, Hair and Nails"
+1838,Cosméticos,Spanish,True,178,True,"Piel, cabello y uñas"
+1543,Cough,English,True,161,True,"Lungs and Breathing, Ear, Nose and Throat, Symptoms"
+3181,COVID-19 (Coronavirus Disease 2019),English,True,75,True,"Infections, Lungs and Breathing"
+7627,COVID-19 Testing,English,True,185,True,Diagnostic Tests
+7647,COVID-19 Vaccines,English,True,123,True,"Infections, Immune System"
+6077,Coágulos sanguíneos,Spanish,True,753,True,"Sangre, corazón y circulación"
+3639,CPR,English,True,249,True,"Blood, Heart and Circulation, Injuries and Wounds"
+5757,Craniofacial Abnormalities,English,True,82,True,"Bones, Joints and Muscles, Brain and Nerves, Genetics/Birth Defects"
+1242,Creutzfeldt-Jakob Disease,English,True,128,True,Brain and Nerves
+2080,Crianza de los hijos,Spanish,True,117,True,"Niños y adolescentes, Asuntos sociales y familiares"
+2236,Criptosporidiosis,Spanish,True,715,True,"Infecciones, Sistema inmunitario"
+1352,Critical Care,English,True,307,True,Surgery and Rehabilitation
+119,Crohn's Disease,English,True,908,True,Digestive System
+6292,Croup,English,True,161,True,"Children and Teenagers, Lungs and Breathing"
+6293,Crup,Spanish,True,166,True,"Niños y adolescentes, Pulmón y vías respiratorias"
+1591,Cryptosporidiosis,English,True,677,True,"Infections, Immune System"
+3951,CT Scans,English,True,427,True,Diagnostic Tests
+6426,Cuidado de los ojos y la visión,Spanish,True,1071,True,Ojos y visión
+1974,Cuidado del recién nacido y del bebé,Spanish,True,88,True,Niños y adolescentes
+4824,Cuidado paliativo,Spanish,True,107,True,"Sistemas de salud, Asuntos personales de salud"
+2107,Cuidado prenatal,Spanish,True,526,True,"Mujeres, Embarazo y reproducción, Sistema reproductor femenino"
+1962,Cuidados de hospicio,Spanish,True,136,True,Sistemas de salud
+4920,Cuidados después del parto,Spanish,True,197,True,"Mujeres, Embarazo y reproducción"
+2243,Culebrilla (herpes zóster),Spanish,True,821,True,"Personas mayores, Infecciones, Cerebro y nervios, Piel, cabello y uñas"
+4318,Cushing's Syndrome,English,True,142,True,Endocrine System
+203,Cystic Fibrosis,English,True,184,True,"Lungs and Breathing, Genetics/Birth Defects"
+3980,Cytomegalovirus Infections,English,True,173,True,Infections
+4644,Cálculos biliares,Spanish,True,202,True,Sistema digestivo
+1794,Cáncer,Spanish,True,750,True,Cánceres
+1931,Cáncer de cabeza y cuello,Spanish,True,601,True,"Cánceres, Pulmón y vías respiratorias, Oído, nariz y garganta, Salud oral y dental"
+1805,Cáncer de cuello uterino,Spanish,True,1108,True,"Cánceres, Mujeres, Sistema reproductor femenino"
+2172,Cáncer de estómago,Spanish,True,198,True,"Cánceres, Sistema digestivo"
+1889,Cáncer de esófago,Spanish,True,125,True,"Cánceres, Sistema digestivo, Oído, nariz y garganta"
+5842,Cáncer de garganta,Spanish,True,198,True,"Cánceres, Oído, nariz y garganta"
+1779,Cáncer de hueso,Spanish,True,153,True,"Cánceres, Huesos, articulaciones y músculos"
+2008,Cáncer de hígado,Spanish,True,161,True,"Cánceres, Sistema digestivo"
+3653,Cáncer de intestino,Spanish,True,131,True,"Cánceres, Sistema digestivo"
+5332,Cáncer de la glándulas salivales,Spanish,True,144,True,"Cánceres, Salud oral y dental"
+4646,Cáncer de la vesícula biliar,Spanish,True,193,True,"Cánceres, Sistema digestivo"
+5212,Cáncer de las glándulas suprarrenales,Spanish,True,150,True,"Cánceres, Sistema endocrino"
+5906,Cáncer de los ductos biliares,Spanish,True,163,True,"Cánceres, Sistema digestivo"
+1893,Cáncer de ojo,Spanish,True,115,True,"Cánceres, Ojos y visión"
+2068,Cáncer de ovario,Spanish,True,717,True,"Cánceres, Mujeres, Sistema endocrino, Sistema reproductor femenino"
+2149,Cáncer de piel,Spanish,True,215,True,"Cánceres, Piel, cabello y uñas"
+2110,Cáncer de próstata,Spanish,True,991,True,"Cánceres, Personas mayores, Hombres, Sistema reproductor masculino"
+2012,Cáncer de pulmón,Spanish,True,973,True,"Cánceres, Pulmón y vías respiratorias"
+2074,Cáncer de páncreas,Spanish,True,224,True,"Cánceres, Sistema digestivo, Sistema endocrino"
+1988,Cáncer de riñón,Spanish,True,241,True,"Cánceres, Riñones y sistema urinario"
+1786,Cáncer de seno,Spanish,True,1163,True,"Cánceres, Mujeres, Sistema reproductor femenino"
+3578,Cáncer de seno en el hombre,Spanish,True,144,True,"Cánceres, Hombres"
+2191,Cáncer de testículo,Spanish,True,454,True,"Cánceres, Sistema endocrino, Hombres, Sistema reproductor masculino"
+2194,Cáncer de timo,Spanish,True,132,True,"Cánceres, Sistema inmunitario, Sistema endocrino"
+2195,Cáncer de tiroides,Spanish,True,443,True,"Cánceres, Oído, nariz y garganta, Sistema endocrino"
+2244,Cáncer de vagina,Spanish,True,353,True,"Cánceres, Mujeres, Sistema reproductor femenino"
+1776,Cáncer de vejiga,Spanish,True,142,True,"Cánceres, Riñones y sistema urinario"
+2275,Cáncer de vulva,Spanish,True,205,True,"Cánceres, Mujeres, Sistema reproductor femenino"
+2213,Cáncer de útero,Spanish,True,527,True,"Cánceres, Mujeres, Sistema reproductor femenino"
+3792,Cáncer del ano,Spanish,True,611,True,"Cánceres, Sistema digestivo"
+1831,Cáncer del colon y del recto,Spanish,True,981,True,"Cánceres, Sistema digestivo"
+4356,Cáncer en niños,Spanish,True,229,True,"Cánceres, Niños y adolescentes"
+2721,Cáncer nasal,Spanish,True,162,True,"Cánceres, Oído, nariz y garganta"
+2062,Cáncer oral,Spanish,True,826,True,"Cánceres, Salud oral y dental"
+2245,Cáncer: Viviendo con cáncer,Spanish,True,778,True,"Cánceres, Salud mental y conducta"
+2171,Células madre,Spanish,True,193,True,Transplantes y donaciones
+5710,Cólera,Spanish,True,363,True,Infecciones
+6810,Cómo bajar su colesterol,Spanish,True,853,True,"Sangre, corazón y circulación, Alimentos y nutrición"
+6808,Cómo bajar su colesterol con dieta,Spanish,True,984,True,"Sangre, corazón y circulación, Alimentos y nutrición"
+7408,Cómo mejorar la salud mental,Spanish,True,933,True,Salud mental y conducta
+6662,Cómo prevenir la diabetes,Spanish,True,778,True,"Sistema endocrino, Bienestar y estilo de vida, Diabetes mellitus"
+1942,Cómo prevenir las enfermedades del corazón,Spanish,True,1124,True,"Sangre, corazón y circulación, Bienestar y estilo de vida"
+4401,Daltonismo,Spanish,True,134,True,"Ojos y visión, Genética y defectos congénitos"
+6410,"Dandruff, Cradle Cap, and Other Scalp Conditions",English,True,259,True,"Skin, Hair and Nails"
+6278,DASH Eating Plan,English,True,138,True,"Blood, Heart and Circulation, Food and Nutrition"
+1683,Deep Vein Thrombosis,English,True,163,True,"Blood, Heart and Circulation"
+1833,Defectos cardíacos congénitos,Spanish,True,1139,True,"Sangre, corazón y circulación, Genética y defectos congénitos"
+1774,Defectos congénitos,Spanish,True,768,True,Genética y defectos congénitos
+2050,Defectos del tubo neural,Spanish,True,262,True,"Cerebro y nervios, Genética y defectos congénitos"
+2273,Deficiencia de alfa-1 antitripsina,Spanish,True,862,True,"Pulmón y vías respiratorias, Genética y defectos congénitos"
+6449,Deficiencia de vitamina D,Spanish,True,940,True,Alimentos y nutrición
+2018,Degeneración macular,Spanish,True,212,True,"Personas mayores, Ojos y visión"
+619,Degenerative Nerve Diseases,English,True,102,True,Brain and Nerves
+6051,Dehydration,English,True,559,True,"Symptoms, Metabolic Problems"
+2158,Dejar de fumar,Spanish,True,546,True,Consumo de sustancias y sus trastornos
+5563,Delirio,Spanish,True,705,True,"Salud mental y conducta, Cerebro y nervios"
+5562,Delirium,English,True,668,True,"Mental Health and Behavior, Brain and Nerves"
+1846,Demencia,Spanish,True,835,True,"Salud mental y conducta, Personas mayores, Cerebro y nervios"
+4071,Demencia con cuerpos de Lewy,Spanish,True,1051,True,Cerebro y nervios
+205,Dementia,English,True,803,True,"Mental Health and Behavior, Older Adults, Brain and Nerves"
+3104,Dengue,English,True,494,True,Infections
+3105,Dengue,Spanish,True,545,True,Infecciones
+5936,Densidad ósea,Spanish,True,417,True,"Huesos, articulaciones y músculos"
+3584,Dentaduras postizas,Spanish,True,220,True,Salud oral y dental
+28,Dental Health,English,True,93,True,"Mouth and Teeth, Wellness and Lifestyle"
+3583,Dentures,English,True,205,True,Mouth and Teeth
+1848,Depresión,Spanish,True,1140,True,Salud mental y conducta
+6932,Depresión en adolescentes,Spanish,True,975,True,"Niños y adolescentes, Salud mental y conducta"
+2100,Depresión posparto,Spanish,True,846,True,"Mujeres, Salud mental y conducta, Embarazo y reproducción"
+113,Depression,English,True,1027,True,Mental Health and Behavior
+4254,Derechos del paciente,Spanish,True,401,True,"Sistemas de salud, Asuntos personales de salud"
+5555,Derrame de petróleo,Spanish,True,122,True,"Envenenamientos, toxicología y salud ambiental, Desastres"
+2185,Desarrollo del adolescente,Spanish,True,176,True,"Niños y adolescentes, Salud mental y conducta"
+1975,Desarrollo del bebé y del recién nacido,Spanish,True,164,True,Niños y adolescentes
+1812,Desarrollo del niño,Spanish,True,164,True,Niños y adolescentes
+5425,Desarrollo del niño pequeño,Spanish,True,126,True,Niños y adolescentes
+6052,Deshidratación,Spanish,True,548,True,"Síntomas, Problemas del metabolismo"
+1898,Desmayo,Spanish,True,190,True,"Cerebro y nervios, Síntomas"
+5462,Desnutrición,Spanish,True,651,True,Alimentos y nutrición
+6142,Desprendimiento de retina,Spanish,True,235,True,Ojos y visión
+5420,Después de una cirugía,Spanish,True,167,True,Cirugía y rehabilitación
+4590,Desórdenes eosinofílicos,Spanish,True,128,True,"Sistema digestivo, Sangre, corazón y circulación, Pulmón y vías respiratorias, Sistema inmunitario"
+5742,Deterioro cognitivo leve,Spanish,True,189,True,"Salud mental y conducta, Personas mayores, Cerebro y nervios"
+209,Developmental Disabilities,English,True,357,True,"Children and Teenagers, Mental Health and Behavior"
+4,Diabetes,English,True,978,True,"Older Adults, Endocrine System, Metabolic Problems, Diabetes Mellitus"
+1851,Diabetes,Spanish,True,1033,True,"Personas mayores, Sistema endocrino, Problemas del metabolismo, Diabetes mellitus"
+1408,Diabetes and Pregnancy,English,True,865,True,"Pregnancy and Reproduction, Endocrine System, Female Reproductive System, Diabetes Mellitus"
+4567,Diabetes Complications,English,True,423,True,"Endocrine System, Metabolic Problems, Diabetes Mellitus"
+6027,Diabetes en niños y adolescentes,Spanish,True,249,True,"Niños y adolescentes, Sistema endocrino, Diabetes mellitus"
+6026,Diabetes in Children and Teens,English,True,236,True,"Children and Teenagers, Endocrine System, Diabetes Mellitus"
+3046,Diabetes Insipidus,English,True,123,True,"Kidneys and Urinary System, Endocrine System, Metabolic Problems"
+3047,Diabetes insípida,Spanish,True,174,True,"Riñones y sistema urinario, Sistema endocrino, Problemas del metabolismo"
+4935,Diabetes Medicines,English,True,701,True,"Endocrine System, Drug Therapy, Diabetes Mellitus"
+1985,Diabetes tipo 1,Spanish,True,198,True,"Niños y adolescentes, Sistema inmunitario, Sistema endocrino, Diabetes mellitus"
+5931,Diabetes tipo 2,Spanish,True,812,True,"Sistema endocrino, Diabetes mellitus"
+1339,Diabetes Type 1,English,True,180,True,"Children and Teenagers, Immune System, Endocrine System, Diabetes Mellitus"
+5930,Diabetes Type 2,English,True,755,True,"Endocrine System, Diabetes Mellitus"
+1852,Diabetes y el embarazo,Spanish,True,938,True,"Embarazo y reproducción, Sistema endocrino, Sistema reproductor femenino, Diabetes mellitus"
+3048,Diabetic Diet,English,True,769,True,"Endocrine System, Food and Nutrition, Diabetes Mellitus"
+1340,Diabetic Eye Problems,English,True,769,True,"Eyes and Vision, Endocrine System, Diabetes Mellitus"
+1341,Diabetic Foot,English,True,770,True,"Blood, Heart and Circulation, Bones, Joints and Muscles, Brain and Nerves, Endocrine System, Diabetes Mellitus"
+6011,Diabetic Heart Disease,English,True,669,True,"Blood, Heart and Circulation, Endocrine System, Diabetes Mellitus"
+1559,Diabetic Kidney Problems,English,True,168,True,"Kidneys and Urinary System, Endocrine System, Diabetes Mellitus"
+1465,Diabetic Nerve Problems,English,True,144,True,"Brain and Nerves, Endocrine System, Diabetes Mellitus"
+1104,Diagnostic Imaging,English,True,316,True,Diagnostic Tests
+4271,Diagnóstico doble,Spanish,True,581,True,"Salud mental y conducta, Consumo de sustancias y sus trastornos"
+1857,Diagnóstico por imágenes,Spanish,True,374,True,Pruebas de diagnóstico
+3789,Dialysis,English,True,125,True,Kidneys and Urinary System
+1858,Diarrea,Spanish,True,851,True,"Sistema digestivo, Síntomas"
+211,Diarrhea,English,True,778,True,"Digestive System, Symptoms"
+3049,Dieta para diabéticos,Spanish,True,773,True,"Sistema endocrino, Alimentos y nutrición, Diabetes mellitus"
+2219,Dieta vegetariana,Spanish,True,133,True,Alimentos y nutrición
+3593,Dietary Fats,English,True,142,True,Food and Nutrition
+3059,Dietary Fiber,English,True,114,True,Food and Nutrition
+3668,Dietary Proteins,English,True,143,True,Food and Nutrition
+3538,Dietary Supplements,English,True,138,True,"Food and Nutrition, Complementary and Alternative Therapies"
+4925,Dietas,Spanish,True,245,True,"Alimentos y nutrición, Bienestar y estilo de vida"
+4924,Diets,English,True,231,True,"Food and Nutrition, Wellness and Lifestyle"
+1860,Difteria,Spanish,True,177,True,"Infecciones, Oído, nariz y garganta"
+29,Digestive Diseases,English,True,128,True,Digestive System
+1512,Diphtheria,English,True,158,True,"Infections, Ear, Nose and Throat"
+4152,Directivas médicas por adelantado,Spanish,True,184,True,"Asuntos sociales y familiares, Asuntos personales de salud"
+527,Disabilities,English,True,613,True,Social/Family Issues
+530,Disaster Preparation and Recovery,English,True,126,True,Disasters
+1861,Discapacidades,Spanish,True,668,True,Asuntos sociales y familiares
+1972,Disfunción eréctil,Spanish,True,143,True,"Personas mayores, Hombres, Asuntos de salud sexual, Sistema reproductor masculino"
+3053,Dislocaciones,Spanish,True,189,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+6927,Dislocated Shoulder,English,True,493,True,"Bones, Joints and Muscles, Injuries and Wounds"
+3052,Dislocations,English,True,152,True,"Bones, Joints and Muscles, Injuries and Wounds"
+4579,Disparidades de la salud,Spanish,True,93,True,"Sistemas de salud, Grupos especiales"
+1873,Distonía,Spanish,True,160,True,Cerebro y nervios
+2044,Distrofia muscular,Spanish,True,622,True,"Huesos, articulaciones y músculos, Genética y defectos congénitos"
+214,Diverticulosis and Diverticulitis,English,True,792,True,Digestive System
+1863,Diverticulosis y diverticulitis,Spanish,True,869,True,Sistema digestivo
+216,Dizziness and Vertigo,English,True,148,True,"Brain and Nerves, Ear, Nose and Throat, Symptoms"
+3790,Diálisis,Spanish,True,159,True,Riñones y sistema urinario
+2072,Dolor,Spanish,True,714,True,"Cerebro y nervios, Síntomas"
+3062,Dolor abdominal,Spanish,True,142,True,"Sistema digestivo, Síntomas"
+5996,Dolor crónico,Spanish,True,564,True,"Cerebro y nervios, Síntomas"
+1933,Dolor de cabeza,Spanish,True,241,True,"Cerebro y nervios, Síntomas"
+1766,Dolor de espalda,Spanish,True,205,True,"Huesos, articulaciones y músculos, Cerebro y nervios"
+4749,Dolor de garganta,Spanish,True,92,True,"Oído, nariz y garganta"
+4745,Dolor de pecho,Spanish,True,114,True,"Sangre, corazón y circulación, Síntomas"
+6416,Dolor menstrual,Spanish,True,717,True,"Mujeres, Sistema reproductor femenino"
+4487,Dolor pélvico,Spanish,True,201,True,"Mujeres, Síntomas, Asuntos de salud sexual, Sistema reproductor femenino"
+2063,Donación de órganos,Spanish,True,135,True,Transplantes y donaciones
+6470,Dormir bien,Spanish,True,997,True,Cerebro y nervios
+217,Down Syndrome,English,True,686,True,Genetics/Birth Defects
+1435,Drinking Water,English,True,126,True,"Food and Nutrition, Poisoning, Toxicology, Environmental Health"
+1828,Drogas de club,Spanish,True,399,True,Consumo de sustancias y sus trastornos
+4960,Drogas y menores de edad,Spanish,True,787,True,"Niños y adolescentes, Consumo de sustancias y sus trastornos"
+218,Drowning,English,True,95,True,Injuries and Wounds
+5603,Drug Reactions,English,True,307,True,Drug Therapy
+1445,Drug Safety,English,True,125,True,"Safety Issues, Drug Therapy"
+30,Drug Use and Addiction,English,True,867,True,Substance Use and Disorders
+4959,Drugs and Young People,English,True,737,True,"Children and Teenagers, Substance Use and Disorders"
+5798,Dry Mouth,English,True,564,True,Mouth and Teeth
+4270,Dual Diagnosis,English,True,450,True,"Mental Health and Behavior, Substance Use and Disorders"
+1244,Dwarfism,English,True,154,True,"Bones, Joints and Muscles, Genetics/Birth Defects, Endocrine System"
+1252,Dystonia,English,True,138,True,Brain and Nerves
+6290,E-Cigarettes,English,True,155,True,"Substance Use and Disorders, Lungs and Breathing"
+1010,E. coli Infections,English,True,163,True,Infections
+1545,Ear Disorders,English,True,176,True,"Ear, Nose and Throat"
+115,Ear Infections,English,True,197,True,"Children and Teenagers, Ear, Nose and Throat"
+4594,Earthquakes,English,True,131,True,Disasters
+237,Eating Disorders,English,True,1001,True,"Mental Health and Behavior, Food and Nutrition"
+6202,Ebola,English,True,631,True,Infections
+6203,Ebola,Spanish,True,674,True,Infecciones
+1878,Eccema,Spanish,True,235,True,"Piel, cabello y uñas"
+5811,Ectopic Pregnancy,English,True,432,True,"Women, Pregnancy and Reproduction, Female Reproductive System"
+1215,Eczema,English,True,207,True,"Skin, Hair and Nails"
+1229,Edema,English,True,102,True,"Blood, Heart and Circulation, Symptoms"
+1879,Edema,Spanish,True,103,True,"Sangre, corazón y circulación, Síntomas"
+1594,Ehlers-Danlos Syndrome,English,True,104,True,"Bones, Joints and Muscles, Genetics/Birth Defects"
+3013,Ejercicio para niños,Spanish,True,166,True,"Niños y adolescentes, Bienestar y estilo de vida, Aptitud física y ejercicio"
+1891,Ejercicio para personas mayores,Spanish,True,141,True,"Personas mayores, Bienestar y estilo de vida, Aptitud física y ejercicio"
+1892,Ejercicio y estado físico,Spanish,True,907,True,"Bienestar y estilo de vida, Aptitud física y ejercicio"
+506,Elbow Injuries and Disorders,English,True,108,True,"Bones, Joints and Muscles, Injuries and Wounds"
+529,Elder Abuse,English,True,135,True,"Older Adults, Injuries and Wounds, Social/Family Issues"
+1820,Elección de un doctor o plan médico,Spanish,True,95,True,"Sistemas de salud, Asuntos personales de salud"
+6280,Electrical Injuries,English,True,161,True,Injuries and Wounds
+899,Electromagnetic Fields,English,True,193,True,"Poisoning, Toxicology, Environmental Health"
+2103,Embarazo,Spanish,True,268,True,"Mujeres, Embarazo y reproducción, Sistema reproductor femenino"
+2189,Embarazo de adolescentes,Spanish,True,152,True,"Niños y adolescentes, Mujeres, Embarazo y reproducción, Sistema reproductor femenino"
+5812,Embarazo ectópico,Spanish,True,473,True,"Mujeres, Embarazo y reproducción, Sistema reproductor femenino"
+2104,Embarazo y consumo de sustancias,Spanish,True,742,True,"Consumo de sustancias y sus trastornos, Embarazo y reproducción, Sistema reproductor femenino"
+7132,Embarazo y el uso de opioides,Spanish,True,669,True,"Consumo de sustancias y sus trastornos, Embarazo y reproducción, Sistema reproductor femenino"
+2113,Embolia pulmonar,Spanish,True,813,True,Pulmón y vías respiratorias
+4609,Emergencias causadas por el invierno,Spanish,True,348,True,Desastres
+4599,Emergencias causadas por la radiación,Spanish,True,170,True,Desastres
+3175,Emergencias químicas,Spanish,True,166,True,Desastres
+3873,Emergency Medical Services,English,True,126,True,Health System
+3623,Emphysema,English,True,939,True,Lungs and Breathing
+1871,Enanismo,Spanish,True,167,True,"Huesos, articulaciones y músculos, Genética y defectos congénitos, Sistema endocrino"
+1884,Encefalitis,Spanish,True,762,True,Cerebro y nervios
+1821,Encefalomielitis miálgica/Síndrome de fatiga crónica,Spanish,True,828,True,"Huesos, articulaciones y músculos, Infecciones"
+241,Encephalitis,English,True,717,True,Brain and Nerves
+496,End of Life Issues,English,True,108,True,"Social/Family Issues, Personal Health Issues"
+4317,Endocarditis,Spanish,True,1023,True,"Sangre, corazón y circulación"
+4316,Endocarditis,English,True,920,True,"Blood, Heart and Circulation"
+475,Endocrine Diseases,English,True,150,True,Endocrine System
+243,Endometriosis,English,True,580,True,"Women, Female Reproductive System"
+1886,Endometriosis,Spanish,True,624,True,"Mujeres, Sistema reproductor femenino"
+4514,Endoscopia,Spanish,True,121,True,"Pruebas de diagnóstico, Cirugía y rehabilitación"
+4513,Endoscopy,English,True,107,True,"Diagnostic Tests, Surgery and Rehabilitation"
+4084,Enfermedad arterial periférica,Spanish,True,320,True,"Sangre, corazón y circulación"
+1802,Enfermedad celíaca,Spanish,True,821,True,"Sistema digestivo, Problemas del metabolismo"
+1722,Enfermedad de Addison,Spanish,True,191,True,"Sistema inmunitario, Sistema endocrino"
+1736,Enfermedad de Alzheimer,Spanish,True,691,True,"Salud mental y conducta, Personas mayores, Cerebro y nervios"
+3661,Enfermedad de Chagas,Spanish,True,513,True,Infecciones
+1806,Enfermedad de Charcot-Marie-Tooth,Spanish,True,192,True,"Cerebro y nervios, Genética y defectos congénitos"
+1840,Enfermedad de Creutzfeldt-Jakob,Spanish,True,157,True,Cerebro y nervios
+1842,Enfermedad de Crohn,Spanish,True,972,True,Sistema digestivo
+2146,Enfermedad de células falciformes,Spanish,True,1193,True,"Sangre, corazón y circulación, Genética y defectos congénitos"
+1918,Enfermedad de Gaucher,Spanish,True,195,True,"Genética y defectos congénitos, Problemas del metabolismo"
+1964,Enfermedad de Huntington,Spanish,True,163,True,"Cerebro y nervios, Genética y defectos congénitos"
+4922,Enfermedad de Kawasaki,Spanish,True,630,True,"Sangre, corazón y circulación, Piel, cabello y uñas, Sistema inmunitario"
+1837,Enfermedad de las arterias coronarias,Spanish,True,202,True,"Personas mayores, Sangre, corazón y circulación"
+2015,Enfermedad de Lyme,Spanish,True,1024,True,Infecciones
+2263,Enfermedad de Ménière,Spanish,True,254,True,"Oído, nariz y garganta"
+1836,Enfermedad de obstrucción pulmonar crónica,Spanish,True,1082,True,"Personas mayores, Pulmón y vías respiratorias"
+2071,Enfermedad de Paget en el hueso,Spanish,True,820,True,"Huesos, articulaciones y músculos"
+2081,Enfermedad de Parkinson,Spanish,True,239,True,"Personas mayores, Cerebro y nervios"
+2738,Enfermedad de Tay-Sachs,Spanish,True,188,True,"Cerebro y nervios, Genética y defectos congénitos"
+4362,Enfermedad de von Hippel-Lindau,Spanish,True,285,True,Genética y defectos congénitos
+2272,Enfermedad de Wilson,Spanish,True,257,True,"Sistema digestivo, Cerebro y nervios, Genética y defectos congénitos, Problemas del metabolismo"
+3182,Enfermedad del coronavirus 2019 (COVID-19),Spanish,True,75,True,"Infecciones, Pulmón y vías respiratorias"
+2003,Enfermedad del legionario,Spanish,True,713,True,"Infecciones, Pulmón y vías respiratorias"
+3045,Enfermedad inflamatoria pélvica,Spanish,True,609,True,"Mujeres, Infecciones, Sistema reproductor femenino"
+4321,Enfermedad por arañazo de gato,Spanish,True,152,True,Infecciones
+5598,Enfermedad pulmonar intersticial,Spanish,True,178,True,Pulmón y vías respiratorias
+5988,Enfermedad renal crónica,Spanish,True,302,True,Riñones y sistema urinario
+1764,Enfermedades autoinmunes,Spanish,True,608,True,Sistema inmunitario
+1946,Enfermedades causadas por el calor,Spanish,True,286,True,"Lesiones y heridas, Síntomas"
+2240,Enfermedades de la boca,Spanish,True,217,True,"Oído, nariz y garganta, Salud oral y dental"
+5533,Enfermedades de la córnea,Spanish,True,97,True,Ojos y visión
+2261,Enfermedades de la garganta,Spanish,True,135,True,"Pulmón y vías respiratorias, Oído, nariz y garganta"
+2091,Enfermedades de la glándula pituitaria,Spanish,True,76,True,"Cerebro y nervios, Sistema endocrino"
+2163,Enfermedades de la médula espinal,Spanish,True,132,True,Cerebro y nervios
+1781,Enfermedades de la médula ósea,Spanish,True,177,True,Sistema inmunitario
+2079,Enfermedades de la paratiroides,Spanish,True,204,True,Sistema endocrino
+2150,Enfermedades de la piel,Spanish,True,378,True,"Piel, cabello y uñas"
+2111,Enfermedades de la próstata,Spanish,True,746,True,"Personas mayores, Hombres, Sistema reproductor masculino"
+2267,Enfermedades de la retina,Spanish,True,692,True,Ojos y visión
+2196,Enfermedades de la tiroides,Spanish,True,214,True,Sistema endocrino
+5449,Enfermedades de la tráquea,Spanish,True,133,True,Pulmón y vías respiratorias
+2216,Enfermedades de la vagina,Spanish,True,75,True,"Mujeres, Sistema reproductor femenino"
+1777,Enfermedades de la vejiga,Spanish,True,150,True,Riñones y sistema urinario
+1915,Enfermedades de la vesícula biliar,Spanish,True,148,True,Sistema digestivo
+4551,Enfermedades de la vulva,Spanish,True,67,True,"Mujeres, Sistema reproductor femenino"
+4064,Enfermedades de las arterias carótidas,Spanish,True,266,True,"Sangre, corazón y circulación"
+1928,Enfermedades de las encías,Spanish,True,155,True,Salud oral y dental
+2132,Enfermedades de las glándulas salivales,Spanish,True,145,True,Salud oral y dental
+1724,Enfermedades de las glándulas suprarrenales,Spanish,True,581,True,Sistema endocrino
+2046,Enfermedades de las uñas,Spanish,True,143,True,"Piel, cabello y uñas"
+1945,Enfermedades de las válvulas del corazón,Spanish,True,1110,True,"Sangre, corazón y circulación"
+4056,Enfermedades de los animales y su salud,Spanish,True,240,True,Infecciones
+3788,Enfermedades de los ductos biliares,Spanish,True,141,True,Sistema digestivo
+1780,Enfermedades de los huesos,Spanish,True,178,True,"Huesos, articulaciones y músculos"
+1894,Enfermedades de los ojos,Spanish,True,577,True,Ojos y visión
+5805,Enfermedades de los ovarios,Spanish,True,491,True,"Mujeres, Sistema reproductor femenino"
+2125,Enfermedades de los pulmones,Spanish,True,581,True,Pulmón y vías respiratorias
+5405,Enfermedades de los párpados,Spanish,True,587,True,Ojos y visión
+1989,Enfermedades de los riñones,Spanish,True,205,True,Riñones y sistema urinario
+4281,Enfermedades de los testículos,Spanish,True,100,True,"Sistema endocrino, Hombres, Asuntos de salud sexual, Sistema reproductor masculino"
+1741,Enfermedades del ano,Spanish,True,259,True,Sistema digestivo
+2167,Enfermedades del bazo,Spanish,True,148,True,Sistema inmunitario
+1800,Enfermedades del cartílago,Spanish,True,141,True,"Huesos, articulaciones y músculos"
+5920,Enfermedades del cerebelo,Spanish,True,105,True,Cerebro y nervios
+1785,Enfermedades del cerebro,Spanish,True,301,True,Cerebro y nervios
+1830,Enfermedades del colon,Spanish,True,141,True,Sistema digestivo
+1941,Enfermedades del corazón,Spanish,True,738,True,"Personas mayores, Sangre, corazón y circulación"
+4213,Enfermedades del corazón en la mujer,Spanish,True,1198,True,"Mujeres, Sangre, corazón y circulación"
+2183,Enfermedades del cóccix,Spanish,True,106,True,"Huesos, articulaciones y músculos"
+2173,Enfermedades del estómago,Spanish,True,160,True,Sistema digestivo
+1890,Enfermedades del esófago,Spanish,True,712,True,"Sistema digestivo, Oído, nariz y garganta"
+2009,Enfermedades del hígado,Spanish,True,146,True,Sistema digestivo
+5447,Enfermedades del intestino delgado,Spanish,True,102,True,Sistema digestivo
+1875,Enfermedades del oído,Spanish,True,190,True,"Oído, nariz y garganta"
+2020,Enfermedades del pene,Spanish,True,98,True,"Hombres, Asuntos de salud sexual, Sistema reproductor masculino"
+2075,Enfermedades del páncreas,Spanish,True,145,True,"Sistema digestivo, Sistema endocrino"
+1787,Enfermedades del seno,Spanish,True,467,True,"Mujeres, Sistema reproductor femenino"
+1859,Enfermedades del sistema digestivo,Spanish,True,145,True,Sistema digestivo
+1885,Enfermedades del sistema endocrino,Spanish,True,175,True,Sistema endocrino
+2016,Enfermedades del sistema linfático,Spanish,True,144,True,Sistema inmunitario
+2084,Enfermedades del sistema nervioso periférico,Spanish,True,857,True,Cerebro y nervios
+1834,Enfermedades del tejido conectivo,Spanish,True,134,True,"Huesos, articulaciones y músculos"
+2214,Enfermedades del útero,Spanish,True,330,True,"Mujeres, Sistema reproductor femenino"
+1921,Enfermedades genéticas,Spanish,True,509,True,Genética y defectos congénitos
+1977,Enfermedades infecciosas,Spanish,True,454,True,"Infecciones, Sistema inmunitario"
+5652,Enfermedades meningocócicas,Spanish,True,940,True,Infecciones
+2043,Enfermedades musculares,Spanish,True,92,True,"Huesos, articulaciones y músculos"
+1845,Enfermedades neurodegenerativas,Spanish,True,115,True,Cerebro y nervios
+2053,Enfermedades neurológicas,Spanish,True,156,True,Cerebro y nervios
+2054,Enfermedades neuromusculares,Spanish,True,126,True,"Huesos, articulaciones y músculos, Cerebro y nervios"
+2078,Enfermedades parasitarias,Spanish,True,155,True,Infecciones
+5584,Enfermedades peritoneales,Spanish,True,82,True,Sistema digestivo
+2119,Enfermedades raras,Spanish,True,116,True,"Genética y defectos congénitos, Síntomas"
+5871,Enfermedades rectales,Spanish,True,76,True,Sistema digestivo
+1909,Enfermedades transmitidas por alimentos,Spanish,True,248,True,"Sistema digestivo, Alimentos y nutrición, Envenenamientos, toxicología y salud ambiental"
+3624,Enfisema,Spanish,True,1005,True,Pulmón y vías respiratorias
+3798,Enfrentarse con desastres,Spanish,True,165,True,"Salud mental y conducta, Desastres"
+6196,Enlarged Prostate (BPH),English,True,934,True,Male Reproductive System
+2168,Entrenamiento para deportes y ejercicio,Spanish,True,143,True,"Bienestar y estilo de vida, Aptitud física y ejercicio"
+5705,Envejecer saludablemente,Spanish,True,535,True,"Personas mayores, Bienestar y estilo de vida"
+3776,Envejecimiento de la piel,Spanish,True,177,True,"Personas mayores, Piel, cabello y uñas"
+2095,Envenenamiento,Spanish,True,175,True,"Envenenamientos, toxicología y salud ambiental, Asuntos de seguridad"
+1797,Envenenamiento con monóxido de carbono,Spanish,True,159,True,"Envenenamientos, toxicología y salud ambiental"
+2000,Envenenamiento con plomo,Spanish,True,242,True,"Niños y adolescentes, Envenenamientos, toxicología y salud ambiental"
+1963,Envenenamiento con productos del hogar,Spanish,True,178,True,"Envenenamientos, toxicología y salud ambiental, Asuntos de seguridad"
+521,Environmental Health,English,True,88,True,"Poisoning, Toxicology, Environmental Health"
+4589,Eosinophilic Disorders,English,True,126,True,"Digestive System, Blood, Heart and Circulation, Lungs and Breathing, Immune System"
+6967,Eosinophilic Esophagitis,English,True,825,True,"Digestive System, Blood, Heart and Circulation, Immune System"
+1888,Epilepsia,Spanish,True,155,True,Cerebro y nervios
+244,Epilepsy,English,True,135,True,Brain and Nerves
+4225,Equilibrio hidroelectrolítico,Spanish,True,628,True,Alimentos y nutrición
+118,Erectile Dysfunction,English,True,137,True,"Older Adults, Men, Sexual Health Issues, Male Reproductive System"
+3397,Ergonomics,English,True,147,True,"Bones, Joints and Muscles, Wellness and Lifestyle, Safety Issues"
+3398,Ergonomía,Spanish,True,158,True,"Huesos, articulaciones y músculos, Bienestar y estilo de vida, Asuntos de seguridad"
+2122,Errores de refracción,Spanish,True,633,True,Ojos y visión
+5720,Errores en la administración de medicamentos,Spanish,True,276,True,Tratamiento con medicamentos
+3956,Escanografía nuclear,Spanish,True,479,True,Pruebas de diagnóstico
+2138,Esclerodermia,Spanish,True,821,True,"Piel, cabello y uñas, Sistema inmunitario"
+1739,Esclerosis lateral amiotrófica,Spanish,True,183,True,Cerebro y nervios
+2041,Esclerosis múltiple,Spanish,True,210,True,"Huesos, articulaciones y músculos, Cerebro y nervios"
+2207,Esclerosis tuberosa,Spanish,True,147,True,"Cerebro y nervios, Genética y defectos congénitos"
+2139,Escoliosis,Spanish,True,186,True,"Huesos, articulaciones y músculos"
+6968,Esofagitis eosinofílica,Spanish,True,858,True,"Sistema digestivo, Sangre, corazón y circulación, Sistema inmunitario"
+245,Esophageal Cancer,English,True,113,True,"Cancers, Digestive System, Ear, Nose and Throat"
+246,Esophagus Disorders,English,True,614,True,"Digestive System, Ear, Nose and Throat"
+2162,Espina bífida,Spanish,True,185,True,"Cerebro y nervios, Genética y defectos congénitos"
+1748,Espondilitis anquilosante,Spanish,True,632,True,"Huesos, articulaciones y músculos, Sistema inmunitario"
+2136,Esquizofrenia,Spanish,True,257,True,Salud mental y conducta
+1938,Estadísticas de salud,Spanish,True,266,True,Sistemas de salud
+4910,Estatinas,Spanish,True,641,True,Tratamiento con medicamentos
+2166,Estenosis espinal,Spanish,True,152,True,"Huesos, articulaciones y músculos"
+1740,Esteroides anabólicos,Spanish,True,416,True,Consumo de sustancias y sus trastornos
+3039,Estomas,Spanish,True,139,True,"Sistema digestivo, Riñones y sistema urinario, Cirugía y rehabilitación"
+1835,Estreñimiento,Spanish,True,142,True,"Sistema digestivo, Síntomas"
+2175,Estrés,Spanish,True,789,True,Salud mental y conducta
+1826,Estudios clínicos,Spanish,True,232,True,Asuntos personales de salud
+3757,Etiquetado de alimentos,Spanish,True,268,True,Alimentos y nutrición
+5263,Evacuación de las heces,Spanish,True,155,True,Sistema digestivo
+3177,Evaluación de información sobre la salud,Spanish,True,873,True,"Bienestar y estilo de vida, Asuntos personales de salud"
+4042,Evaluación del recién nacido,Spanish,True,154,True,"Niños y adolescentes, Genética y defectos congénitos"
+3176,Evaluating Health Information,English,True,813,True,"Wellness and Lifestyle, Personal Health Issues"
+490,Exercise and Physical Fitness,English,True,827,True,"Wellness and Lifestyle, Fitness and Exercise"
+3012,Exercise for Children,English,True,123,True,"Children and Teenagers, Wellness and Lifestyle, Fitness and Exercise"
+1530,Exercise for Older Adults,English,True,129,True,"Older Adults, Wellness and Lifestyle, Fitness and Exercise"
+2116,Exposición a la radiación,Spanish,True,808,True,"Lesiones y heridas, Envenenamientos, toxicología y salud ambiental"
+2179,Exposición al sol,Spanish,True,190,True,"Piel, cabello y uñas"
+4483,Exámenes médicos,Spanish,True,154,True,Bienestar y estilo de vida
+491,Eye Cancer,English,True,107,True,"Cancers, Eyes and Vision"
+6425,Eye Care,English,True,996,True,Eyes and Vision
+247,Eye Diseases,English,True,514,True,Eyes and Vision
+4398,Eye Infections,English,True,111,True,Eyes and Vision
+492,Eye Injuries,English,True,132,True,"Eyes and Vision, Injuries and Wounds"
+5873,Eye Movement Disorders,English,True,126,True,Eyes and Vision
+5404,Eyelid Disorders,English,True,504,True,Eyes and Vision
+201,Eyewear,English,True,103,True,Eyes and Vision
+1574,Facial Injuries and Disorders,English,True,105,True,"Brain and Nerves, Ear, Nose and Throat, Injuries and Wounds"
+1481,Fainting,English,True,156,True,"Brain and Nerves, Symptoms"
+1943,Fallo cardíaco,Spanish,True,1231,True,"Personas mayores, Sangre, corazón y circulación"
+1661,Falls,English,True,294,True,"Older Adults, Safety Issues"
+4484,Family History,English,True,133,True,"Genetics/Birth Defects, Wellness and Lifestyle"
+525,Family Issues,English,True,113,True,Social/Family Issues
+5325,Fatiga,Spanish,True,467,True,Síntomas
+5324,Fatigue,English,True,438,True,Symptoms
+6465,Fatty Liver Disease,English,True,1099,True,Digestive System
+5654,Female Infertility,English,True,191,True,"Women, Pregnancy and Reproduction, Female Reproductive System"
+2087,Fenilcetonuria,Spanish,True,214,True,"Cerebro y nervios, Genética y defectos congénitos, Problemas del metabolismo"
+2120,Fenómeno de Raynaud,Spanish,True,894,True,"Sangre, corazón y circulación, Síntomas"
+2088,Feocromocitoma,Spanish,True,146,True,"Cánceres, Sistema endocrino"
+1300,Fetal Alcohol Spectrum Disorders,English,True,356,True,"Substance Use and Disorders, Pregnancy and Reproduction, Genetics/Birth Defects"
+6057,Fetal Health and Development,English,True,185,True,Pregnancy and Reproduction
+511,Fever,English,True,189,True,"Infections, Symptoms"
+3060,Fibra en la dieta,Spanish,True,135,True,Alimentos y nutrición
+4965,Fibrilación auricular,Spanish,True,991,True,"Sangre, corazón y circulación"
+2215,Fibroides uterinos,Spanish,True,618,True,"Mujeres, Sistema reproductor femenino"
+1903,Fibromialgia,Spanish,True,720,True,"Huesos, articulaciones y músculos"
+32,Fibromyalgia,English,True,667,True,"Bones, Joints and Muscles"
+2114,Fibrosis pulmonar,Spanish,True,217,True,Pulmón y vías respiratorias
+1843,Fibrosis quística,Spanish,True,216,True,"Pulmón y vías respiratorias, Genética y defectos congénitos"
+1902,Fiebre,Spanish,True,206,True,"Infecciones, Síntomas"
+5635,Fiebre del valle,Spanish,True,255,True,Infecciones
+2256,Fiebres hemorrágicas,Spanish,True,183,True,Infecciones
+1609,Fifth Disease,English,True,603,True,"Children and Teenagers, Infections, Skin, Hair and Nails"
+3186,Financial Assistance,English,True,73,True,"Social/Family Issues, Health System"
+5356,Finger Injuries and Disorders,English,True,111,True,"Bones, Joints and Muscles, Injuries and Wounds"
+536,Fire Safety,English,True,129,True,Safety Issues
+240,First Aid,English,True,160,True,"Injuries and Wounds, Safety Issues"
+3054,Fistulas,English,True,111,True,"Digestive System, Lungs and Breathing"
+4596,Floods,English,True,157,True,Disasters
+299,Flu,English,True,624,True,"Infections, Lungs and Breathing"
+6236,Flu Shot,English,True,785,True,Immune System
+4224,Fluid and Electrolyte Balance,English,True,610,True,Food and Nutrition
+2089,Fobias,Spanish,True,186,True,Salud mental y conducta
+1611,Folic Acid,English,True,102,True,Food and Nutrition
+1256,Food Allergy,English,True,671,True,"Immune System, Food and Nutrition"
+3756,Food Labeling,English,True,281,True,Food and Nutrition
+1434,Food Safety,English,True,107,True,"Food and Nutrition, Poisoning, Toxicology, Environmental Health, Safety Issues"
+254,Foodborne Illness,English,True,234,True,"Digestive System, Food and Nutrition, Poisoning, Toxicology, Environmental Health"
+1327,Foot Health,English,True,131,True,"Bones, Joints and Muscles"
+508,Foot Injuries and Disorders,English,True,87,True,"Bones, Joints and Muscles, Injuries and Wounds"
+5607,Foreign Bodies,English,True,104,True,Injuries and Wounds
+1913,Fracturas,Spanish,True,481,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+257,Fractures,English,True,489,True,"Bones, Joints and Muscles, Injuries and Wounds"
+3690,Fragile X Syndrome,English,True,152,True,Genetics/Birth Defects
+1935,Fraude en los servicios de salud,Spanish,True,330,True,Sistemas de salud
+4359,Friedreich Ataxia,English,True,127,True,"Brain and Nerves, Genetics/Birth Defects"
+5829,Frostbite,English,True,193,True,"Injuries and Wounds, Symptoms"
+2156,Fumar,Spanish,True,709,True,"Consumo de sustancias y sus trastornos, Pulmón y vías respiratorias"
+2157,Fumar y los jóvenes,Spanish,True,125,True,"Niños y adolescentes, Consumo de sustancias y sus trastornos"
+258,Fungal Infections,English,True,138,True,"Infections, Skin, Hair and Nails"
+3055,Fístulas,Spanish,True,97,True,"Sistema digestivo, Pulmón y vías respiratorias"
+6156,G6PD,Spanish,True,183,True,Genética y defectos congénitos
+6155,G6PD Deficiency,English,True,155,True,Genetics/Birth Defects
+4645,Gallbladder Cancer,English,True,149,True,"Cancers, Digestive System"
+259,Gallbladder Diseases,English,True,120,True,Digestive System
+4643,Gallstones,English,True,185,True,Digestive System
+5581,Gangrena,Spanish,True,143,True,"Sangre, corazón y circulación"
+5580,Gangrene,English,True,122,True,"Blood, Heart and Circulation"
+4291,Gas,English,True,172,True,"Digestive System, Symptoms"
+4292,Gas,Spanish,True,198,True,"Sistema digestivo, Síntomas"
+3056,Gastroenteritis,English,True,643,True,"Digestive System, Infections"
+3057,Gastroenteritis,Spanish,True,695,True,"Sistema digestivo, Infecciones"
+1308,Gastrointestinal Bleeding,English,True,228,True,"Digestive System, Symptoms"
+1523,Gaucher Disease,English,True,183,True,"Genetics/Birth Defects, Metabolic Problems"
+2209,"Gemelos, trillizos, nacimiento múltiple",Spanish,True,183,True,"Niños y adolescentes, Embarazo y reproducción"
+1454,Genes and Gene Therapy,English,True,499,True,Genetics/Birth Defects
+1920,Genes y terapia genética,Spanish,True,551,True,Genética y defectos congénitos
+3117,Genetic Brain Disorders,English,True,152,True,"Brain and Nerves, Genetics/Birth Defects, Metabolic Problems"
+3811,Genetic Counseling,English,True,132,True,"Pregnancy and Reproduction, Genetics/Birth Defects"
+33,Genetic Disorders,English,True,483,True,Genetics/Birth Defects
+262,Genetic Testing,English,True,1034,True,"Pregnancy and Reproduction, Genetics/Birth Defects, Diagnostic Tests"
+5863,Genital Herpes,English,True,234,True,"Infections, Sexual Health Issues, Female Reproductive System, Male Reproductive System"
+4322,Genital Warts,English,True,461,True,"Infections, Sexual Health Issues, Female Reproductive System, Male Reproductive System"
+512,GERD,English,True,552,True,Digestive System
+4182,Germs and Hygiene,English,True,398,True,"Infections, Skin, Hair and Nails"
+5615,Giant Cell Arteritis,English,True,176,True,"Blood, Heart and Circulation, Immune System"
+1258,Giardia Infections,English,True,193,True,Infections
+42,Glaucoma,English,True,680,True,"Older Adults, Eyes and Vision"
+1924,Glaucoma,Spanish,True,766,True,"Personas mayores, Ojos y visión"
+3738,Global Health,English,True,147,True,Health System
+6122,Glucosa en la sangre,Spanish,True,955,True,"Sistema endocrino, Problemas del metabolismo, Diabetes mellitus"
+6244,Gluten Sensitivity,English,True,285,True,Digestive System
+3020,Gonorrea,Spanish,True,236,True,"Infecciones, Asuntos de salud sexual, Sistema reproductor femenino, Sistema reproductor masculino"
+3019,Gonorrhea,English,True,205,True,"Infections, Sexual Health Issues, Female Reproductive System, Male Reproductive System"
+1925,Gota,Spanish,True,909,True,"Huesos, articulaciones y músculos"
+264,Gout,English,True,841,True,"Bones, Joints and Muscles"
+2226,Granulomatosis con poliangeítis,Spanish,True,144,True,"Sangre, corazón y circulación, Riñones y sistema urinario, Pulmón y vías respiratorias"
+1447,Granulomatosis with Polyangiitis,English,True,133,True,"Blood, Heart and Circulation, Kidneys and Urinary System, Lungs and Breathing"
+3594,Grasas en la dieta,Spanish,True,145,True,Alimentos y nutrición
+1980,Gripe,Spanish,True,669,True,"Infecciones, Pulmón y vías respiratorias"
+4199,Gripe aviar,Spanish,True,670,True,"Infecciones, Pulmón y vías respiratorias"
+5189,Gripe H1N1 (gripe porcina),Spanish,True,213,True,"Infecciones, Pulmón y vías respiratorias"
+265,Growth Disorders,English,True,181,True,"Children and Teenagers, Endocrine System"
+6681,Guide to Good Posture,English,True,651,True,"Bones, Joints and Muscles"
+1234,Guillain-Barre Syndrome,English,True,173,True,Brain and Nerves
+266,Gum Disease,English,True,130,True,Mouth and Teeth
+6682,Guía para una buena postura,Spanish,True,684,True,"Huesos, articulaciones y músculos"
+4183,Gérmenes e higiene,Spanish,True,435,True,"Infecciones, Piel, cabello y uñas"
+5188,H1N1 Flu (Swine Flu),English,True,202,True,"Infections, Lungs and Breathing"
+3074,Hablando con su doctor,Spanish,True,327,True,"Asuntos sociales y familiares, Sistemas de salud, Asuntos personales de salud"
+5968,Haemophilus Infections,English,True,153,True,Infections
+5282,Hair Loss,English,True,109,True,"Skin, Hair and Nails"
+531,Hair Problems,English,True,89,True,"Skin, Hair and Nails"
+507,Hand Injuries and Disorders,English,True,94,True,"Bones, Joints and Muscles, Injuries and Wounds"
+3217,Hantavirus Infections,English,True,181,True,Infections
+4746,Hay Fever,English,True,130,True,"Ear, Nose and Throat, Immune System"
+6785,"HDL: The ""Good"" Cholesterol",English,True,780,True,"Blood, Heart and Circulation, Food and Nutrition"
+330,Head and Neck Cancer,English,True,537,True,"Cancers, Lungs and Breathing, Ear, Nose and Throat, Mouth and Teeth"
+5825,Head Injuries,English,True,204,True,Injuries and Wounds
+272,Head Lice,English,True,748,True,"Children and Teenagers, Infections, Skin, Hair and Nails"
+273,Headache,English,True,191,True,"Brain and Nerves, Symptoms"
+4751,Health Checkup,English,True,188,True,Wellness and Lifestyle
+4578,Health Disparities,English,True,88,True,"Health System, Population Groups"
+486,Health Facilities,English,True,105,True,Health System
+724,Health Fraud,English,True,288,True,Health System
+274,Health Insurance,English,True,133,True,Health System
+4565,Health Literacy,English,True,311,True,"Wellness and Lifestyle, Personal Health Issues"
+1483,Health Occupations,English,True,88,True,Health System
+1105,Health Problems in Pregnancy,English,True,468,True,"Pregnancy and Reproduction, Female Reproductive System"
+6543,Health Risks of an Inactive Lifestyle,English,True,773,True,"Wellness and Lifestyle, Fitness and Exercise"
+4482,Health Screening,English,True,124,True,Wellness and Lifestyle
+275,Health Statistics,English,True,256,True,Health System
+5704,Healthy Aging,English,True,530,True,"Older Adults, Wellness and Lifestyle"
+1597,Healthy Living,English,True,323,True,Wellness and Lifestyle
+6469,Healthy Sleep,English,True,853,True,Brain and Nerves
+5216,Hearing Aids,English,True,226,True,"Ear, Nose and Throat"
+204,Hearing Disorders and Deafness,English,True,160,True,"Older Adults, Ear, Nose and Throat"
+3693,Hearing Problems in Children,English,True,138,True,"Children and Teenagers, Ear, Nose and Throat"
+5,Heart Attack,English,True,398,True,"Blood, Heart and Circulation"
+4212,Heart Disease in Women,English,True,1035,True,"Women, Blood, Heart and Circulation"
+277,Heart Diseases,English,True,660,True,"Older Adults, Blood, Heart and Circulation"
+199,Heart Failure,English,True,1098,True,"Older Adults, Blood, Heart and Circulation"
+6452,Heart Health Tests,English,True,1071,True,"Blood, Heart and Circulation"
+4119,Heart Surgery,English,True,771,True,"Blood, Heart and Circulation, Surgery and Rehabilitation"
+278,Heart Transplantation,English,True,129,True,"Blood, Heart and Circulation, Transplantation and Donation"
+279,Heart Valve Diseases,English,True,989,True,"Blood, Heart and Circulation"
+1653,Heartburn,English,True,112,True,"Digestive System, Symptoms"
+280,Heat Illness,English,True,249,True,"Injuries and Wounds, Symptoms"
+3650,Heel Injuries and Disorders,English,True,112,True,"Bones, Joints and Muscles, Injuries and Wounds"
+6078,Helicobacter pylori Infections,English,True,307,True,"Digestive System, Infections"
+1220,Hemochromatosis,English,True,182,True,"Digestive System, Genetics/Birth Defects, Metabolic Problems"
+1947,Hemocromatosis,Spanish,True,199,True,"Sistema digestivo, Genética y defectos congénitos, Problemas del metabolismo"
+3116,Hemofilia,Spanish,True,1001,True,"Sangre, corazón y circulación, Genética y defectos congénitos"
+3115,Hemophilia,English,True,940,True,"Blood, Heart and Circulation, Genetics/Birth Defects"
+6040,Hemorragia,Spanish,True,219,True,"Sangre, corazón y circulación, Lesiones y heridas, Síntomas"
+1917,Hemorragia gastrointestinal,Spanish,True,270,True,"Sistema digestivo, Síntomas"
+1652,Hemorrhagic Fevers,English,True,148,True,Infections
+6263,Hemorrhagic Stroke,English,True,514,True,"Blood, Heart and Circulation, Brain and Nerves"
+1226,Hemorrhoids,English,True,639,True,Digestive System
+1948,Hemorroides,Spanish,True,669,True,Sistema digestivo
+109,Hepatitis,English,True,663,True,"Digestive System, Infections"
+1949,Hepatitis,Spanish,True,714,True,"Sistema digestivo, Infecciones"
+2270,Hepatitis A,Spanish,True,590,True,"Sistema digestivo, Infecciones"
+1686,Hepatitis A,English,True,537,True,"Digestive System, Infections"
+1687,Hepatitis B,English,True,766,True,"Digestive System, Infections"
+2271,Hepatitis B,Spanish,True,835,True,"Sistema digestivo, Infecciones"
+1286,Hepatitis C,English,True,836,True,"Digestive System, Infections"
+1950,Hepatitis C,Spanish,True,895,True,"Sistema digestivo, Infecciones"
+1246,Herbal Medicine,English,True,143,True,"Wellness and Lifestyle, Complementary and Alternative Therapies"
+3859,Heridas y lesiones,Spanish,True,199,True,"Piel, cabello y uñas, Lesiones y heridas, Asuntos de seguridad"
+1952,Hernia,Spanish,True,149,True,Sistema digestivo
+283,Hernia,English,True,142,True,Digestive System
+2153,Hernia de disco,Spanish,True,143,True,"Huesos, articulaciones y músculos"
+4371,Hernia de hiato,Spanish,True,264,True,Sistema digestivo
+284,Herniated Disk,English,True,132,True,"Bones, Joints and Muscles"
+285,Heroin,English,True,677,True,Substance Use and Disorders
+1953,Heroína,Spanish,True,754,True,Consumo de sustancias y sus trastornos
+5864,Herpes genital,Spanish,True,256,True,"Infecciones, Asuntos de salud sexual, Sistema reproductor femenino, Sistema reproductor masculino"
+5148,Herpes labial,Spanish,True,198,True,"Infecciones, Salud oral y dental"
+1954,Herpes simple,Spanish,True,198,True,"Infecciones, Salud oral y dental, Asuntos de salud sexual, Sistema reproductor femenino, Sistema reproductor masculino"
+286,Herpes Simplex,English,True,178,True,"Infections, Mouth and Teeth, Sexual Health Issues, Female Reproductive System, Male Reproductive System"
+4370,Hiatal Hernia,English,True,274,True,Digestive System
+6084,Hiccups,English,True,276,True,Digestive System
+4363,Hidradenitis Suppurativa,English,True,576,True,"Skin, Hair and Nails"
+4364,Hidradenitis supurativa,Spanish,True,604,True,"Piel, cabello y uñas"
+1965,Hidrocefalia,Spanish,True,227,True,"Cerebro y nervios, Genética y defectos congénitos"
+3879,"Hiedra, roble y zumaque venenosos",Spanish,True,183,True,"Piel, cabello y uñas"
+5543,Hierro en la dieta,Spanish,True,477,True,Alimentos y nutrición
+34,High Blood Pressure,English,True,513,True,"Older Adults, Blood, Heart and Circulation"
+1508,High Blood Pressure in Pregnancy,English,True,1049,True,"Pregnancy and Reproduction, Female Reproductive System"
+6907,High Cholesterol in Children and Teens,English,True,667,True,"Children and Teenagers, Blood, Heart and Circulation, Food and Nutrition"
+287,Hip Injuries and Disorders,English,True,203,True,"Bones, Joints and Muscles, Injuries and Wounds"
+3922,Hip Replacement,English,True,161,True,"Bones, Joints and Muscles, Surgery and Rehabilitation"
+6126,Hiperglucemia,Spanish,True,776,True,"Sistema endocrino, Problemas del metabolismo, Diabetes mellitus"
+3635,Hipertensión pulmonar,Spanish,True,787,True,"Sangre, corazón y circulación, Pulmón y vías respiratorias"
+6178,Hipertiroidismo,Spanish,True,944,True,Sistema endocrino
+6085,Hipo,Spanish,True,280,True,Sistema digestivo
+1966,Hipoglucemia,Spanish,True,831,True,Problemas del metabolismo
+1967,Hipotermia,Spanish,True,171,True,"Lesiones y heridas, Síntomas"
+6176,Hipotiroidismo,Spanish,True,820,True,Sistema endocrino
+1968,Histerectomía,Spanish,True,739,True,"Mujeres, Cirugía y rehabilitación, Sistema reproductor femenino"
+5632,Histoplasmosis,English,True,420,True,Infections
+5633,Histoplasmosis,Spanish,True,430,True,Infecciones
+3893,Historia clínica,Spanish,True,136,True,"Asuntos sociales y familiares, Sistemas de salud, Asuntos personales de salud"
+4485,Historia familiar,Spanish,True,172,True,"Genética y defectos congénitos, Bienestar y estilo de vida"
+1,HIV,English,True,734,True,"Infections, Immune System"
+1503,HIV and Infections,English,True,159,True,"Infections, Immune System"
+1470,HIV and Pregnancy,English,True,521,True,"Women, Pregnancy and Reproduction, Immune System, Female Reproductive System"
+5737,HIV in Women,English,True,331,True,"Women, Immune System"
+4287,HIV Medicines,English,True,741,True,"Immune System, Drug Therapy"
+7347,HIV: PrEP and PEP,English,True,821,True,"Infections, Immune System, Drug Therapy"
+289,Hives,English,True,106,True,"Skin, Hair and Nails, Immune System, Symptoms"
+1262,Hodgkin Lymphoma,English,True,420,True,"Cancers, Immune System"
+6928,Hombro dislocado,Spanish,True,513,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+1659,Home Care Services,English,True,177,True,"Older Adults, Health System"
+3536,Homelessness and Health,English,True,236,True,Social/Family Issues
+1961,Hormonas,Spanish,True,191,True,Sistema endocrino
+1610,Hormone Replacement Therapy,English,True,271,True,"Women, Endocrine System, Drug Therapy, Female Reproductive System"
+1499,Hormones,English,True,163,True,Endocrine System
+1355,Hospice Care,English,True,104,True,Health System
+1463,Household Products,English,True,151,True,"Poisoning, Toxicology, Environmental Health, Safety Issues"
+6603,How Much Exercise Do I Need?,English,True,677,True,"Wellness and Lifestyle, Fitness and Exercise"
+7407,How to Improve Mental Health,English,True,878,True,Mental Health and Behavior
+6809,How to Lower Cholesterol,English,True,753,True,"Blood, Heart and Circulation, Food and Nutrition"
+6807,How to Lower Cholesterol with Diet,English,True,895,True,"Blood, Heart and Circulation, Food and Nutrition"
+6661,How to Prevent Diabetes,English,True,726,True,"Endocrine System, Wellness and Lifestyle, Diabetes Mellitus"
+1598,How to Prevent Heart Disease,English,True,1037,True,"Blood, Heart and Circulation, Wellness and Lifestyle"
+6450,How to Prevent High Blood Pressure,English,True,930,True,"Blood, Heart and Circulation"
+1715,HPV,English,True,661,True,"Infections, Sexual Health Issues, Female Reproductive System"
+1218,Huntington's Disease,English,True,149,True,"Brain and Nerves, Genetics/Birth Defects"
+4615,Huracanes,Spanish,True,145,True,Desastres
+4614,Hurricanes,English,True,132,True,Disasters
+607,Hydrocephalus,English,True,186,True,"Brain and Nerves, Genetics/Birth Defects"
+6125,Hyperglycemia,English,True,736,True,"Endocrine System, Metabolic Problems, Diabetes Mellitus"
+6177,Hyperthyroidism,English,True,898,True,Endocrine System
+1264,Hypoglycemia,English,True,741,True,Metabolic Problems
+291,Hypothermia,English,True,149,True,"Injuries and Wounds, Symptoms"
+6175,Hypothyroidism,English,True,755,True,Endocrine System
+292,Hysterectomy,English,True,650,True,"Women, Surgery and Rehabilitation, Female Reproductive System"
+6466,Hígado graso,Spanish,True,1210,True,Sistema digestivo
+4453,Ictericia,Spanish,True,161,True,"Sistema digestivo, Síntomas"
+295,Immune System and Disorders,English,True,613,True,Immune System
+4911,Impaired Driving,English,True,94,True,Safety Issues
+1253,Impetigo,English,True,133,True,"Infections, Skin, Hair and Nails"
+5215,Implantes cocleares,Spanish,True,101,True,"Oído, nariz y garganta"
+1971,Impétigo,Spanish,True,137,True,"Infecciones, Piel, cabello y uñas"
+3954,Imágenes por resonancia magnética,Spanish,True,446,True,Pruebas de diagnóstico
+4605,Incendios forestales,Spanish,True,184,True,Desastres
+5902,Incompatibilidad Rh,Spanish,True,477,True,"Sangre, corazón y circulación, Embarazo y reproducción"
+5317,Incontinencia fecal,Spanish,True,112,True,Sistema digestivo
+2211,Incontinencia urinaria,Spanish,True,1086,True,"Personas mayores, Riñones y sistema urinario"
+4293,Indigestion,English,True,175,True,"Digestive System, Symptoms"
+4294,Indigestión,Spanish,True,188,True,"Sistema digestivo, Síntomas"
+1537,Indoor Air Pollution,English,True,161,True,"Poisoning, Toxicology, Environmental Health"
+1549,Infant and Newborn Care,English,True,73,True,Children and Teenagers
+1548,Infant and Newborn Development,English,True,151,True,Children and Teenagers
+3750,Infant and Newborn Nutrition,English,True,369,True,"Children and Teenagers, Food and Nutrition"
+1767,Infecciones bacterianas,Spanish,True,536,True,Infecciones
+5359,Infecciones de la piel,Spanish,True,484,True,"Infecciones, Piel, cabello y uñas"
+2212,Infecciones de las vías urinarias,Spanish,True,181,True,"Riñones y sistema urinario, Infecciones"
+5740,Infecciones de los huesos,Spanish,True,126,True,"Huesos, articulaciones y músculos, Infecciones"
+4399,Infecciones de los ojos,Spanish,True,119,True,Ojos y visión
+1876,Infecciones de los oídos,Spanish,True,225,True,"Niños y adolescentes, Oído, nariz y garganta"
+2144,Infecciones de transmisión sexual,Spanish,True,686,True,"Mujeres, Infecciones, Hombres, Asuntos de salud sexual, Sistema reproductor femenino, Sistema reproductor masculino"
+3155,Infecciones durante el embarazo,Spanish,True,359,True,"Infecciones, Embarazo y reproducción, Sistema reproductor femenino"
+6047,Infecciones por campylobacter,Spanish,True,195,True,Infecciones
+1817,Infecciones por clamidia,Spanish,True,839,True,"Infecciones, Asuntos de salud sexual, Sistema reproductor femenino, Sistema reproductor masculino"
+4618,Infecciones por Clostridium difficile,Spanish,True,678,True,"Sistema digestivo, Infecciones"
+1796,Infecciones por cándida,Spanish,True,165,True,"Infecciones, Salud oral y dental, Sistema reproductor femenino"
+1874,Infecciones por Escherichia coli,Spanish,True,180,True,Infecciones
+2170,Infecciones por estafilococo,Spanish,True,806,True,Infecciones
+4540,Infecciones por estafilococo resistente a la meticilina,Spanish,True,207,True,Infecciones
+2174,Infecciones por estreptococo,Spanish,True,182,True,"Infecciones, Oído, nariz y garganta"
+1923,Infecciones por Giardia,Spanish,True,211,True,Infecciones
+5969,Infecciones por Haemophilus,Spanish,True,165,True,Infecciones
+3218,Infecciones por hantavirus,Spanish,True,202,True,Infecciones
+6079,Infecciones por Helicobacter pylori,Spanish,True,312,True,"Sistema digestivo, Infecciones"
+1914,Infecciones por hongos,Spanish,True,153,True,"Infecciones, Piel, cabello y uñas"
+2007,Infecciones por Listeria,Spanish,True,174,True,Infecciones
+5361,Infecciones por micobacterias,Spanish,True,112,True,Infecciones
+5715,Infecciones por neumococo,Spanish,True,171,True,Infecciones
+6104,Infecciones por Norovirus,Spanish,True,152,True,"Sistema digestivo, Infecciones"
+2093,Infecciones por Pneumocystis,Spanish,True,392,True,"Infecciones, Pulmón y vías respiratorias, Sistema inmunitario"
+2133,Infecciones por salmonela,Spanish,True,163,True,Infecciones
+2197,Infecciones por tiña,Spanish,True,180,True,"Infecciones, Piel, cabello y uñas"
+2221,Infecciones virales,Spanish,True,447,True,"Infecciones, Sistema inmunitario"
+3040,Infection Control,English,True,115,True,"Infections, Safety Issues"
+3154,Infections and Pregnancy,English,True,316,True,"Infections, Pregnancy and Reproduction, Female Reproductive System"
+5668,Infectious Arthritis,English,True,193,True,"Bones, Joints and Muscles, Infections"
+513,Infectious Diseases,English,True,442,True,"Infections, Immune System"
+298,Infectious Mononucleosis,English,True,647,True,"Infections, Immune System"
+1979,Infertilidad,Spanish,True,147,True,"Mujeres, Embarazo y reproducción, Hombres, Sistema reproductor femenino, Sistema reproductor masculino"
+5657,Infertilidad en el hombre,Spanish,True,157,True,"Hombres, Sistema reproductor masculino"
+5655,Infertilidad en la mujer,Spanish,True,245,True,"Mujeres, Embarazo y reproducción, Sistema reproductor femenino"
+250,Infertility,English,True,138,True,"Women, Pregnancy and Reproduction, Men, Female Reproductive System, Male Reproductive System"
+4912,Inhabilidad para conducir,Spanish,True,117,True,Asuntos de seguridad
+2140,Inhalación pasiva de humo,Spanish,True,138,True,"Envenenamientos, toxicología y salud ambiental"
+4158,Inhalantes,Spanish,True,687,True,Consumo de sustancias y sus trastornos
+4157,Inhalants,English,True,619,True,Substance Use and Disorders
+6081,Inhalation Injuries,English,True,321,True,"Lungs and Breathing, Injuries and Wounds"
+4275,Injerto óseo,Spanish,True,148,True,"Huesos, articulaciones y músculos, Transplantes y donaciones"
+6430,Inmunoterapia para el cáncer,Spanish,True,449,True,Cánceres
+526,Insect Bites and Stings,English,True,105,True,"Skin, Hair and Nails, Injuries and Wounds"
+6055,Insomnia,English,True,566,True,Brain and Nerves
+6056,Insomnio,Spanish,True,610,True,Cerebro y nervios
+3685,Insuficiencia ovárica primaria,Spanish,True,1068,True,"Mujeres, Embarazo y reproducción, Sistema endocrino, Sistema reproductor femenino"
+1990,Insuficiencia renal,Spanish,True,164,True,Riñones y sistema urinario
+6017,Insuficiencia respiratoria,Spanish,True,966,True,Pulmón y vías respiratorias
+5604,Interacciones y efectos secundarios de los medicamentos,Spanish,True,314,True,Tratamiento con medicamentos
+1274,Interstitial Cystitis,English,True,156,True,Kidneys and Urinary System
+5597,Interstitial Lung Diseases,English,True,141,True,Lungs and Breathing
+3652,Intestinal Cancer,English,True,115,True,"Cancers, Digestive System"
+5275,Intestinal Obstruction,English,True,79,True,Digestive System
+514,Intimate Partner Violence,English,True,800,True,"Women, Injuries and Wounds, Social/Family Issues"
+4027,Intimidación y ciberacoso,Spanish,True,1096,True,"Niños y adolescentes, Asuntos sociales y familiares"
+1997,Intolerancia a la lactosa,Spanish,True,155,True,"Sistema digestivo, Problemas del metabolismo"
+4597,Inundaciones,Spanish,True,174,True,Desastres
+5542,Iron,English,True,439,True,Food and Nutrition
+614,Irritable Bowel Syndrome,English,True,158,True,Digestive System
+6248,Ischemic Stroke,English,True,559,True,"Blood, Heart and Circulation, Brain and Nerves"
+1511,Islet Cell Transplantation,English,True,144,True,"Digestive System, Endocrine System, Transplantation and Donation"
+3067,Itching,English,True,236,True,"Infections, Skin, Hair and Nails, Symptoms"
+4452,Jaundice,English,True,137,True,"Digestive System, Symptoms"
+5536,Jaw Injuries and Disorders,English,True,192,True,"Bones, Joints and Muscles, Mouth and Teeth, Injuries and Wounds"
+4621,Joint Disorders,English,True,762,True,"Bones, Joints and Muscles"
+1292,Juvenile Arthritis,English,True,381,True,"Children and Teenagers, Bones, Joints and Muscles, Immune System"
+481,Kaposi Sarcoma,English,True,570,True,"Cancers, Skin, Hair and Nails"
+4921,Kawasaki Disease,English,True,570,True,"Blood, Heart and Circulation, Skin, Hair and Nails, Immune System"
+301,Kidney Cancer,English,True,190,True,"Cancers, Kidneys and Urinary System"
+5808,Kidney Cysts,English,True,223,True,Kidneys and Urinary System
+91,Kidney Diseases,English,True,176,True,Kidneys and Urinary System
+302,Kidney Failure,English,True,151,True,Kidneys and Urinary System
+1224,Kidney Stones,English,True,185,True,Kidneys and Urinary System
+6382,Kidney Tests,English,True,251,True,"Kidneys and Urinary System, Diagnostic Tests"
+1299,Kidney Transplantation,English,True,149,True,"Kidneys and Urinary System, Transplantation and Donation"
+1524,Klinefelter Syndrome,English,True,481,True,"Genetics/Birth Defects, Men"
+304,Knee Injuries and Disorders,English,True,172,True,"Bones, Joints and Muscles, Injuries and Wounds"
+3924,Knee Replacement,English,True,709,True,"Bones, Joints and Muscles, Surgery and Rehabilitation"
+1825,Labio leporino y paladar hendido,Spanish,True,265,True,"Salud oral y dental, Genética y defectos congénitos"
+210,Laboratory Tests,English,True,113,True,Diagnostic Tests
+1788,Lactancia,Spanish,True,184,True,"Mujeres, Alimentos y nutrición, Sistema reproductor femenino"
+898,Lactose Intolerance,English,True,136,True,"Digestive System, Metabolic Problems"
+6948,Ladilla,Spanish,True,482,True,"Infecciones, Piel, cabello y uñas, Asuntos de salud sexual"
+1404,Laser Eye Surgery,English,True,95,True,"Eyes and Vision, Surgery and Rehabilitation"
+1439,Latex Allergy,English,True,119,True,Immune System
+6783,"LDL: The ""Bad"" Cholesterol",English,True,1014,True,"Blood, Heart and Circulation, Food and Nutrition"
+608,Lead Poisoning,English,True,205,True,"Children and Teenagers, Poisoning, Toxicology, Environmental Health"
+306,Learning Disabilities,English,True,391,True,"Children and Teenagers, Mental Health and Behavior"
+509,Leg Injuries and Disorders,English,True,105,True,"Bones, Joints and Muscles, Injuries and Wounds"
+1526,Legionnaires' Disease,English,True,646,True,"Infections, Lungs and Breathing"
+3748,Leishmaniasis,English,True,189,True,"Infections, Skin, Hair and Nails"
+3749,Leishmaniasis,Spanish,True,204,True,"Infecciones, Piel, cabello y uñas"
+1765,Lesiones de la espalda,Spanish,True,145,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+5933,Lesiones del manguito rotatorio del hombro,Spanish,True,806,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+1895,Lesiones del ojo,Spanish,True,152,True,"Ojos y visión, Lesiones y heridas"
+6090,Lesiones del plexo braquial,Spanish,True,151,True,"Cerebro y nervios, Lesiones y heridas"
+5826,Lesiones en la cabeza,Spanish,True,205,True,Lesiones y heridas
+6281,Lesiones por electricidad,Spanish,True,177,True,Lesiones y heridas
+6082,Lesiones por inhalación,Spanish,True,364,True,"Pulmón y vías respiratorias, Lesiones y heridas"
+1957,Lesiones y enfermedades de la cadera,Spanish,True,223,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+1897,Lesiones y enfermedades de la cara,Spanish,True,125,True,"Cerebro y nervios, Oído, nariz y garganta, Lesiones y heridas"
+2165,Lesiones y enfermedades de la columna vertebral,Spanish,True,115,True,"Huesos, articulaciones y músculos"
+5537,Lesiones y enfermedades de la mandíbula,Spanish,True,202,True,"Huesos, articulaciones y músculos, Salud oral y dental, Lesiones y heridas"
+2239,Lesiones y enfermedades de la mano,Spanish,True,98,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+2259,Lesiones y enfermedades de la muñeca,Spanish,True,515,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+2056,Lesiones y enfermedades de la nariz,Spanish,True,154,True,"Oído, nariz y garganta"
+2002,Lesiones y enfermedades de la pierna,Spanish,True,115,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+1994,Lesiones y enfermedades de la rodilla,Spanish,True,201,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+5357,Lesiones y enfermedades de los dedos,Spanish,True,112,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+3649,Lesiones y enfermedades de los dedos del pie,Spanish,True,139,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+4330,Lesiones y enfermedades del brazo,Spanish,True,103,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+1881,Lesiones y enfermedades del codo,Spanish,True,121,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+2049,Lesiones y enfermedades del cuello,Spanish,True,141,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+2145,Lesiones y enfermedades del hombro,Spanish,True,179,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+1912,Lesiones y enfermedades del pie,Spanish,True,100,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+3651,Lesiones y enfermedades del talón,Spanish,True,131,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+1747,Lesiones y enfermedades del tobillo,Spanish,True,128,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+5859,Lesiones y enfermedades del tórax,Spanish,True,365,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+1930,Lesión cerebral traumática,Spanish,True,1164,True,"Cerebro y nervios, Lesiones y heridas"
+5621,Leucemia,Spanish,True,661,True,"Cánceres, Sangre, corazón y circulación"
+2006,Leucemia en niños,Spanish,True,761,True,"Cánceres, Niños y adolescentes, Sangre, corazón y circulación, Sistema inmunitario"
+2004,Leucemia linfocítica aguda,Spanish,True,835,True,"Cánceres, Sangre, corazón y circulación, Sistema inmunitario"
+2005,Leucemia linfocítica crónica,Spanish,True,781,True,"Cánceres, Sangre, corazón y circulación, Sistema inmunitario"
+5623,Leucemia mielógena aguda,Spanish,True,681,True,"Cánceres, Sangre, corazón y circulación"
+5625,Leucemia mielógena crónica,Spanish,True,998,True,"Cánceres, Sangre, corazón y circulación"
+2282,Leucodistrofias,Spanish,True,429,True,"Cerebro y nervios, Genética y defectos congénitos, Problemas del metabolismo"
+5620,Leukemia,English,True,619,True,"Cancers, Blood, Heart and Circulation"
+1718,Leukodystrophies,English,True,393,True,"Brain and Nerves, Genetics/Birth Defects, Metabolic Problems"
+4070,Lewy Body Dementia,English,True,900,True,Brain and Nerves
+5819,Ligadura de trompas,Spanish,True,128,True,"Mujeres, Embarazo y reproducción, Sistema reproductor femenino"
+518,Limb Loss,English,True,144,True,"Bones, Joints and Muscles"
+7608,"Limpieza, sanitización y desinfección",Spanish,True,615,True,"Infecciones, Asuntos de seguridad"
+4611,Linfedema,Spanish,True,111,True,"Sangre, corazón y circulación, Sistema inmunitario"
+2017,Linfoma,Spanish,True,262,True,"Cánceres, Sistema inmunitario"
+1960,Linfoma de Hodgkin,Spanish,True,479,True,"Cánceres, Sistema inmunitario"
+6387,Lipid Metabolism Disorders,English,True,262,True,Metabolic Problems
+6910,Lipoproteína de muy baja densidad (VLDL),Spanish,True,427,True,"Sangre, corazón y circulación, Alimentos y nutrición"
+1241,Listeria Infections,English,True,142,True,Infections
+309,Liver Cancer,English,True,136,True,"Cancers, Digestive System"
+310,Liver Diseases,English,True,131,True,Digestive System
+311,Liver Transplantation,English,True,182,True,"Digestive System, Transplantation and Donation"
+1502,Living with HIV,English,True,442,True,Immune System
+1225,Low Blood Pressure,English,True,193,True,"Blood, Heart and Circulation"
+4492,Lunares,Spanish,True,166,True,"Piel, cabello y uñas"
+86,Lung Cancer,English,True,876,True,"Cancers, Lungs and Breathing"
+484,Lung Diseases,English,True,125,True,Lungs and Breathing
+312,Lung Transplantation,English,True,115,True,"Lungs and Breathing, Transplantation and Donation"
+82,Lupus,English,True,981,True,Immune System
+2014,Lupus,Spanish,True,1072,True,Sistema inmunitario
+84,Lyme Disease,English,True,914,True,Infections
+591,Lymphatic Diseases,English,True,124,True,Immune System
+4610,Lymphedema,English,True,101,True,"Blood, Heart and Circulation, Immune System"
+117,Lymphoma,English,True,240,True,"Cancers, Immune System"
+5411,Lágrimas,Spanish,True,90,True,Ojos y visión
+313,Macular Degeneration,English,True,172,True,"Older Adults, Eyes and Vision"
+6034,Mal aliento,Spanish,True,142,True,"Salud oral y dental, Síntomas"
+5459,Malabsorption Syndromes,English,True,122,True,"Digestive System, Food and Nutrition"
+2019,Malaria,Spanish,True,199,True,"Sangre, corazón y circulación, Infecciones"
+315,Malaria,English,True,164,True,"Blood, Heart and Circulation, Infections"
+3577,Male Breast Cancer,English,True,118,True,"Cancers, Men"
+5656,Male Infertility,English,True,148,True,"Men, Male Reproductive System"
+4554,Malformaciones arteriovenosas,Spanish,True,591,True,"Sangre, corazón y circulación, Cerebro y nervios"
+6165,Malformaciones de Chiari,Spanish,True,164,True,"Cerebro y nervios, Genética y defectos congénitos"
+3023,Malformaciones del cerebro,Spanish,True,164,True,"Cerebro y nervios, Genética y defectos congénitos"
+5461,Malnutrition,English,True,571,True,Food and Nutrition
+1808,Maltrato al menor,Spanish,True,124,True,"Niños y adolescentes, Lesiones y heridas, Asuntos sociales y familiares"
+1263,Mammography,English,True,490,True,"Women, Diagnostic Tests, Female Reproductive System"
+2021,Mamografía,Spanish,True,530,True,"Mujeres, Pruebas de diagnóstico, Sistema reproductor femenino"
+1114,Managed Care,English,True,148,True,Health System
+5403,Manchas de nacimiento,Spanish,True,214,True,"Piel, cabello y uñas"
+7108,Manejo del dolor sin medicamentos,Spanish,True,760,True,Terapias complementarias y alternativas
+3448,Marcapasos y desfibrilador implantable,Spanish,True,251,True,"Sangre, corazón y circulación"
+3107,Mareo (Cinetosis),Spanish,True,215,True,Síntomas
+1864,Mareo y vértigo,Spanish,True,157,True,"Cerebro y nervios, Oído, nariz y garganta, Síntomas"
+939,Marfan Syndrome,English,True,152,True,Genetics/Birth Defects
+2024,Marihuana,Spanish,True,560,True,Consumo de sustancias y sus trastornos
+317,Marijuana,English,True,509,True,Substance Use and Disorders
+3752,Mastectomy,English,True,353,True,"Women, Surgery and Rehabilitation, Female Reproductive System"
+3753,Mastectomía,Spanish,True,380,True,"Mujeres, Cirugía y rehabilitación, Sistema reproductor femenino"
+318,Measles,English,True,94,True,"Children and Teenagers, Infections, Skin, Hair and Nails"
+1453,Medicaid,English,True,103,True,Health System
+2026,Medicaid,Spanish,True,118,True,Sistemas de salud
+4154,Medical Device Safety,English,True,107,True,Safety Issues
+5526,Medical Ethics,English,True,167,True,"Social/Family Issues, Health System, Personal Health Issues"
+1719,Medicamentos,Spanish,True,190,True,Tratamiento con medicamentos
+3800,Medicamentos sin receta médica,Spanish,True,293,True,Tratamiento con medicamentos
+6006,Medicamentos y los niños,Spanish,True,412,True,"Niños y adolescentes, Tratamiento con medicamentos"
+2027,Medicare,Spanish,True,151,True,"Personas mayores, Sistemas de salud"
+1257,Medicare,English,True,124,True,"Older Adults, Health System"
+5719,Medication Errors,English,True,275,True,Drug Therapy
+1735,Medicina complementaria e integral,Spanish,True,176,True,"Bienestar y estilo de vida, Terapias complementarias y alternativas"
+1951,Medicina herbaria,Spanish,True,143,True,"Bienestar y estilo de vida, Terapias complementarias y alternativas"
+5579,Medicinas durante el embarazo,Spanish,True,252,True,"Embarazo y reproducción, Genética y defectos congénitos"
+6812,Medicinas para el colesterol,Spanish,True,841,True,"Sangre, corazón y circulación, Alimentos y nutrición, Tratamiento con medicamentos"
+4288,Medicinas para el VIH,Spanish,True,860,True,"Sistema inmunitario, Tratamiento con medicamentos"
+4936,Medicinas para la diabetes,Spanish,True,756,True,"Sistema endocrino, Tratamiento con medicamentos, Diabetes mellitus"
+4940,Medicinas para la presión arterial,Spanish,True,448,True,"Sangre, corazón y circulación, Tratamiento con medicamentos"
+4962,Medicinas para la tos y el resfrío,Spanish,True,342,True,Tratamiento con medicamentos
+31,Medicines,English,True,184,True,Drug Therapy
+6005,Medicines and Children,English,True,360,True,"Children and Teenagers, Drug Therapy"
+3041,Medidas para el control de infecciones,Spanish,True,132,True,"Infecciones, Asuntos de seguridad"
+2028,Melanoma,Spanish,True,192,True,"Cánceres, Piel, cabello y uñas"
+321,Melanoma,English,True,170,True,"Cancers, Skin, Hair and Nails"
+2029,Memoria,Spanish,True,224,True,"Salud mental y conducta, Personas mayores, Cerebro y nervios"
+1452,Memory,English,True,194,True,"Mental Health and Behavior, Older Adults, Brain and Nerves"
+322,Men's Health,English,True,95,True,"Men, Population Groups"
+1674,Meniere's Disease,English,True,215,True,"Ear, Nose and Throat"
+324,Meningitis,English,True,207,True,"Infections, Brain and Nerves"
+2031,Meningitis,Spanish,True,224,True,"Infecciones, Cerebro y nervios"
+5651,Meningococcal Disease,English,True,916,True,Infections
+62,Menopause,English,True,1025,True,"Women, Older Adults, Female Reproductive System"
+2032,Menopausia,Spanish,True,1114,True,"Mujeres, Personas mayores, Sistema reproductor femenino"
+2033,Menstruación,Spanish,True,485,True,"Mujeres, Sistema endocrino, Sistema reproductor femenino"
+325,Menstruation,English,True,427,True,"Women, Endocrine System, Female Reproductive System"
+5676,Mental Disorders,English,True,413,True,Mental Health and Behavior
+35,Mental Health,English,True,550,True,"Mental Health and Behavior, Wellness and Lifestyle"
+2035,Mercurio,Spanish,True,200,True,"Envenenamientos, toxicología y salud ambiental"
+1436,Mercury,English,True,170,True,"Poisoning, Toxicology, Environmental Health"
+4015,Mesotelioma,Spanish,True,210,True,"Cánceres, Pulmón y vías respiratorias"
+4014,Mesothelioma,English,True,193,True,"Cancers, Lungs and Breathing"
+1703,Metabolic Disorders,English,True,166,True,"Genetics/Birth Defects, Metabolic Problems"
+3528,Metabolic Syndrome,English,True,652,True,"Blood, Heart and Circulation, Endocrine System, Metabolic Problems, Diabetes Mellitus"
+1737,Metanfetamina,Spanish,True,127,True,Consumo de sustancias y sus trastornos
+134,Methamphetamine,English,True,125,True,Substance Use and Disorders
+2045,Miastenia grave,Spanish,True,810,True,Cerebro y nervios
+7208,Mielitis flácida aguda,Spanish,True,606,True,"Niños y adolescentes, Infecciones, Cerebro y nervios"
+2040,Mieloma múltiple,Spanish,True,210,True,"Cánceres, Sistema inmunitario"
+3157,Migraine,English,True,827,True,Brain and Nerves
+3158,Migraña,Spanish,True,897,True,Cerebro y nervios
+5741,Mild Cognitive Impairment,English,True,197,True,"Mental Health and Behavior, Older Adults, Brain and Nerves"
+4299,Minerales en la dieta,Spanish,True,148,True,Alimentos y nutrición
+4298,Minerals,English,True,147,True,Food and Nutrition
+2248,Miositis,Spanish,True,162,True,"Huesos, articulaciones y músculos"
+515,Miscarriage,English,True,489,True,"Women, Pregnancy and Reproduction, Female Reproductive System"
+6391,Mitochondrial Diseases,English,True,254,True,Metabolic Problems
+1605,Mitral Valve Prolapse,English,True,798,True,"Blood, Heart and Circulation"
+4141,Mobility Aids,English,True,264,True,Wellness and Lifestyle
+2037,Moho,Spanish,True,92,True,"Envenenamientos, toxicología y salud ambiental"
+1538,Molds,English,True,82,True,"Poisoning, Toxicology, Environmental Health"
+4491,Moles,English,True,155,True,"Skin, Hair and Nails"
+1978,Mononucleosis infecciosa,Spanish,True,705,True,"Infecciones, Sistema inmunitario"
+6063,Mood Disorders,English,True,86,True,Mental Health and Behavior
+1775,Mordeduras de animales,Spanish,True,165,True,"Lesiones y heridas, Sistema inmunitario"
+2250,Moretones,Spanish,True,150,True,"Piel, cabello y uñas, Lesiones y heridas, Síntomas"
+6545,Mosquito Bites,English,True,802,True,"Skin, Hair and Nails, Injuries and Wounds"
+3106,Motion Sickness,English,True,177,True,Symptoms
+155,Motor Vehicle Safety,English,True,83,True,Safety Issues
+594,Mouth Disorders,English,True,202,True,"Ear, Nose and Throat, Mouth and Teeth"
+520,Movement Disorders,English,True,221,True,"Bones, Joints and Muscles, Brain and Nerves"
+3230,Mpox,Spanish,True,1151,True,Infecciones
+3229,Mpox,English,True,1020,True,Infections
+3953,MRI Scans,English,True,405,True,Diagnostic Tests
+4539,MRSA,English,True,141,True,Infections
+332,Multiple Myeloma,English,True,182,True,"Cancers, Immune System"
+83,Multiple Sclerosis,English,True,186,True,"Bones, Joints and Muscles, Brain and Nerves"
+334,Mumps,English,True,117,True,"Children and Teenagers, Infections"
+1707,Muscle Cramps,English,True,409,True,"Bones, Joints and Muscles"
+510,Muscle Disorders,English,True,81,True,"Bones, Joints and Muscles"
+335,Muscular Dystrophy,English,True,575,True,"Bones, Joints and Muscles, Genetics/Birth Defects"
+89,Myalgic Encephalomyelitis/Chronic Fatigue Syndrome,English,True,772,True,"Bones, Joints and Muscles, Infections"
+336,Myasthenia Gravis,English,True,783,True,Brain and Nerves
+5360,Mycobacterial Infections,English,True,118,True,Infections
+5550,Myelodysplastic Syndromes,English,True,197,True,Immune System
+1617,Myositis,English,True,134,True,"Bones, Joints and Muscles"
+532,Nail Diseases,English,True,124,True,"Skin, Hair and Nails"
+2720,Nasal Cancer,English,True,126,True,"Cancers, Ear, Nose and Throat"
+489,Nausea and Vomiting,English,True,328,True,"Digestive System, Symptoms"
+339,Neck Injuries and Disorders,English,True,129,True,"Bones, Joints and Muscles, Injuries and Wounds"
+2094,Neumonía,Spanish,True,1035,True,"Infecciones, Pulmón y vías respiratorias"
+340,Neural Tube Defects,English,True,222,True,"Brain and Nerves, Genetics/Birth Defects"
+2730,Neuralgia del trigémino,Spanish,True,159,True,Cerebro y nervios
+2051,Neuroblastoma,Spanish,True,539,True,"Cánceres, Cerebro y nervios"
+1240,Neuroblastoma,English,True,491,True,"Cancers, Brain and Nerves"
+1387,Neurofibromatosis,English,True,181,True,"Cancers, Brain and Nerves, Genetics/Birth Defects"
+2052,Neurofibromatosis,Spanish,True,201,True,"Cánceres, Cerebro y nervios, Genética y defectos congénitos"
+341,Neurologic Diseases,English,True,136,True,Brain and Nerves
+2251,Neuroma acústico,Spanish,True,186,True,"Cerebro y nervios, Oído, nariz y garganta"
+1518,Neuromuscular Disorders,English,True,121,True,"Bones, Joints and Muscles, Brain and Nerves"
+4041,Newborn Screening,English,True,181,True,"Children and Teenagers, Genetics/Birth Defects"
+6782,Niveles de colesterol: Lo que usted debe saber,Spanish,True,1102,True,"Sangre, corazón y circulación, Alimentos y nutrición"
+500,Noise,English,True,133,True,"Ear, Nose and Throat, Poisoning, Toxicology, Environmental Health"
+7107,Non-Drug Pain Management,English,True,713,True,Complementary and Alternative Therapies
+6103,Norovirus Infections,English,True,120,True,"Digestive System, Infections"
+1400,Nose Injuries and Disorders,English,True,155,True,"Ear, Nose and Throat"
+3955,Nuclear Scans,English,True,425,True,Diagnostic Tests
+1354,Nursing Homes,English,True,153,True,"Older Adults, Health System"
+2058,Nutrición,Spanish,True,263,True,"Alimentos y nutrición, Bienestar y estilo de vida"
+2234,Nutrición artificial,Spanish,True,74,True,Alimentos y nutrición
+3751,Nutrición del bebé y del recién nacido,Spanish,True,412,True,"Niños y adolescentes, Alimentos y nutrición"
+3084,Nutrición del niño,Spanish,True,145,True,"Niños y adolescentes, Alimentos y nutrición"
+5423,Nutrición del niño pequeño,Spanish,True,83,True,"Niños y adolescentes, Alimentos y nutrición"
+5985,Nutrición durante el embarazo,Spanish,True,897,True,"Embarazo y reproducción, Alimentos y nutrición"
+2247,Nutrición para personas mayores,Spanish,True,633,True,"Personas mayores, Alimentos y nutrición"
+36,Nutrition,English,True,252,True,"Food and Nutrition, Wellness and Lifestyle"
+1616,Nutrition for Older Adults,English,True,647,True,"Older Adults, Food and Nutrition"
+1271,Nutritional Support,English,True,62,True,Food and Nutrition
+2048,Náusea y vómitos,Spanish,True,359,True,"Sistema digestivo, Síntomas"
+2059,Obesidad,Spanish,True,714,True,"Alimentos y nutrición, Problemas del metabolismo"
+4078,Obesidad en niños,Spanish,True,205,True,"Niños y adolescentes, Alimentos y nutrición, Problemas del metabolismo"
+61,Obesity,English,True,645,True,"Food and Nutrition, Metabolic Problems"
+4077,Obesity in Children,English,True,175,True,"Children and Teenagers, Food and Nutrition, Metabolic Problems"
+5608,Objetos extraños en el cuerpo,Spanish,True,116,True,Lesiones y heridas
+471,Obsessive-Compulsive Disorder,English,True,749,True,Mental Health and Behavior
+5276,Obstrucción intestinal,Spanish,True,82,True,Sistema digestivo
+347,Occupational Health,English,True,96,True,"Wellness and Lifestyle, Safety Issues"
+3644,Occupational Health for Health Care Providers,English,True,66,True,"Safety Issues, Health System"
+5554,Oil Spills,English,True,108,True,"Poisoning, Toxicology, Environmental Health, Disasters"
+21,Older Adult Health,English,True,115,True,"Older Adults, Population Groups"
+7427,Older Adult Mental Health,English,True,328,True,"Mental Health and Behavior, Older Adults"
+7109,Opioid Overdose,English,True,740,True,Substance Use and Disorders
+7129,Opioid Use Disorder (OUD) Treatment,English,True,845,True,Substance Use and Disorders
+6432,Opioides y trastorno por consumo de opioides,Spanish,True,626,True,Consumo de sustancias y sus trastornos
+6431,Opioids and Opioid Use Disorder (OUD),English,True,550,True,Substance Use and Disorders
+6427,Optic Nerve Disorders,English,True,244,True,Eyes and Vision
+331,Oral Cancer,English,True,379,True,"Cancers, Mouth and Teeth"
+615,Organ Donation,English,True,136,True,Transplantation and Donation
+1462,Organ Transplantation,English,True,126,True,Transplantation and Donation
+4890,Orina y micción,Spanish,True,195,True,Riñones y sistema urinario
+3614,Orthodontia,English,True,111,True,Mouth and Teeth
+3615,Ortodoncia,Spanish,True,146,True,Salud oral y dental
+1250,Osteoarthritis,English,True,599,True,"Older Adults, Bones, Joints and Muscles"
+2065,Osteoartritis,Spanish,True,675,True,"Personas mayores, Huesos, articulaciones y músculos"
+940,Osteogenesis Imperfecta,English,True,164,True,"Bones, Joints and Muscles, Genetics/Birth Defects"
+2066,Osteogénesis imperfecta,Spanish,True,189,True,"Huesos, articulaciones y músculos, Genética y defectos congénitos"
+1647,Osteonecrosis,English,True,207,True,"Bones, Joints and Muscles"
+2254,Osteonecrosis,Spanish,True,225,True,"Huesos, articulaciones y músculos"
+2067,Osteoporosis,Spanish,True,867,True,"Mujeres, Personas mayores, Huesos, articulaciones y músculos"
+37,Osteoporosis,English,True,792,True,"Women, Older Adults, Bones, Joints and Muscles"
+3038,Ostomy,English,True,151,True,"Digestive System, Kidneys and Urinary System, Surgery and Rehabilitation"
+348,Ovarian Cancer,English,True,658,True,"Cancers, Women, Endocrine System, Female Reproductive System"
+349,Ovarian Cysts,English,True,217,True,"Women, Endocrine System, Female Reproductive System"
+5804,Ovarian Disorders,English,True,450,True,"Women, Female Reproductive System"
+3799,Over-the-Counter Medicines,English,True,269,True,Drug Therapy
+6132,Overactive Bladder,English,True,179,True,Kidneys and Urinary System
+3066,Oxiuros,Spanish,True,250,True,"Niños y adolescentes, Infecciones"
+5334,Oxygen Therapy,English,True,508,True,"Lungs and Breathing, Surgery and Rehabilitation"
+1539,Ozone,English,True,145,True,"Poisoning, Toxicology, Environmental Health"
+2070,Ozono,Spanish,True,173,True,"Envenenamientos, toxicología y salud ambiental"
+3447,Pacemakers and Implantable Defibrillators,English,True,221,True,"Blood, Heart and Circulation"
+1607,Paget's Disease of Bone,English,True,738,True,"Bones, Joints and Muscles"
+351,Pain,English,True,668,True,"Brain and Nerves, Symptoms"
+4059,Pain Relievers,English,True,411,True,Drug Therapy
+4823,Palliative Care,English,True,93,True,"Health System, Personal Health Issues"
+352,Pancreas Transplantation,English,True,133,True,"Digestive System, Endocrine System, Transplantation and Donation"
+469,Pancreatic Cancer,English,True,189,True,"Cancers, Digestive System, Endocrine System"
+110,Pancreatic Diseases,English,True,128,True,"Digestive System, Endocrine System"
+5877,Pancreatitis,Spanish,True,252,True,Sistema digestivo
+5876,Pancreatitis,English,True,243,True,Digestive System
+601,Panic Disorder,English,True,654,True,Mental Health and Behavior
+2042,Paperas,Spanish,True,154,True,"Niños y adolescentes, Infecciones"
+611,Paralysis,English,True,140,True,Brain and Nerves
+482,Parasitic Diseases,English,True,140,True,Infections
+356,Parathyroid Disorders,English,True,159,True,Endocrine System
+1495,Parenting,English,True,103,True,"Children and Teenagers, Social/Family Issues"
+85,Parkinson's Disease,English,True,224,True,"Older Adults, Brain and Nerves"
+4267,Paro cardíaco,Spanish,True,1295,True,"Sangre, corazón y circulación"
+1995,Parto,Spanish,True,557,True,"Mujeres, Embarazo y reproducción, Sistema reproductor femenino"
+5683,Parto de feto muerto,Spanish,True,545,True,"Mujeres, Embarazo y reproducción, Sistema reproductor femenino"
+2077,Parálisis,Spanish,True,161,True,Cerebro y nervios
+1804,Parálisis cerebral,Spanish,True,974,True,"Cerebro y nervios, Genética y defectos congénitos"
+1769,Parálisis de Bell,Spanish,True,153,True,Cerebro y nervios
+3610,Parálisis supranuclear progresiva,Spanish,True,465,True,Cerebro y nervios
+4253,Patient Rights,English,True,367,True,"Health System, Personal Health Issues"
+616,Patient Safety,English,True,138,True,"Health System, Personal Health Issues"
+1677,Pelvic Floor Disorders,English,True,215,True,"Women, Female Reproductive System"
+3044,Pelvic Inflammatory Disease,English,True,560,True,"Women, Infections, Female Reproductive System"
+4486,Pelvic Pain,English,True,201,True,"Women, Symptoms, Sexual Health Issues, Female Reproductive System"
+4948,Pemphigus,English,True,146,True,"Skin, Hair and Nails, Immune System"
+1360,Penis Disorders,English,True,92,True,"Men, Sexual Health Issues, Male Reproductive System"
+357,Peptic Ulcer,English,True,211,True,Digestive System
+2090,Perforaciones y tatuajes,Spanish,True,178,True,"Niños y adolescentes, Salud oral y dental, Piel, cabello y uñas"
+5664,Pericardial Disorders,English,True,135,True,"Blood, Heart and Circulation"
+6415,Period Pain,English,True,664,True,"Women, Female Reproductive System"
+4083,Peripheral Arterial Disease,English,True,282,True,"Blood, Heart and Circulation"
+1095,Peripheral Nerve Disorders,English,True,756,True,Brain and Nerves
+5583,Peritoneal Disorders,English,True,76,True,Digestive System
+3892,Personal Health Records,English,True,132,True,"Social/Family Issues, Health System, Personal Health Issues"
+4117,Personality Disorders,English,True,697,True,Mental Health and Behavior
+3537,Personas sin hogar y la salud,Spanish,True,286,True,Asuntos sociales y familiares
+5611,Peso corporal,Spanish,True,639,True,"Alimentos y nutrición, Problemas del metabolismo"
+6106,Peso del bebé al nacer,Spanish,True,378,True,"Niños y adolescentes, Embarazo y reproducción"
+2258,Peste,Spanish,True,186,True,Infecciones
+2085,Pesticidas,Spanish,True,142,True,"Envenenamientos, toxicología y salud ambiental"
+498,Pesticides,English,True,124,True,"Poisoning, Toxicology, Environmental Health"
+1399,Pet Health,English,True,109,True,Wellness and Lifestyle
+1231,Phenylketonuria,English,True,176,True,"Brain and Nerves, Genetics/Birth Defects, Metabolic Problems"
+1237,Pheochromocytoma,English,True,130,True,"Cancers, Endocrine System"
+360,Phobias,English,True,154,True,Mental Health and Behavior
+6546,Picadura de mosquitos,Spanish,True,848,True,"Piel, cabello y uñas, Lesiones y heridas"
+5250,Picaduras de arañas,Spanish,True,135,True,Lesiones y heridas
+2253,Picaduras de garrapatas,Spanish,True,579,True,"Infecciones, Piel, cabello y uñas, Lesiones y heridas"
+1981,Picaduras y mordeduras de insectos,Spanish,True,136,True,"Piel, cabello y uñas, Lesiones y heridas"
+3068,Picazón,Spanish,True,259,True,"Infecciones, Piel, cabello y uñas, Síntomas"
+1761,Pie de atleta,Spanish,True,134,True,"Infecciones, Piel, cabello y uñas"
+1854,Pie diabético,Spanish,True,876,True,"Sangre, corazón y circulación, Huesos, articulaciones y músculos, Cerebro y nervios, Sistema endocrino, Diabetes mellitus"
+1991,Piedras en los riñones,Spanish,True,200,True,Riñones y sistema urinario
+1283,Piercing and Tattoos,English,True,153,True,"Children and Teenagers, Mouth and Teeth, Skin, Hair and Nails"
+4946,Pink Eye,English,True,95,True,"Eyes and Vision, Infections"
+3065,Pinworms,English,True,225,True,"Children and Teenagers, Infections"
+1932,Piojos de la cabeza,Spanish,True,810,True,"Niños y adolescentes, Infecciones, Piel, cabello y uñas"
+6072,Piojos del cuerpo,Spanish,True,483,True,"Infecciones, Piel, cabello y uñas, Asuntos de salud sexual"
+362,Pituitary Disorders,English,True,67,True,"Brain and Nerves, Endocrine System"
+5328,Pituitary Tumors,English,True,129,True,"Cancers, Endocrine System"
+1656,Plague,English,True,148,True,Infections
+6279,Plan de alimentación DASH,Spanish,True,167,True,"Sangre, corazón y circulación, Alimentos y nutrición"
+2022,Planes de administración de seguros de salud,Spanish,True,177,True,Sistemas de salud
+38,Plastic and Cosmetic Surgery,English,True,93,True,Surgery and Rehabilitation
+5218,Platelet Disorders,English,True,271,True,"Blood, Heart and Circulation"
+4627,Pleural Disorders,English,True,190,True,Lungs and Breathing
+5714,Pneumococcal Infections,English,True,143,True,Infections
+1510,Pneumocystis Infections,English,True,372,True,"Infections, Lungs and Breathing, Immune System"
+363,Pneumonia,English,True,951,True,"Infections, Lungs and Breathing"
+3878,"Poison Ivy, Oak, and Sumac",English,True,158,True,"Skin, Hair and Nails"
+364,Poisoning,English,True,144,True,"Poisoning, Toxicology, Environmental Health, Safety Issues"
+2097,Polimialgia reumática,Spanish,True,203,True,"Huesos, articulaciones y músculos, Piel, cabello y uñas"
+365,Polio and Post-Polio Syndrome,English,True,938,True,"Bones, Joints and Muscles, Infections, Brain and Nerves"
+2096,Polio y síndrome de post-polio,Spanish,True,1024,True,"Huesos, articulaciones y músculos, Infecciones, Cerebro y nervios"
+5912,Polycystic Ovary Syndrome,English,True,912,True,"Women, Endocrine System, Female Reproductive System"
+1382,Polymyalgia Rheumatica,English,True,167,True,"Bones, Joints and Muscles, Skin, Hair and Nails"
+2098,Porfiria,Spanish,True,251,True,"Sistema digestivo, Piel, cabello y uñas"
+1249,Porphyria,English,True,205,True,"Digestive System, Skin, Hair and Nails"
+7807,Post-COVID Conditions (Long COVID),English,True,526,True,Infections
+367,Post-Traumatic Stress Disorder,English,True,874,True,Mental Health and Behavior
+4919,Postpartum Care,English,True,194,True,"Women, Pregnancy and Reproduction"
+1238,Postpartum Depression,English,True,733,True,"Women, Mental Health and Behavior, Pregnancy and Reproduction"
+5950,Potasio en la dieta,Spanish,True,192,True,Alimentos y nutrición
+5949,Potassium,English,True,166,True,Food and Nutrition
+1243,Prader-Willi Syndrome,English,True,141,True,"Mental Health and Behavior, Genetics/Birth Defects"
+4456,Preconcepción,Spanish,True,171,True,"Mujeres, Embarazo y reproducción, Hombres"
+4455,Preconception Care,English,True,160,True,"Women, Pregnancy and Reproduction, Men"
+5784,Prediabetes,English,True,570,True,"Endocrine System, Diabetes Mellitus"
+5785,Prediabetes,Spanish,True,630,True,"Sistema endocrino, Diabetes mellitus"
+368,Pregnancy,English,True,283,True,"Women, Pregnancy and Reproduction, Female Reproductive System"
+5578,Pregnancy and Medicines,English,True,245,True,"Pregnancy and Reproduction, Genetics/Birth Defects"
+5984,Pregnancy and Nutrition,English,True,856,True,"Pregnancy and Reproduction, Food and Nutrition"
+7131,Pregnancy and Opioids,English,True,631,True,"Substance Use and Disorders, Pregnancy and Reproduction, Female Reproductive System"
+1385,Pregnancy and Substance Use,English,True,672,True,"Substance Use and Disorders, Pregnancy and Reproduction, Female Reproductive System"
+1519,Premature Babies,English,True,132,True,"Children and Teenagers, Pregnancy and Reproduction"
+3793,Premenstrual Syndrome,English,True,548,True,"Women, Female Reproductive System"
+6,Prenatal Care,English,True,459,True,"Women, Pregnancy and Reproduction, Female Reproductive System"
+3091,Prenatal Testing,English,True,343,True,"Pregnancy and Reproduction, Genetics/Birth Defects, Diagnostic Tests, Female Reproductive System"
+1862,Preparativos y recuperación ante un desastre,Spanish,True,142,True,Desastres
+1706,Prescription Drug Misuse,English,True,522,True,Substance Use and Disorders
+1955,Presión arterial alta,Spanish,True,542,True,"Personas mayores, Sangre, corazón y circulación"
+2102,Presión arterial alta en el embarazo,Spanish,True,1109,True,"Embarazo y reproducción, Sistema reproductor femenino"
+2011,Presión arterial baja,Spanish,True,218,True,"Sangre, corazón y circulación"
+371,Pressure Sores,English,True,117,True,"Skin, Hair and Nails"
+6234,Preterm Labor,English,True,88,True,Female Reproductive System
+6451,Prevención de la presión arterial alta,Spanish,True,985,True,"Sangre, corazón y circulación"
+3684,Primary Ovarian Insufficiency,English,True,916,True,"Women, Pregnancy and Reproduction, Endocrine System, Female Reproductive System"
+1906,Primeros auxilios,Spanish,True,184,True,"Lesiones y heridas, Asuntos de seguridad"
+1822,Problemas circulatorios,Spanish,True,643,True,"Sangre, corazón y circulación"
+5429,Problemas comunes de los recién nacidos,Spanish,True,85,True,Niños y adolescentes
+2001,Problemas de aprendizaje,Spanish,True,455,True,"Niños y adolescentes, Salud mental y conducta"
+3694,Problemas de audición en niños,Spanish,True,167,True,"Niños y adolescentes, Oído, nariz y garganta"
+2231,Problemas de coagulación,Spanish,True,148,True,"Sangre, corazón y circulación"
+5954,Problemas de equilibrio,Spanish,True,233,True,"Personas mayores, Oído, nariz y garganta"
+1939,Problemas de la audición y sordera,Spanish,True,193,True,"Personas mayores, Oído, nariz y garganta"
+3647,Problemas de la sangre,Spanish,True,146,True,"Sangre, corazón y circulación"
+4622,Problemas de las articulaciones,Spanish,True,830,True,"Huesos, articulaciones y músculos"
+1853,Problemas de los ojos asociados con la diabetes,Spanish,True,887,True,"Ojos y visión, Sistema endocrino, Diabetes mellitus"
+1855,Problemas de los riñones asociados con la diabetes,Spanish,True,181,True,"Riñones y sistema urinario, Sistema endocrino, Diabetes mellitus"
+1956,Problemas de salud durante el embarazo,Spanish,True,526,True,"Embarazo y reproducción, Sistema reproductor femenino"
+1929,Problemas del cabello,Spanish,True,105,True,"Piel, cabello y uñas"
+6012,Problemas del corazón asociados con la diabetes,Spanish,True,743,True,"Sangre, corazón y circulación, Sistema endocrino, Diabetes mellitus"
+2161,Problemas del habla y de la comunicación,Spanish,True,127,True,"Cerebro y nervios, Salud oral y dental, Síntomas"
+5960,Problemas del habla y del lenguaje en niños,Spanish,True,177,True,"Niños y adolescentes, Cerebro y nervios"
+2264,Problemas del piso pélvico,Spanish,True,222,True,"Mujeres, Sistema reproductor femenino"
+2152,Problemas del sueño,Spanish,True,859,True,Cerebro y nervios
+5894,Problemas durante el parto,Spanish,True,429,True,"Niños y adolescentes, Mujeres, Embarazo y reproducción"
+1856,Problemas neurológicos asociados con la diabetes,Spanish,True,178,True,"Cerebro y nervios, Sistema endocrino, Diabetes mellitus"
+5674,Problemas para caminar,Spanish,True,341,True,"Huesos, articulaciones y músculos, Cerebro y nervios"
+1872,Problemas para tragar,Spanish,True,178,True,Sistema digestivo
+5219,Problemas plaquetarios,Spanish,True,279,True,"Sangre, corazón y circulación"
+5432,Problemas poco comunes de los recién nacidos,Spanish,True,88,True,Niños y adolescentes
+3078,Problemas respiratorios,Spanish,True,131,True,"Pulmón y vías respiratorias, Síntomas"
+1900,Problemas sexuales en las mujeres,Spanish,True,135,True,"Mujeres, Asuntos de salud sexual, Sistema reproductor femenino"
+5572,Problemas sexuales en los hombres,Spanish,True,83,True,"Hombres, Asuntos de salud sexual, Sistema reproductor masculino"
+2169,Problemas y lesiones causados por los deportes,Spanish,True,168,True,"Lesiones y heridas, Bienestar y estilo de vida, Aptitud física y ejercicio"
+2222,Problemas y pérdida de la visión,Spanish,True,719,True,Ojos y visión
+1937,Profesiones en el campo de la salud,Spanish,True,112,True,Sistemas de salud
+3609,Progressive Supranuclear Palsy,English,True,416,True,Brain and Nerves
+2036,Prolapso de la válvula mitral,Spanish,True,928,True,"Sangre, corazón y circulación"
+112,Prostate Cancer,English,True,888,True,"Cancers, Older Adults, Men, Male Reproductive System"
+6208,Prostate Cancer Screening,English,True,810,True,"Cancers, Men, Male Reproductive System"
+7,Prostate Diseases,English,True,707,True,"Older Adults, Men, Male Reproductive System"
+3669,Proteínas en la dieta,Spanish,True,157,True,Alimentos y nutrición
+2232,Proveedor de atención al paciente,Spanish,True,262,True,"Asuntos sociales y familiares, Sistemas de salud"
+2246,Proveedores de atención al paciente con Alzheimer,Spanish,True,480,True,"Personas mayores, Cerebro y nervios, Asuntos sociales y familiares"
+6309,Prueba de hemoglobina glicosilada (HbA1c),Spanish,True,240,True,"Pruebas de diagnóstico, Diabetes mellitus"
+1996,Pruebas de laboratorio,Spanish,True,128,True,Pruebas de diagnóstico
+1922,Pruebas genéticas,Spanish,True,1058,True,"Embarazo y reproducción, Genética y defectos congénitos, Pruebas de diagnóstico"
+7628,Pruebas para el COVID-19,Spanish,True,208,True,Pruebas de diagnóstico
+6453,Pruebas para la salud del corazón,Spanish,True,1168,True,"Sangre, corazón y circulación"
+3092,Pruebas prenatales,Spanish,True,375,True,"Embarazo y reproducción, Genética y defectos congénitos, Pruebas de diagnóstico, Sistema reproductor femenino"
+6207,Pruebas y exámenes para el cáncer de cuello uterino,Spanish,True,814,True,"Cánceres, Mujeres, Sistema reproductor femenino"
+6209,Pruebas y exámenes para el cáncer de próstata,Spanish,True,903,True,"Cánceres, Hombres, Sistema reproductor masculino"
+6372,Pruebas y exámenes para la tiroides,Spanish,True,271,True,"Sistema endocrino, Pruebas de diagnóstico"
+6383,Pruebas y exámenes para los riñones,Spanish,True,277,True,"Riñones y sistema urinario, Pruebas de diagnóstico"
+5574,Prótesis de las extremidades,Spanish,True,97,True,Cirugía y rehabilitación
+373,Psoriasis,English,True,183,True,"Skin, Hair and Nails"
+2112,Psoriasis,Spanish,True,189,True,"Piel, cabello y uñas"
+6159,Psoriatic Arthritis,English,True,123,True,"Bones, Joints and Muscles"
+4180,Psychotic Disorders,English,True,133,True,Mental Health and Behavior
+5570,Pubertad,Spanish,True,193,True,"Niños y adolescentes, Asuntos de salud sexual"
+5569,Puberty,English,True,154,True,"Children and Teenagers, Sexual Health Issues"
+6947,Pubic Lice,English,True,453,True,"Infections, Skin, Hair and Nails, Sexual Health Issues"
+377,Pulmonary Embolism,English,True,752,True,Lungs and Breathing
+378,Pulmonary Fibrosis,English,True,181,True,Lungs and Breathing
+3634,Pulmonary Hypertension,English,True,747,True,"Blood, Heart and Circulation, Lungs and Breathing"
+5980,Pulmonary Rehabilitation,English,True,650,True,"Lungs and Breathing, Surgery and Rehabilitation"
+4949,Pénfigo,Spanish,True,156,True,"Piel, cabello y uñas, Sistema inmunitario"
+5283,Pérdida de cabello,Spanish,True,112,True,"Piel, cabello y uñas"
+1738,Pérdida de extremidades,Spanish,True,157,True,"Huesos, articulaciones y músculos"
+1770,Pérdida de un ser querido,Spanish,True,140,True,"Salud mental y conducta, Asuntos sociales y familiares"
+2105,Pérdida del embarazo,Spanish,True,570,True,"Mujeres, Embarazo y reproducción, Sistema reproductor femenino"
+3135,Pólipos del colon,Spanish,True,174,True,"Cánceres, Sistema digestivo"
+1791,Quemaduras,Spanish,True,219,True,"Piel, cabello y uñas, Lesiones y heridas"
+1795,Quimioterapia para el cáncer,Spanish,True,377,True,"Cánceres, Tratamiento con medicamentos"
+1904,Quinta enfermedad,Spanish,True,674,True,"Niños y adolescentes, Infecciones, Piel, cabello y uñas"
+2728,Quiropráctica,Spanish,True,116,True,Terapias complementarias y alternativas
+2069,Quistes ováricos,Spanish,True,250,True,"Mujeres, Sistema endocrino, Sistema reproductor femenino"
+5809,Quistes renales,Spanish,True,255,True,Riñones y sistema urinario
+1359,Quitting Smoking,English,True,452,True,Substance Use and Disorders
+2115,Rabia,Spanish,True,168,True,Infecciones
+523,Rabies,English,True,139,True,Infections
+4598,Radiation Emergencies,English,True,151,True,Disasters
+379,Radiation Exposure,English,True,751,True,"Injuries and Wounds, Poisoning, Toxicology, Environmental Health"
+2724,Radiation Therapy,English,True,327,True,"Cancers, Surgery and Rehabilitation"
+2725,Radioterapia,Spanish,True,356,True,"Cánceres, Cirugía y rehabilitación"
+1443,Radon,English,True,601,True,"Poisoning, Toxicology, Environmental Health"
+2117,Radón,Spanish,True,685,True,"Envenenamientos, toxicología y salud ambiental"
+3899,Raquitismo,Spanish,True,197,True,"Huesos, articulaciones y músculos, Problemas del metabolismo"
+519,Rare Diseases,English,True,100,True,"Genetics/Birth Defects, Symptoms"
+208,Rashes,English,True,183,True,"Skin, Hair and Nails"
+381,Raynaud Phenomenon,English,True,814,True,"Blood, Heart and Circulation, Symptoms"
+3950,Rayos X,Spanish,True,396,True,Pruebas de diagnóstico
+3640,Reanimación cardiopulmonar,Spanish,True,282,True,"Sangre, corazón y circulación, Lesiones y heridas"
+1789,Reconstrucción del seno,Spanish,True,220,True,"Mujeres, Cirugía y rehabilitación, Sistema reproductor femenino"
+5870,Rectal Disorders,English,True,77,True,Digestive System
+5915,Recuperación de un ataque cerebral,Spanish,True,722,True,"Cerebro y nervios, Cirugía y rehabilitación"
+3923,Reemplazo de cadera,Spanish,True,188,True,"Huesos, articulaciones y músculos, Cirugía y rehabilitación"
+3925,Reemplazo de rodilla,Spanish,True,816,True,"Huesos, articulaciones y músculos, Cirugía y rehabilitación"
+1916,Reflujo gastroesofágico,Spanish,True,616,True,Sistema digestivo
+6468,Reflujo gastroesofágico en bebés,Spanish,True,1131,True,"Sistema digestivo, Niños y adolescentes"
+6522,Reflujo gastroesofágico en niños,Spanish,True,1052,True,"Sistema digestivo, Niños y adolescentes"
+6521,Reflux in Children,English,True,893,True,"Digestive System, Children and Teenagers"
+6467,Reflux in Infants,English,True,1025,True,"Digestive System, Children and Teenagers"
+946,Refractive Errors,English,True,515,True,Eyes and Vision
+2123,Rehabilitación,Spanish,True,482,True,Cirugía y rehabilitación
+5618,Rehabilitación cardíaca,Spanish,True,139,True,"Sangre, corazón y circulación, Cirugía y rehabilitación"
+5981,Rehabilitación pulmonar,Spanish,True,664,True,"Pulmón y vías respiratorias, Cirugía y rehabilitación"
+522,Rehabilitation,English,True,474,True,Surgery and Rehabilitation
+39,Reproductive Hazards,English,True,414,True,"Women, Pregnancy and Reproduction, Men, Poisoning, Toxicology, Environmental Health, Sexual Health Issues, Female Reproductive System, Male Reproductive System"
+1832,Resfrío,Spanish,True,643,True,"Infecciones, Oído, nariz y garganta"
+2265,Residencias con atención personalizada,Spanish,True,233,True,"Personas mayores, Sistemas de salud"
+2057,Residencias para personas mayores,Spanish,True,188,True,"Personas mayores, Sistemas de salud"
+6253,Resistencia a los antibióticos,Spanish,True,522,True,"Infecciones, Tratamiento con medicamentos"
+6016,Respiratory Failure,English,True,892,True,Lungs and Breathing
+3101,Respiratory Syncytial Virus Infections,English,True,817,True,"Children and Teenagers, Infections, Lungs and Breathing"
+384,Restless Legs,English,True,170,True,Brain and Nerves
+6141,Retinal Detachment,English,True,203,True,Eyes and Vision
+1681,Retinal Disorders,English,True,554,True,Eyes and Vision
+4272,Rett Syndrome,English,True,130,True,"Brain and Nerves, Genetics/Birth Defects"
+385,Reye Syndrome,English,True,154,True,Brain and Nerves
+5901,Rh Incompatibility,English,True,424,True,"Blood, Heart and Circulation, Pregnancy and Reproduction"
+1232,Rheumatoid Arthritis,English,True,795,True,"Bones, Joints and Muscles, Immune System"
+3898,Rickets,English,True,171,True,"Bones, Joints and Muscles, Metabolic Problems"
+6544,Riesgos de una vida sedentaria,Spanish,True,807,True,"Bienestar y estilo de vida, Aptitud física y ejercicio"
+2124,Riesgos para el sistema reproductivo,Spanish,True,433,True,"Mujeres, Embarazo y reproducción, Hombres, Envenenamientos, toxicología y salud ambiental, Asuntos de salud sexual, Sistema reproductor femenino, Sistema reproductor masculino"
+4747,Rinitis alérgica,Spanish,True,126,True,"Oído, nariz y garganta, Sistema inmunitario"
+2159,Roncar,Spanish,True,150,True,"Pulmón y vías respiratorias, Oído, nariz y garganta, Salud oral y dental"
+1247,Rosacea,English,True,136,True,"Skin, Hair and Nails"
+2129,Rosácea,Spanish,True,172,True,"Piel, cabello y uñas"
+5932,Rotator Cuff Injuries,English,True,700,True,"Bones, Joints and Muscles, Injuries and Wounds"
+3216,Rotavirus,Spanish,True,149,True,Infecciones
+3215,Rotavirus Infections,English,True,136,True,Infections
+387,Rubella,English,True,109,True,"Children and Teenagers, Infections, Skin, Hair and Nails"
+2130,Rubéola,Spanish,True,138,True,"Niños y adolescentes, Infecciones, Piel, cabello y uñas"
+2055,Ruido,Spanish,True,169,True,"Oído, nariz y garganta, Envenenamientos, toxicología y salud ambiental"
+3698,Rural Health Concerns,English,True,269,True,Health System
+7127,Safe Opioid Use,English,True,773,True,Substance Use and Disorders
+485,Safety,English,True,94,True,Safety Issues
+5331,Salivary Gland Cancer,English,True,131,True,"Cancers, Mouth and Teeth"
+388,Salivary Gland Disorders,English,True,132,True,Mouth and Teeth
+1213,Salmonella Infections,English,True,148,True,Infections
+1887,Salud ambiental,Spanish,True,99,True,"Envenenamientos, toxicología y salud ambiental"
+4884,Salud de la familia del veterano y personal militar,Spanish,True,153,True,Grupos especiales
+2086,Salud de las mascotas,Spanish,True,124,True,Bienestar y estilo de vida
+2230,Salud de las mujeres,Spanish,True,178,True,"Mujeres, Grupos especiales"
+2142,Salud de las personas mayores,Spanish,True,113,True,"Personas mayores, Grupos especiales"
+2241,Salud de los adolescentes,Spanish,True,117,True,"Niños y adolescentes, Grupos especiales"
+2030,Salud de los hombres,Spanish,True,113,True,"Hombres, Grupos especiales"
+7548,Salud del cuidador,Spanish,True,752,True,Asuntos sociales y familiares
+1815,Salud del niño,Spanish,True,125,True,"Niños y adolescentes, Grupos especiales"
+1976,Salud del niño pequeño,Spanish,True,128,True,Niños y adolescentes
+1911,Salud del pie,Spanish,True,145,True,"Huesos, articulaciones y músculos"
+2220,Salud del veterano y personal militar,Spanish,True,584,True,"Sistemas de salud, Grupos especiales"
+2204,Salud del viajero,Spanish,True,196,True,"Infecciones, Bienestar y estilo de vida"
+1847,Salud dental,Spanish,True,112,True,"Salud oral y dental, Bienestar y estilo de vida"
+1811,Salud dental del niño,Spanish,True,142,True,"Niños y adolescentes, Salud oral y dental"
+5418,Salud en la universidad,Spanish,True,117,True,"Niños y adolescentes, Bienestar y estilo de vida"
+3613,Salud escolar,Spanish,True,116,True,Niños y adolescentes
+3739,Salud global,Spanish,True,169,True,Sistemas de salud
+2034,Salud mental,Spanish,True,576,True,"Salud mental y conducta, Bienestar y estilo de vida"
+7428,Salud mental de las personas mayores,Spanish,True,367,True,"Salud mental y conducta, Personas mayores"
+3638,Salud mental del adolescente,Spanish,True,183,True,"Niños y adolescentes, Salud mental y conducta"
+3163,Salud mental del niño,Spanish,True,222,True,"Niños y adolescentes, Salud mental y conducta"
+2061,Salud ocupacional,Spanish,True,110,True,"Bienestar y estilo de vida, Asuntos de seguridad"
+3645,Salud ocupacional de proveedores de salud,Spanish,True,90,True,"Asuntos de seguridad, Sistemas de salud"
+3699,Salud rural,Spanish,True,299,True,Sistemas de salud
+2143,Salud sexual,Spanish,True,93,True,"Mujeres, Hombres, Bienestar y estilo de vida, Asuntos de salud sexual, Sistema reproductor femenino, Sistema reproductor masculino"
+2186,Salud sexual del adolescente,Spanish,True,836,True,"Niños y adolescentes, Asuntos de salud sexual"
+6058,Salud y desarrollo fetal,Spanish,True,195,True,Embarazo y reproducción
+4876,Sangrado vaginal,Spanish,True,153,True,"Mujeres, Síntomas, Sistema reproductor femenino"
+6038,Sangre,Spanish,True,290,True,"Sangre, corazón y circulación"
+2025,Sarampión,Spanish,True,120,True,"Niños y adolescentes, Infecciones, Piel, cabello y uñas"
+389,Sarcoidosis,English,True,817,True,Lungs and Breathing
+2134,Sarcoidosis,Spanish,True,862,True,Pulmón y vías respiratorias
+1987,Sarcoma de Kaposi,Spanish,True,633,True,"Cánceres, Piel, cabello y uñas"
+2160,Sarcoma del tejido blando,Spanish,True,140,True,Cánceres
+2135,Sarna,Spanish,True,231,True,"Infecciones, Piel, cabello y uñas"
+1849,Sarpullido,Spanish,True,200,True,"Piel, cabello y uñas"
+1254,Scabies,English,True,169,True,"Infections, Skin, Hair and Nails"
+3195,Scars,English,True,130,True,"Skin, Hair and Nails"
+392,Schizophrenia,English,True,231,True,Mental Health and Behavior
+3612,School Health,English,True,95,True,Children and Teenagers
+1532,Sciatica,English,True,150,True,"Bones, Joints and Muscles, Brain and Nerves, Symptoms"
+394,Scleroderma,English,True,779,True,"Skin, Hair and Nails, Immune System"
+395,Scoliosis,English,True,168,True,"Bones, Joints and Muscles"
+3140,Seasonal Affective Disorder,English,True,251,True,Mental Health and Behavior
+1473,Secondhand Smoke,English,True,113,True,"Poisoning, Toxicology, Environmental Health"
+2131,Seguridad,Spanish,True,115,True,Asuntos de seguridad
+2038,Seguridad al conducir,Spanish,True,99,True,Asuntos de seguridad
+1910,Seguridad con los alimentos,Spanish,True,118,True,"Alimentos y nutrición, Envenenamientos, toxicología y salud ambiental, Asuntos de seguridad"
+1905,Seguridad contra incendios,Spanish,True,142,True,Asuntos de seguridad
+7668,Seguridad de las vacunas,Spanish,True,698,True,"Infecciones, Sistema inmunitario, Asuntos de seguridad"
+4155,Seguridad de los equipos médicos,Spanish,True,120,True,Asuntos de seguridad
+1870,Seguridad de los medicamentos,Spanish,True,159,True,"Asuntos de seguridad, Tratamiento con medicamentos"
+1813,Seguridad del niño,Spanish,True,93,True,"Niños y adolescentes, Asuntos de seguridad"
+2082,Seguridad del paciente,Spanish,True,151,True,"Sistemas de salud, Asuntos personales de salud"
+2280,Seguridad en el agua (Recreación),Spanish,True,97,True,Asuntos de seguridad
+2276,Seguridad en los deportes,Spanish,True,104,True,"Asuntos de seguridad, Aptitud física y ejercicio"
+1936,Seguro de salud,Spanish,True,177,True,Sistemas de salud
+396,Seizures,English,True,164,True,Brain and Nerves
+6091,Self-Harm,English,True,491,True,Mental Health and Behavior
+6245,Sensibilidad al gluten,Spanish,True,315,True,Sistema digestivo
+3210,Sepsis,English,True,497,True,Infections
+3211,Sepsis,Spanish,True,529,True,Infecciones
+2260,Servicios de atención médica a domicilio,Spanish,True,201,True,"Personas mayores, Sistemas de salud"
+3874,Servicios de emergencias médicas,Spanish,True,172,True,Sistemas de salud
+380,Sexual Assault,English,True,942,True,"Women, Injuries and Wounds, Social/Family Issues"
+1542,Sexual Health,English,True,80,True,"Women, Men, Wellness and Lifestyle, Sexual Health Issues, Female Reproductive System, Male Reproductive System"
+5571,Sexual Problems in Men,English,True,68,True,"Men, Sexual Health Issues, Male Reproductive System"
+1423,Sexual Problems in Women,English,True,120,True,"Women, Sexual Health Issues, Female Reproductive System"
+400,Sexually Transmitted Infections,English,True,627,True,"Women, Infections, Men, Sexual Health Issues, Female Reproductive System, Male Reproductive System"
+90,Shingles,English,True,754,True,"Older Adults, Infections, Brain and Nerves, Skin, Hair and Nails"
+5717,Shock,English,True,180,True,"Blood, Heart and Circulation"
+5718,Shock,Spanish,True,223,True,"Sangre, corazón y circulación"
+505,Shoulder Injuries and Disorders,English,True,163,True,"Bones, Joints and Muscles, Injuries and Wounds"
+402,Sickle Cell Disease,English,True,1065,True,"Blood, Heart and Circulation, Genetics/Birth Defects"
+6289,Signos vitales,Spanish,True,245,True,"Pruebas de diagnóstico, Bienestar y estilo de vida"
+404,Sinusitis,English,True,190,True,"Older Adults, Infections, Lungs and Breathing, Ear, Nose and Throat"
+2147,Sinusitis,Spanish,True,208,True,"Personas mayores, Infecciones, Pulmón y vías respiratorias, Oído, nariz y garganta"
+2182,Siringomielia,Spanish,True,167,True,Cerebro y nervios
+1969,Sistema inmunitario y sus enfermedades,Spanish,True,602,True,Sistema inmunitario
+918,Sjogren's Syndrome,English,True,695,True,"Bones, Joints and Muscles, Immune System"
+3775,Skin Aging,English,True,140,True,"Older Adults, Skin, Hair and Nails"
+405,Skin Cancer,English,True,180,True,"Cancers, Skin, Hair and Nails"
+40,Skin Conditions,English,True,363,True,"Skin, Hair and Nails"
+5358,Skin Infections,English,True,447,True,"Infections, Skin, Hair and Nails"
+406,Skin Pigmentation Disorders,English,True,133,True,"Skin, Hair and Nails"
+2784,Sleep Apnea,English,True,190,True,"Brain and Nerves, Lungs and Breathing"
+408,Sleep Disorders,English,True,762,True,Brain and Nerves
+5446,Small Intestine Disorders,English,True,96,True,Digestive System
+1567,Smallpox,English,True,166,True,"Infections, Poisoning, Toxicology, Environmental Health"
+1474,Smokeless Tobacco,English,True,133,True,"Substance Use and Disorders, Mouth and Teeth"
+108,Smoking,English,True,622,True,"Substance Use and Disorders, Lungs and Breathing"
+1536,Smoking and Youth,English,True,100,True,"Children and Teenagers, Substance Use and Disorders"
+1531,Snoring,English,True,143,True,"Lungs and Breathing, Ear, Nose and Throat, Mouth and Teeth"
+7110,Sobredosis de opioides,Spanish,True,808,True,Consumo de sustancias y sus trastornos
+4209,Sobrellevando una enfermedad crónica,Spanish,True,165,True,Salud mental y conducta
+3667,Sodio en la dieta,Spanish,True,212,True,Alimentos y nutrición
+3666,Sodium,English,True,193,True,Food and Nutrition
+495,Soft Tissue Sarcoma,English,True,130,True,Cancers
+4748,Sore Throat,English,True,87,True,"Ear, Nose and Throat"
+409,Speech and Communication Disorders,English,True,99,True,"Brain and Nerves, Mouth and Teeth, Symptoms"
+5959,Speech and Language Problems in Children,English,True,144,True,"Children and Teenagers, Brain and Nerves"
+5249,Spider Bites,English,True,116,True,Injuries and Wounds
+1319,Spina Bifida,English,True,163,True,"Brain and Nerves, Genetics/Birth Defects"
+410,Spinal Cord Diseases,English,True,131,True,Brain and Nerves
+411,Spinal Cord Injuries,English,True,194,True,"Brain and Nerves, Injuries and Wounds"
+1694,Spinal Muscular Atrophy,English,True,826,True,"Brain and Nerves, Genetics/Birth Defects"
+412,Spinal Stenosis,English,True,133,True,"Bones, Joints and Muscles"
+1505,Spine Injuries and Disorders,English,True,102,True,"Bones, Joints and Muscles"
+414,Spleen Diseases,English,True,142,True,Immune System
+415,Sports Fitness,English,True,140,True,"Wellness and Lifestyle, Fitness and Exercise"
+620,Sports Injuries,English,True,137,True,"Injuries and Wounds, Wellness and Lifestyle, Fitness and Exercise"
+1702,Sports Safety,English,True,95,True,"Safety Issues, Fitness and Exercise"
+417,Sprains and Strains,English,True,160,True,"Bones, Joints and Muscles, Injuries and Wounds"
+418,Staphylococcal Infections,English,True,755,True,Infections
+4909,Statins,English,True,576,True,Drug Therapy
+1395,Stem Cells,English,True,168,True,Transplantation and Donation
+4557,Steroids,English,True,116,True,Drug Therapy
+5682,Stillbirth,English,True,0,False,"Women, Pregnancy and Reproduction, Female Reproductive System"
+419,Stomach Cancer,English,True,170,True,"Cancers, Digestive System"
+420,Stomach Disorders,English,True,138,True,Digestive System
+421,Streptococcal Infections,English,True,160,True,"Infections, Ear, Nose and Throat"
+422,Stress,English,True,716,True,Mental Health and Behavior
+8,Stroke,English,True,1032,True,"Older Adults, Blood, Heart and Circulation, Brain and Nerves"
+5914,Stroke Rehabilitation,English,True,624,True,"Brain and Nerves, Surgery and Rehabilitation"
+3629,Stuttering,English,True,708,True,"Brain and Nerves, Symptoms"
+4266,Sudden Cardiac Arrest,English,True,1157,True,"Blood, Heart and Circulation"
+504,Sudden Infant Death Syndrome,English,True,232,True,Children and Teenagers
+424,Suicide,English,True,594,True,"Mental Health and Behavior, Social/Family Issues"
+2178,Suicidio,Spanish,True,648,True,"Salud mental y conducta, Asuntos sociales y familiares"
+1419,Sun Exposure,English,True,147,True,"Skin, Hair and Nails"
+3539,Suplementos en la dieta,Spanish,True,145,True,"Alimentos y nutrición, Terapias complementarias y alternativas"
+426,Surgery,English,True,143,True,Surgery and Rehabilitation
+1309,Swallowing Disorders,English,True,166,True,Digestive System
+1344,Sweat,English,True,127,True,"Skin, Hair and Nails"
+3017,Syphilis,English,True,209,True,"Infections, Sexual Health Issues, Female Reproductive System, Male Reproductive System"
+1525,Syringomyelia,English,True,136,True,Brain and Nerves
+3018,Sífilis,Spanish,True,223,True,"Infecciones, Asuntos de salud sexual, Sistema reproductor femenino, Sistema reproductor masculino"
+1768,Síndrome de Behcet,Spanish,True,190,True,"Sangre, corazón y circulación, Ojos y visión, Salud oral y dental, Piel, cabello y uñas"
+4319,Síndrome de Cushing,Spanish,True,156,True,Sistema endocrino
+2121,Síndrome de dolor regional complejo,Spanish,True,176,True,Cerebro y nervios
+1866,Síndrome de Down,Spanish,True,790,True,Genética y defectos congénitos
+1880,Síndrome de Ehlers-Danlos,Spanish,True,135,True,"Huesos, articulaciones y músculos, Genética y defectos congénitos"
+1927,Síndrome de Guillain-Barré,Spanish,True,211,True,Cerebro y nervios
+1993,Síndrome de Klinefelter,Spanish,True,540,True,"Genética y defectos congénitos, Hombres"
+2193,Síndrome de la salida torácica,Spanish,True,227,True,Cerebro y nervios
+2126,Síndrome de las piernas inquietas,Spanish,True,215,True,Cerebro y nervios
+2023,Síndrome de Marfan,Spanish,True,194,True,Genética y defectos congénitos
+2177,Síndrome de muerte infantil súbita,Spanish,True,258,True,Niños y adolescentes
+5913,Síndrome de ovario poliquístico,Spanish,True,1029,True,"Mujeres, Sistema endocrino, Sistema reproductor femenino"
+2101,Síndrome de Prader-Willi,Spanish,True,172,True,"Salud mental y conducta, Genética y defectos congénitos"
+4273,Síndrome de Rett,Spanish,True,156,True,"Cerebro y nervios, Genética y defectos congénitos"
+2127,Síndrome de Reye,Spanish,True,176,True,Cerebro y nervios
+2148,Síndrome de Sjögren,Spanish,True,740,True,"Huesos, articulaciones y músculos, Sistema inmunitario"
+2201,Síndrome de Tourette,Spanish,True,160,True,"Cerebro y nervios, Genética y defectos congénitos"
+2208,Síndrome de Turner,Spanish,True,429,True,"Genética y defectos congénitos, Sistema endocrino"
+4369,Síndrome de Usher,Spanish,True,186,True,"Ojos y visión, Oído, nariz y garganta, Genética y defectos congénitos"
+1983,Síndrome del intestino irritable,Spanish,True,179,True,Sistema digestivo
+1799,Síndrome del túnel carpiano,Spanish,True,962,True,"Huesos, articulaciones y músculos, Cerebro y nervios"
+3529,Síndrome metabólico,Spanish,True,755,True,"Sangre, corazón y circulación, Sistema endocrino, Problemas del metabolismo, Diabetes mellitus"
+3794,Síndrome premenstrual,Spanish,True,624,True,"Mujeres, Sistema reproductor femenino"
+3691,Síndrome X frágil,Spanish,True,205,True,Genética y defectos congénitos
+5460,Síndromes de malabsorción,Spanish,True,90,True,"Sistema digestivo, Alimentos y nutrición"
+5551,Síndromes mielodisplásicos,Spanish,True,214,True,Sistema inmunitario
+2155,Tabaco que no se fuma,Spanish,True,150,True,"Consumo de sustancias y sus trastornos, Salud oral y dental"
+1448,Tailbone Disorders,English,True,98,True,"Bones, Joints and Muscles"
+4240,Talasemia,Spanish,True,185,True,"Sangre, corazón y circulación"
+3073,Talking With Your Doctor,English,True,320,True,"Social/Family Issues, Health System, Personal Health Issues"
+6541,Tanning,English,True,927,True,"Skin, Hair and Nails"
+3630,Tartamudez,Spanish,True,778,True,"Cerebro y nervios, Síntomas"
+430,Taste and Smell Disorders,English,True,168,True,"Older Adults, Ear, Nose and Throat, Mouth and Teeth"
+2737,Tay-Sachs Disease,English,True,172,True,"Brain and Nerves, Genetics/Birth Defects"
+5410,Tears,English,True,86,True,Eyes and Vision
+3137,Tecnología asistencial,Spanish,True,219,True,"Personas mayores, Cirugía y rehabilitación"
+6243,Tecnología de reproducción asistida,Spanish,True,167,True,"Sistema reproductor femenino, Sistema reproductor masculino"
+6931,Teen Depression,English,True,967,True,"Children and Teenagers, Mental Health and Behavior"
+1587,Teen Development,English,True,149,True,"Children and Teenagers, Mental Health and Behavior"
+609,Teen Health,English,True,117,True,"Children and Teenagers, Population Groups"
+3637,Teen Mental Health,English,True,151,True,"Children and Teenagers, Mental Health and Behavior"
+1459,Teen Sexual Health,English,True,773,True,"Children and Teenagers, Sexual Health Issues"
+1358,Teen Violence,English,True,107,True,"Children and Teenagers, Social/Family Issues"
+431,Teenage Pregnancy,English,True,135,True,"Children and Teenagers, Women, Pregnancy and Reproduction, Female Reproductive System"
+7467,Telehealth,English,True,480,True,Health System
+7468,Telesalud,Spanish,True,554,True,Sistemas de salud
+2205,Temblor,Spanish,True,801,True,"Personas mayores, Cerebro y nervios"
+1235,Temporomandibular Disorders,English,True,854,True,Mouth and Teeth
+1618,Tendinitis,English,True,128,True,"Bones, Joints and Muscles"
+2249,Tendinitis,Spanish,True,143,True,"Huesos, articulaciones y músculos"
+3193,Terapia alternativa para el cáncer,Spanish,True,330,True,"Cánceres, Terapias complementarias y alternativas"
+5335,Terapia con oxígeno,Spanish,True,565,True,"Pulmón y vías respiratorias, Cirugía y rehabilitación"
+2252,Terapia de reemplazo hormonal,Spanish,True,286,True,"Mujeres, Sistema endocrino, Tratamiento con medicamentos, Sistema reproductor femenino"
+1841,Terapia intensiva,Spanish,True,331,True,Cirugía y rehabilitación
+4595,Terremotos,Spanish,True,147,True,Desastres
+434,Testicular Cancer,English,True,436,True,"Cancers, Endocrine System, Men, Male Reproductive System"
+4280,Testicular Disorders,English,True,95,True,"Endocrine System, Men, Sexual Health Issues, Male Reproductive System"
+435,Tetanus,English,True,138,True,Infections
+6322,"Tetanus, Diphtheria, and Pertussis Vaccines",English,True,269,True,Immune System
+4239,Thalassemia,English,True,159,True,"Blood, Heart and Circulation"
+1251,Thoracic Outlet Syndrome,English,True,189,True,Brain and Nerves
+5841,Throat Cancer,English,True,178,True,"Cancers, Ear, Nose and Throat"
+1660,Throat Disorders,English,True,129,True,"Lungs and Breathing, Ear, Nose and Throat"
+1245,Thymus Cancer,English,True,121,True,"Cancers, Immune System, Endocrine System"
+438,Thyroid Cancer,English,True,400,True,"Cancers, Ear, Nose and Throat, Endocrine System"
+439,Thyroid Diseases,English,True,192,True,Endocrine System
+6371,Thyroid Tests,English,True,235,True,"Endocrine System, Diagnostic Tests"
+1645,Tick Bites,English,True,536,True,"Infections, Skin, Hair and Nails, Injuries and Wounds"
+1228,Tinea Infections,English,True,144,True,"Infections, Skin, Hair and Nails"
+2198,Tinnitus,Spanish,True,138,True,"Oído, nariz y garganta"
+1236,Tinnitus,English,True,124,True,"Ear, Nose and Throat"
+5424,Toddler Development,English,True,118,True,Children and Teenagers
+1547,Toddler Health,English,True,84,True,Children and Teenagers
+5422,Toddler Nutrition,English,True,57,True,"Children and Teenagers, Food and Nutrition"
+3648,Toe Injuries and Disorders,English,True,115,True,"Bones, Joints and Muscles, Injuries and Wounds"
+3952,Tomografía computarizada,Spanish,True,465,True,Pruebas de diagnóstico
+5266,Tongue Disorders,English,True,63,True,Mouth and Teeth
+6440,Tonsillitis,English,True,779,True,"Children and Teenagers, Ear, Nose and Throat, Mouth and Teeth, Immune System"
+5951,Tooth Decay,English,True,919,True,Mouth and Teeth
+3069,Tooth Disorders,English,True,403,True,Mouth and Teeth
+2235,Torceduras y distensiones,Spanish,True,183,True,"Huesos, articulaciones y músculos, Lesiones y heridas"
+4602,Tornadoes,English,True,128,True,Disasters
+4603,Tornados,Spanish,True,147,True,Desastres
+1839,Tos,Spanish,True,188,True,"Pulmón y vías respiratorias, Oído, nariz y garganta, Síntomas"
+2229,Tos ferina,Spanish,True,815,True,"Niños y adolescentes, Infecciones, Pulmón y vías respiratorias"
+442,Tourette Syndrome,English,True,139,True,"Brain and Nerves, Genetics/Birth Defects"
+2202,Toxoplasmosis,Spanish,True,157,True,Infecciones
+1214,Toxoplasmosis,English,True,139,True,Infections
+6235,Trabajo de parto prematuro,Spanish,True,109,True,Sistema reproductor femenino
+5448,Tracheal Disorders,English,True,123,True,Lungs and Breathing
+1778,Transfusión y donación de sangre,Spanish,True,217,True,"Sangre, corazón y circulación, Transplantes y donaciones"
+1570,Transient Ischemic Attack,English,True,202,True,"Blood, Heart and Circulation, Brain and Nerves"
+2181,Transpiración,Spanish,True,154,True,"Piel, cabello y uñas"
+1944,Trasplante de corazón,Spanish,True,135,True,"Sangre, corazón y circulación, Transplantes y donaciones"
+1984,Trasplante de células de los islotes,Spanish,True,169,True,"Sistema digestivo, Sistema endocrino, Transplantes y donaciones"
+2010,Trasplante de hígado,Spanish,True,188,True,"Sistema digestivo, Transplantes y donaciones"
+1782,Trasplante de médula ósea,Spanish,True,243,True,"Sistema inmunitario, Transplantes y donaciones"
+2013,Trasplante de pulmón,Spanish,True,103,True,"Pulmón y vías respiratorias, Transplantes y donaciones"
+2073,Trasplante de páncreas,Spanish,True,153,True,"Sistema digestivo, Sistema endocrino, Transplantes y donaciones"
+1992,Trasplante de riñón,Spanish,True,155,True,"Riñones y sistema urinario, Transplantes y donaciones"
+2064,Trasplante de órganos,Spanish,True,152,True,Transplantes y donaciones
+3141,Trastorno afectivo estacional,Spanish,True,280,True,Salud mental y conducta
+1772,Trastorno bipolar,Spanish,True,1100,True,Salud mental y conducta
+1762,Trastorno de déficit de atención e hiperactividad,Spanish,True,1031,True,"Niños y adolescentes, Salud mental y conducta, Cerebro y nervios"
+2099,Trastorno de estrés postraumático,Spanish,True,915,True,Salud mental y conducta
+2076,Trastorno de pánico,Spanish,True,738,True,Salud mental y conducta
+1763,Trastorno del espectro autista,Spanish,True,265,True,"Niños y adolescentes, Salud mental y conducta"
+2060,Trastorno obsesivo-compulsivo,Spanish,True,799,True,Salud mental y conducta
+1733,Trastorno por consumo de alcohol,Spanish,True,615,True,Consumo de sustancias y sus trastornos
+3118,Trastornos cerebrales genéticos,Spanish,True,176,True,"Cerebro y nervios, Genética y defectos congénitos, Problemas del metabolismo"
+1926,Trastornos de crecimiento,Spanish,True,226,True,"Niños y adolescentes, Sistema endocrino"
+1877,Trastornos de la alimentación,Spanish,True,1088,True,"Salud mental y conducta, Alimentos y nutrición"
+2190,Trastornos de la articulación temporomandibular,Spanish,True,979,True,Salud oral y dental
+1809,Trastornos de la conducta del niño,Spanish,True,205,True,"Niños y adolescentes, Salud mental y conducta"
+5267,Trastornos de la lengua,Spanish,True,65,True,Salud oral y dental
+4118,Trastornos de la personalidad,Spanish,True,779,True,Salud mental y conducta
+5353,Trastornos de la uretra,Spanish,True,158,True,Riñones y sistema urinario
+2255,Trastornos de la voz,Spanish,True,224,True,Salud oral y dental
+5978,Trastornos de los bronquios,Spanish,True,112,True,Pulmón y vías respiratorias
+5874,Trastornos de movimiento del ojo,Spanish,True,121,True,Ojos y visión
+2151,Trastornos de pigmentación de la piel,Spanish,True,172,True,"Piel, cabello y uñas"
+5416,Trastornos del cuello uterino,Spanish,True,648,True,Sistema reproductor femenino
+1850,Trastornos del desarrollo,Spanish,True,419,True,"Niños y adolescentes, Salud mental y conducta"
+1901,Trastornos del espectro alcohólico fetal,Spanish,True,413,True,"Consumo de sustancias y sus trastornos, Embarazo y reproducción, Genética y defectos congénitos"
+6064,Trastornos del estado de ánimo,Spanish,True,118,True,Salud mental y conducta
+2184,Trastornos del gusto y del olfato,Spanish,True,191,True,"Personas mayores, Oído, nariz y garganta, Salud oral y dental"
+6386,Trastornos del metabolismo de los aminoácidos,Spanish,True,231,True,Problemas del metabolismo
+6390,Trastornos del metabolismo de los carbohidratos,Spanish,True,248,True,Problemas del metabolismo
+6388,Trastornos del metabolismo de los lípidos,Spanish,True,294,True,Problemas del metabolismo
+2039,Trastornos del movimiento,Spanish,True,229,True,"Huesos, articulaciones y músculos, Cerebro y nervios"
+6428,Trastornos del nervio óptico,Spanish,True,263,True,Ojos y visión
+5665,Trastornos del pericardio,Spanish,True,146,True,"Sangre, corazón y circulación"
+4243,Trastornos del sistema nervioso autónomo,Spanish,True,180,True,Cerebro y nervios
+5351,Trastornos del uréter,Spanish,True,180,True,Riñones y sistema urinario
+3070,Trastornos dentales,Spanish,True,115,True,Salud oral y dental
+5677,Trastornos mentales,Spanish,True,432,True,Salud mental y conducta
+2277,Trastornos metabólicos,Spanish,True,168,True,"Genética y defectos congénitos, Problemas del metabolismo"
+6392,Trastornos mitocondriales,Spanish,True,275,True,Problemas del metabolismo
+4628,Trastornos pleurales,Spanish,True,203,True,Pulmón y vías respiratorias
+4181,Trastornos psicóticos,Spanish,True,154,True,Salud mental y conducta
+7130,Tratamiento del trastorno por consumo de opioides,Spanish,True,938,True,Consumo de sustancias y sus trastornos
+6622,Tratamiento para el trastorno por consumo de alcohol,Spanish,True,828,True,Consumo de sustancias y sus trastornos
+271,Traumatic Brain Injury,English,True,1076,True,"Brain and Nerves, Injuries and Wounds"
+2164,Traumatismo de la médula espinal,Spanish,True,227,True,"Cerebro y nervios, Lesiones y heridas"
+444,Traveler's Health,English,True,176,True,"Infections, Wellness and Lifestyle"
+1315,Tremor,English,True,782,True,"Older Adults, Brain and Nerves"
+4325,Trichomoniasis,English,True,218,True,"Infections, Sexual Health Issues, Female Reproductive System"
+4326,Tricomoniasis,Spanish,True,235,True,"Infecciones, Asuntos de salud sexual, Sistema reproductor femenino"
+2729,Trigeminal Neuralgia,English,True,146,True,Brain and Nerves
+4278,Triglicéridos,Spanish,True,330,True,"Sangre, corazón y circulación, Alimentos y nutrición"
+4277,Triglycerides,English,True,298,True,"Blood, Heart and Circulation, Food and Nutrition"
+2269,Trombosis venosa profunda,Spanish,True,171,True,"Sangre, corazón y circulación"
+4606,Tsunamis,English,True,137,True,Disasters
+4607,Tsunamis,Spanish,True,145,True,Desastres
+5818,Tubal Ligation,English,True,119,True,"Women, Pregnancy and Reproduction, Female Reproductive System"
+41,Tuberculosis,English,True,1062,True,"Infections, Lungs and Breathing"
+2206,Tuberculosis,Spanish,True,1127,True,"Infecciones, Pulmón y vías respiratorias"
+1375,Tuberous Sclerosis,English,True,122,True,"Brain and Nerves, Genetics/Birth Defects"
+3076,Tumor de Wilms,Spanish,True,130,True,"Cánceres, Riñones y sistema urinario"
+3586,Tumores benignos,Spanish,True,148,True,Cánceres
+1784,Tumores cerebrales,Spanish,True,207,True,"Cánceres, Cerebro y nervios"
+4178,Tumores cerebrales en niños,Spanish,True,219,True,"Cánceres, Niños y adolescentes, Cerebro y nervios"
+5329,Tumores de la glándula pituitaria,Spanish,True,164,True,"Cánceres, Sistema endocrino"
+5535,Tumores durante el embarazo,Spanish,True,190,True,"Cánceres, Embarazo y reproducción"
+5534,Tumors and Pregnancy,English,True,184,True,"Cancers, Pregnancy and Reproduction"
+1504,Turner Syndrome,English,True,366,True,"Genetics/Birth Defects, Endocrine System"
+1520,"Twins, Triplets, Multiple Births",English,True,173,True,"Children and Teenagers, Pregnancy and Reproduction"
+2192,Tétanos,Spanish,True,170,True,Infecciones
+446,Ulcerative Colitis,English,True,160,True,Digestive System
+5431,Uncommon Infant and Newborn Problems,English,True,93,True,Children and Teenagers
+1313,Underage Drinking,English,True,136,True,"Children and Teenagers, Substance Use and Disorders"
+3894,Understanding Medical Research,English,True,408,True,"Social/Family Issues, Personal Health Issues"
+5350,Ureteral Disorders,English,True,158,True,Kidneys and Urinary System
+5352,Urethral Disorders,English,True,146,True,Kidneys and Urinary System
+6355,Urinalysis,English,True,119,True,"Kidneys and Urinary System, Diagnostic Tests"
+114,Urinary Incontinence,English,True,1001,True,"Older Adults, Kidneys and Urinary System"
+448,Urinary Tract Infections,English,True,170,True,"Kidneys and Urinary System, Infections"
+4889,Urine and Urination,English,True,177,True,Kidneys and Urinary System
+1959,Urticaria,Spanish,True,121,True,"Piel, cabello y uñas, Sistema inmunitario, Síntomas"
+4368,Usher Syndrome,English,True,161,True,"Eyes and Vision, Ear, Nose and Throat, Genetics/Birth Defects"
+2278,Uso indebido de medicamentos recetados,Spanish,True,579,True,Consumo de sustancias y sus trastornos
+7128,Uso seguro de opioides,Spanish,True,752,True,Consumo de sustancias y sus trastornos
+449,Uterine Cancer,English,True,489,True,"Cancers, Women, Female Reproductive System"
+477,Uterine Diseases,English,True,297,True,"Women, Female Reproductive System"
+1222,Uterine Fibroids,English,True,573,True,"Women, Female Reproductive System"
+7667,Vaccine Safety,English,True,691,True,"Infections, Immune System, Safety Issues"
+294,Vaccines,English,True,638,True,"Infections, Immune System"
+6237,Vacuna para la gripe,Spanish,True,823,True,Sistema inmunitario
+1970,Vacunación,Spanish,True,671,True,"Infecciones, Sistema inmunitario"
+7648,Vacunas contra el COVID-19,Spanish,True,128,True,"Infecciones, Sistema inmunitario"
+6323,"Vacunas para el tétanos, difteria y tos ferina",Spanish,True,279,True,Sistema inmunitario
+1814,Vacunas para los niños,Spanish,True,609,True,"Niños y adolescentes, Infecciones, Sistema inmunitario"
+4875,Vaginal Bleeding,English,True,137,True,"Women, Symptoms, Female Reproductive System"
+494,Vaginal Cancer,English,True,327,True,"Cancers, Women, Female Reproductive System"
+451,Vaginal Diseases,English,True,63,True,"Women, Female Reproductive System"
+6417,Vaginitis,English,True,808,True,"Women, Female Reproductive System"
+6418,Vaginitis,Spanish,True,857,True,"Mujeres, Sistema reproductor femenino"
+5634,Valley Fever,English,True,214,True,Infections
+1807,Varicela,Spanish,True,244,True,"Niños y adolescentes, Infecciones, Piel, cabello y uñas"
+540,Varicose Veins,English,True,191,True,"Blood, Heart and Circulation"
+533,Vascular Diseases,English,True,600,True,"Blood, Heart and Circulation"
+1424,Vasculitis,English,True,178,True,"Blood, Heart and Circulation"
+2218,Vasculitis,Spanish,True,196,True,"Sangre, corazón y circulación"
+5821,Vasectomy,English,True,342,True,"Pregnancy and Reproduction, Men, Male Reproductive System"
+5822,Vasectomía,Spanish,True,338,True,"Embarazo y reproducción, Hombres, Sistema reproductor masculino"
+1613,Vegetarian Diet,English,True,123,True,Food and Nutrition
+6133,Vejiga hiperactiva,Spanish,True,193,True,Riñones y sistema urinario
+2225,Verrugas,Spanish,True,115,True,"Infecciones, Piel, cabello y uñas"
+4323,Verrugas genitales,Spanish,True,494,True,"Infecciones, Asuntos de salud sexual, Sistema reproductor femenino, Sistema reproductor masculino"
+4883,Veterans and Military Family Health,English,True,126,True,Population Groups
+453,Veterans and Military Health,English,True,495,True,"Health System, Population Groups"
+1726,VIH,Spanish,True,832,True,"Infecciones, Sistema inmunitario"
+5738,VIH en mujeres,Spanish,True,385,True,"Mujeres, Sistema inmunitario"
+1728,VIH y el embarazo,Spanish,True,535,True,"Mujeres, Embarazo y reproducción, Sistema inmunitario, Sistema reproductor femenino"
+1727,VIH y las infecciones,Spanish,True,166,True,"Infecciones, Sistema inmunitario"
+7348,VIH: PrEP y PEP,Spanish,True,874,True,"Infecciones, Sistema inmunitario, Tratamiento con medicamentos"
+1865,Violencia en la pareja,Spanish,True,861,True,"Mujeres, Lesiones y heridas, Asuntos sociales y familiares"
+2187,Violencia en los adolescentes,Spanish,True,127,True,"Niños y adolescentes, Asuntos sociales y familiares"
+454,Viral Infections,English,True,431,True,"Infections, Immune System"
+2154,Viruela,Spanish,True,212,True,"Infecciones, Envenenamientos, toxicología y salud ambiental"
+2228,Virus del Nilo Occidental,Spanish,True,586,True,"Infecciones, Cerebro y nervios"
+2281,Virus del papiloma humano,Spanish,True,762,True,"Infecciones, Asuntos de salud sexual, Sistema reproductor femenino"
+6343,Virus del Zika,Spanish,True,276,True,Infecciones
+3102,Virus respiratorio sincitial,Spanish,True,929,True,"Niños y adolescentes, Infecciones, Pulmón y vías respiratorias"
+165,Vision Impairment and Blindness,English,True,620,True,Eyes and Vision
+6288,Vital Signs,English,True,224,True,"Diagnostic Tests, Wellness and Lifestyle"
+5373,Vitamin A,English,True,118,True,Food and Nutrition
+5380,Vitamin C,English,True,80,True,Food and Nutrition
+5383,Vitamin D,English,True,447,True,Food and Nutrition
+6448,Vitamin D Deficiency,English,True,859,True,Food and Nutrition
+5385,Vitamin E,English,True,115,True,Food and Nutrition
+5388,Vitamin K,English,True,149,True,Food and Nutrition
+5374,Vitamina A,Spanish,True,127,True,Alimentos y nutrición
+5381,Vitamina C,Spanish,True,102,True,Alimentos y nutrición
+5384,Vitamina D,Spanish,True,470,True,Alimentos y nutrición
+5386,Vitamina E,Spanish,True,125,True,Alimentos y nutrición
+5389,Vitamina K,Spanish,True,170,True,Alimentos y nutrición
+2223,Vitaminas,Spanish,True,172,True,Alimentos y nutrición
+5377,Vitaminas B,Spanish,True,122,True,Alimentos y nutrición
+456,Vitamins,English,True,171,True,Food and Nutrition
+1306,Vitiligo,English,True,150,True,"Skin, Hair and Nails"
+2224,Vitiligo,Spanish,True,162,True,"Piel, cabello y uñas"
+1729,Viviendo con VIH,Spanish,True,466,True,Sistema inmunitario
+2109,Vivir saludablemente,Spanish,True,376,True,Bienestar y estilo de vida
+6909,VLDL Cholesterol,English,True,360,True,"Blood, Heart and Circulation, Food and Nutrition"
+1650,Voice Disorders,English,True,200,True,Mouth and Teeth
+4601,Volcanes,Spanish,True,164,True,Desastres
+4600,Volcanoes,English,True,139,True,Disasters
+4361,Von Hippel-Lindau Disease,English,True,259,True,Genetics/Birth Defects
+1701,Vulvar Cancer,English,True,178,True,"Cancers, Women, Female Reproductive System"
+4550,Vulvar Disorders,English,True,58,True,"Women, Female Reproductive System"
+2217,Várices,Spanish,True,206,True,"Sangre, corazón y circulación"
+5673,Walking Problems,English,True,308,True,"Bones, Joints and Muscles, Brain and Nerves"
+459,Warts,English,True,104,True,"Infections, Skin, Hair and Nails"
+3172,Water Pollution,English,True,184,True,"Poisoning, Toxicology, Environmental Health"
+1714,Water Safety (Recreational),English,True,86,True,Safety Issues
+480,Weight Control,English,True,814,True,Food and Nutrition
+3302,Weight Loss Surgery,English,True,130,True,"Digestive System, Surgery and Rehabilitation, Metabolic Problems"
+1377,West Nile Virus,English,True,477,True,"Infections, Brain and Nerves"
+461,Whooping Cough,English,True,723,True,"Children and Teenagers, Infections, Lungs and Breathing"
+4604,Wildfires,English,True,171,True,Disasters
+3075,Wilms Tumor,English,True,121,True,"Cancers, Kidneys and Urinary System"
+1691,Wilson Disease,English,True,216,True,"Digestive System, Brain and Nerves, Genetics/Birth Defects, Metabolic Problems"
+4608,Winter Weather Emergencies,English,True,314,True,Disasters
+462,Women's Health,English,True,144,True,"Women, Population Groups"
+5321,Women's Health Checkup,English,True,374,True,"Women, Wellness and Lifestyle"
+3858,Wounds and Injuries,English,True,171,True,"Skin, Hair and Nails, Injuries and Wounds, Safety Issues"
+1657,Wrist Injuries and Disorders,English,True,495,True,"Bones, Joints and Muscles, Injuries and Wounds"
+3949,X-Rays,English,True,333,True,Diagnostic Tests
+1255,Yeast Infections,English,True,140,True,"Infections, Mouth and Teeth, Female Reproductive System"
+6342,Zika Virus,English,True,248,True,Infections
+6604,¿Cuánto ejercicio debo hacer?,Spanish,True,756,True,"Bienestar y estilo de vida, Aptitud física y ejercicio"
+1907,Ácido fólico,Spanish,True,103,True,Alimentos y nutrición
+1749,Ántrax,Spanish,True,190,True,Infecciones
+2108,Úlcera por presión,Spanish,True,139,True,"Piel, cabello y uñas"
+2083,Úlcera péptica,Spanish,True,236,True,Sistema digestivo

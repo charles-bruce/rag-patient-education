@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "condition": "Knee Replacement",
+    "question": "i had my operation last week and theres a cut on my leg thats a bit weepy, what am i meant to be doing with it",
+    "gold_topic": "Wounds and Injuries",
+    "condition_differs": true,
+    "gold_group": "Skin, Hair and Nails"
+  },
+  {
+    "id": 2,
+    "condition": "Heart Failure",
+    "question": "since ive been home ive just felt really low and cant be bothered with anything, is that part of it",
+    "gold_topic": "Depression",
+    "condition_differs": true,
+    "gold_group": "Mental Health and Behavior"
+  },
+  {
+    "id": 3,
+    "condition": "Diabetes",
+    "question": "my feet have been tingling for a while and theres a sore on my toe thats not getting better",
+    "gold_topic": "Diabetic Foot",
+    "condition_differs": true,
+    "gold_group": "Blood, Heart and Circulation"
+  },
+  {
+    "id": 4,
+    "condition": "Hip Replacement",
+    "question": "when am i allowed to start moving about properly again, i dont want to overdo it",
+    "gold_topic": "Exercise and Physical Fitness",
+    "condition_differs": true,
+    "gold_group": "Wellness and Lifestyle"
+  },
+  {
+    "id": 5,
+    "condition": "Cancer Chemotherapy",
+    "question": "i feel really sick for a couple of days after each session, is there anything that helps",
+    "gold_topic": "Nausea and Vomiting",
+    "condition_differs": true,
+    "gold_group": "Digestive System"
+  },
+  {
+    "id": 6,
+    "condition": "Cesarean Delivery",
+    "question": "the place where they cut me is red and warm and it hurts more than it did",
+    "gold_topic": "Skin Infections",
+    "condition_differs": true,
+    "gold_group": "Infections"
+  },
+  {
+    "id": 7,
+    "condition": "Colorectal Cancer",
+    "question": "i havent been able to go to the toilet properly since i started treatment",
+    "gold_topic": "Constipation",
+    "condition_differs": true,
+    "gold_group": "Digestive System"
+  },
+  {
+    "id": 8,
+    "condition": "Stroke",
+    "question": "my husband came home last week and im doing everything for him now, im not sure how to cope",
+    "gold_topic": "Caregivers",
+    "condition_differs": true,
+    "gold_group": "Social/Family Issues"
+  },
+  {
+    "id": 9,
+    "condition": "Atrial Fibrillation",
+    "question": "theyve put me on tablets to thin my blood, is there anything i should be looking out for",
+    "gold_topic": "Blood Thinners",
+    "condition_differs": true,
+    "gold_group": "Blood, Heart and Circulation"
+  },
+  {
+    "id": 10,
+    "condition": "COPD",
+    "question": "is there any kind of exercise thats safe for me or should i just rest",
+    "gold_topic": "Rehabilitation",
+    "condition_differs": true,
+    "gold_group": "Surgery and Rehabilitation"
+  },
+  {
+    "id": 11,
+    "condition": "Osteoporosis",
+    "question": "im worried about tripping over at home, the stairs make me nervous",
+    "gold_topic": "Falls",
+    "condition_differs": true,
+    "gold_group": "Older Adults"
+  },
+  {
+    "id": 12,
+    "condition": "Kidney Failure",
+    "question": "nobody really explained what im supposed to be eating now",
+    "gold_topic": "Nutrition",
+    "condition_differs": true,
+    "gold_group": "Food and Nutrition"
+  },
+  {
+    "id": 13,
+    "condition": "Heart Surgery",
+    "question": "how long until i can drive again and get back to normal",
+    "gold_topic": "After Surgery",
+    "condition_differs": true,
+    "gold_group": "Surgery and Rehabilitation"
+  },
+  {
+    "id": 14,
+    "condition": "Breast Cancer",
+    "question": "i havent slept properly since i got the news, im awake half the night",
+    "gold_topic": "Insomnia",
+    "condition_differs": true,
+    "gold_group": "Brain and Nerves"
+  },
+  {
+    "id": 15,
+    "condition": "Hysterectomy",
+    "question": "how long before i can pick up my little girl again",
+    "gold_topic": "After Surgery",
+    "condition_differs": true,
+    "gold_group": "Surgery and Rehabilitation"
+  },
+  {
+    "id": 16,
+    "condition": "Pneumonia",
+    "question": "they gave me tablets for the infection, do i need to finish the whole lot even if i feel better",
+    "gold_topic": "Antibiotics",
+    "condition_differs": true,
+    "gold_group": "Infections"
+  },
+  {
+    "id": 17,
+    "condition": "Dementia",
+    "question": "im completely worn out looking after my wife, i dont know who to ask",
+    "gold_topic": "Caregivers",
+    "condition_differs": true,
+    "gold_group": "Social/Family Issues"
+  },
+  {
+    "id": 18,
+    "condition": "Angioplasty",
+    "question": "they mentioned my cholesterol was high, what does that actually mean for me",
+    "gold_topic": "Cholesterol",
+    "condition_differs": true,
+    "gold_group": "Blood, Heart and Circulation"
+  },
+  {
+    "id": 19,
+    "condition": "Heart Failure",
+    "question": "they told me to weigh myself every morning but nobody said why it matters",
+    "gold_topic": "Heart Failure",
+    "condition_differs": false,
+    "gold_group": "Older Adults"
+  },
+  {
+    "id": 20,
+    "condition": "Diabetes",
+    "question": "how am i meant to tell if my sugar has gone too low",
+    "gold_topic": "Diabetes",
+    "condition_differs": false,
+    "gold_group": "Older Adults"
+  },
+  {
+    "id": 21,
+    "condition": "Asthma",
+    "question": "ive been reaching for my blue inhaler a lot more than usual lately",
+    "gold_topic": "Asthma",
+    "condition_differs": false,
+    "gold_group": "Lungs and Breathing"
+  },
+  {
+    "id": 22,
+    "condition": "Epilepsy",
+    "question": "is it safe for me to be at home on my own during the day",
+    "gold_topic": "Epilepsy",
+    "condition_differs": false,
+    "gold_group": "Brain and Nerves"
+  },
+  {
+    "id": 23,
+    "condition": "Migraine",
+    "question": "these headaches keep coming back and nothing i take seems to touch them",
+    "gold_topic": "Migraine",
+    "condition_differs": false,
+    "gold_group": "Brain and Nerves"
+  },
+  {
+    "id": 24,
+    "condition": "Back Pain",
+    "question": "my lower back has been aching for weeks now and its not shifting",
+    "gold_topic": "Back Pain",
+    "condition_differs": false,
+    "gold_group": "Bones, Joints and Muscles"
+  },
+  {
+    "id": 25,
+    "condition": "Cataract",
+    "question": "everything looks a bit cloudy and washed out, especially at night",
+    "gold_topic": "Cataract",
+    "condition_differs": false,
+    "gold_group": "Older Adults"
+  },
+  {
+    "id": 26,
+    "condition": "Urinary Tract Infections",
+    "question": "it stings every time i go to the toilet and i keep needing to go",
+    "gold_topic": "Urinary Tract Infections",
+    "condition_differs": false,
+    "gold_group": "Kidneys and Urinary System"
+  },
+  {
+    "id": 27,
+    "condition": "Depression",
+    "question": "i dont want to do anything anymore and i cant explain why",
+    "gold_topic": "Depression",
+    "condition_differs": false,
+    "gold_group": "Mental Health and Behavior"
+  },
+  {
+    "id": 28,
+    "condition": "Gallstones",
+    "question": "i keep getting a pain under my ribs after i eat anything fatty",
+    "gold_topic": "Gallstones",
+    "condition_differs": false,
+    "gold_group": "Digestive System"
+  },
+  {
+    "id": 29,
+    "condition": "Arthritis",
+    "question": "my hands are really stiff first thing in the morning",
+    "gold_topic": "Arthritis",
+    "condition_differs": false,
+    "gold_group": "Bones, Joints and Muscles"
+  },
+  {
+    "id": 30,
+    "condition": "High Blood Pressure",
+    "question": "do i have to keep taking these tablets forever or is it temporary",
+    "gold_topic": "High Blood Pressure",
+    "condition_differs": false,
+    "gold_group": "Older Adults"
+  }
+]

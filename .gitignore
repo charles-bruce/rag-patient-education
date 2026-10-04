@@ -1,0 +1,21 @@
+# derived artefacts — rebuild from mplus_topics_2026-07-07.xml
+chroma_db/
+topics_english_all.json
+
+# environments
+venv*/
+.venv/
+__pycache__/
+*.pyc
+Miniforge3-*.sh
+
+# third-party corpora, fetched separately (see README)
+MedQuAD/
+
+# editor and OS noise
+.DS_Store
+~$*
+.ipynb_checkpoints/
+*.code-workspace
+.claude/
+.agents/

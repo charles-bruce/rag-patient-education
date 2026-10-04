@@ -1,0 +1,922 @@
+[
+  {
+    "question": "What are the treatments for Transient Ischemic Attack?",
+    "qtype": "treatment",
+    "topic_id": "1570",
+    "topic_title": "Transient Ischemic Attack",
+    "group": "Blood, Heart and Circulation",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What is (are) Scleroderma?",
+    "qtype": "information",
+    "topic_id": "394",
+    "topic_title": "Scleroderma",
+    "group": "Skin, Hair and Nails",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Skin Conditions?",
+    "qtype": "information",
+    "topic_id": "40",
+    "topic_title": "Skin Conditions",
+    "group": "Skin, Hair and Nails",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What are the treatments for Carpal Tunnel Syndrome?",
+    "qtype": "treatment",
+    "topic_id": "179",
+    "topic_title": "Carpal Tunnel Syndrome",
+    "group": "Bones, Joints and Muscles",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "How many people are affected by Hemorrhoids?",
+    "qtype": "frequency",
+    "topic_id": "1226",
+    "topic_title": "Hemorrhoids",
+    "group": "Digestive System",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "What are the treatments for Gaucher Disease?",
+    "qtype": "treatment",
+    "topic_id": "1523",
+    "topic_title": "Gaucher Disease",
+    "group": "Genetics/Birth Defects",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "Do you have information about Rehabilitation",
+    "qtype": "information",
+    "topic_id": "522",
+    "topic_title": "Rehabilitation",
+    "group": "Surgery and Rehabilitation",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What are the treatments for Myasthenia Gravis?",
+    "qtype": "treatment",
+    "topic_id": "336",
+    "topic_title": "Myasthenia Gravis",
+    "group": "Brain and Nerves",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What are the symptoms of Abdominal Adhesions?",
+    "qtype": "symptoms",
+    "topic_id": "3920",
+    "topic_title": "Adhesions",
+    "group": "Digestive System",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "Do you have information about Health Screening",
+    "qtype": "information",
+    "topic_id": "4482",
+    "topic_title": "Health Screening",
+    "group": "Wellness and Lifestyle",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Vitamin C",
+    "qtype": "information",
+    "topic_id": "5380",
+    "topic_title": "Vitamin C",
+    "group": "Food and Nutrition",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is the outlook for Gaucher Disease?",
+    "qtype": "outlook",
+    "topic_id": "1523",
+    "topic_title": "Gaucher Disease",
+    "group": "Genetics/Birth Defects",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What are the treatments for Pituitary Tumors?",
+    "qtype": "treatment",
+    "topic_id": "5328",
+    "topic_title": "Pituitary Tumors",
+    "group": "Cancers",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What is (are) Amyloidosis?",
+    "qtype": "information",
+    "topic_id": "5273",
+    "topic_title": "Amyloidosis",
+    "group": "Metabolic Problems",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What are the symptoms of Crohn's Disease?",
+    "qtype": "symptoms",
+    "topic_id": "119",
+    "topic_title": "Crohn's Disease",
+    "group": "Digestive System",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "What is (are) Gout?",
+    "qtype": "information",
+    "topic_id": "264",
+    "topic_title": "Gout",
+    "group": "Bones, Joints and Muscles",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Women's Health",
+    "qtype": "information",
+    "topic_id": "462",
+    "topic_title": "Women's Health",
+    "group": "Women",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Insomnia?",
+    "qtype": "information",
+    "topic_id": "6055",
+    "topic_title": "Insomnia",
+    "group": "Brain and Nerves",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Breastfeeding",
+    "qtype": "information",
+    "topic_id": "175",
+    "topic_title": "Breastfeeding",
+    "group": "Food and Nutrition",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What causes Rheumatoid Arthritis?",
+    "qtype": "causes",
+    "topic_id": "1232",
+    "topic_title": "Rheumatoid Arthritis",
+    "group": "Bones, Joints and Muscles",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What are the symptoms of Salivary Gland Cancer?",
+    "qtype": "symptoms",
+    "topic_id": "5331",
+    "topic_title": "Salivary Gland Cancer",
+    "group": "Cancers",
+    "source": "1_CancerGov_QA"
+  },
+  {
+    "question": "Do you have information about Molds",
+    "qtype": "information",
+    "topic_id": "1538",
+    "topic_title": "Molds",
+    "group": "Poisoning, Toxicology, Environmental Health",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Abscess?",
+    "qtype": "information",
+    "topic_id": "3063",
+    "topic_title": "Abscess",
+    "group": "Infections",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Tooth Disorders?",
+    "qtype": "information",
+    "topic_id": "3069",
+    "topic_title": "Tooth Disorders",
+    "group": "Mouth and Teeth",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Pancreatic Cancer?",
+    "qtype": "information",
+    "topic_id": "469",
+    "topic_title": "Pancreatic Cancer",
+    "group": "Cancers",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "How to prevent Stroke?",
+    "qtype": "prevention",
+    "topic_id": "8",
+    "topic_title": "Stroke",
+    "group": "Blood, Heart and Circulation",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What is (are) Vaginal Diseases?",
+    "qtype": "information",
+    "topic_id": "451",
+    "topic_title": "Vaginal Diseases",
+    "group": "Female Reproductive System",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "how can botulism be treated?",
+    "qtype": "treatment",
+    "topic_id": "1557",
+    "topic_title": "Botulism",
+    "group": "Infections",
+    "source": "9_CDC_QA"
+  },
+  {
+    "question": "What is (are) Jaundice?",
+    "qtype": "information",
+    "topic_id": "4452",
+    "topic_title": "Jaundice",
+    "group": "Digestive System",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "How to diagnose Urinary Incontinence?",
+    "qtype": "exams and tests",
+    "topic_id": "114",
+    "topic_title": "Urinary Incontinence",
+    "group": "Kidneys and Urinary System",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What is (are) Seizures?",
+    "qtype": "information",
+    "topic_id": "396",
+    "topic_title": "Seizures",
+    "group": "Brain and Nerves",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "what research (or clinical trials) is being done for Lung Cancer?",
+    "qtype": "research",
+    "topic_id": "86",
+    "topic_title": "Lung Cancer",
+    "group": "Cancers",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What is the outlook for Myopathy?",
+    "qtype": "outlook",
+    "topic_id": "510",
+    "topic_title": "Muscle Disorders",
+    "group": "Bones, Joints and Muscles",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "Do you have information about Pregnancy and Medicines",
+    "qtype": "information",
+    "topic_id": "5578",
+    "topic_title": "Pregnancy and Medicines",
+    "group": "Pregnancy and Reproduction",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Organ Donation",
+    "qtype": "information",
+    "topic_id": "615",
+    "topic_title": "Organ Donation",
+    "group": "Transplantation and Donation",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Chiropractic",
+    "qtype": "information",
+    "topic_id": "2727",
+    "topic_title": "Chiropractic",
+    "group": "Complementary and Alternative Therapies",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is the outlook for Swallowing Disorders?",
+    "qtype": "outlook",
+    "topic_id": "1309",
+    "topic_title": "Swallowing Disorders",
+    "group": "Digestive System",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "Do you have information about Arsenic",
+    "qtype": "information",
+    "topic_id": "1569",
+    "topic_title": "Arsenic",
+    "group": "Poisoning, Toxicology, Environmental Health",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What causes Celiac Disease?",
+    "qtype": "causes",
+    "topic_id": "897",
+    "topic_title": "Celiac Disease",
+    "group": "Digestive System",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "what research (or clinical trials) is being done for Myopathy?",
+    "qtype": "research",
+    "topic_id": "510",
+    "topic_title": "Muscle Disorders",
+    "group": "Bones, Joints and Muscles",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "Who is at risk for Diabetes?",
+    "qtype": "susceptibility",
+    "topic_id": "4",
+    "topic_title": "Diabetes",
+    "group": "Endocrine System",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "Who is at risk for Cataract?",
+    "qtype": "susceptibility",
+    "topic_id": "116",
+    "topic_title": "Cataract",
+    "group": "Eyes and Vision",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What are the symptoms of COPD?",
+    "qtype": "symptoms",
+    "topic_id": "27",
+    "topic_title": "COPD",
+    "group": "Lungs and Breathing",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "Do you have information about Laboratory Tests",
+    "qtype": "information",
+    "topic_id": "210",
+    "topic_title": "Laboratory Tests",
+    "group": "Diagnostic Tests",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Campylobacter Infections?",
+    "qtype": "information",
+    "topic_id": "6046",
+    "topic_title": "Campylobacter Infections",
+    "group": "Infections",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "what is the risk for my pet for Rabies?",
+    "qtype": "susceptibility",
+    "topic_id": "523",
+    "topic_title": "Rabies",
+    "group": "Infections",
+    "source": "9_CDC_QA"
+  },
+  {
+    "question": "what research (or clinical trials) is being done for Thoracic Outlet Syndrome?",
+    "qtype": "research",
+    "topic_id": "1251",
+    "topic_title": "Thoracic Outlet Syndrome",
+    "group": "Brain and Nerves",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "How to diagnose Hemorrhoids?",
+    "qtype": "exams and tests",
+    "topic_id": "1226",
+    "topic_title": "Hemorrhoids",
+    "group": "Digestive System",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "what research (or clinical trials) is being done for Chronic Pain?",
+    "qtype": "research",
+    "topic_id": "5995",
+    "topic_title": "Chronic Pain",
+    "group": "Brain and Nerves",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "Do you have information about Occupational Health for Healthcare Providers",
+    "qtype": "information",
+    "topic_id": "3644",
+    "topic_title": "Occupational Health for Health Care Providers",
+    "group": "Safety Issues",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "How to diagnose COPD?",
+    "qtype": "exams and tests",
+    "topic_id": "27",
+    "topic_title": "COPD",
+    "group": "Lungs and Breathing",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What are the symptoms of Depression?",
+    "qtype": "symptoms",
+    "topic_id": "113",
+    "topic_title": "Depression",
+    "group": "Mental Health and Behavior",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What is (are) Enlarged Prostate (BPH)?",
+    "qtype": "information",
+    "topic_id": "6196",
+    "topic_title": "Enlarged Prostate (BPH)",
+    "group": "Male Reproductive System",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Reye Syndrome?",
+    "qtype": "information",
+    "topic_id": "385",
+    "topic_title": "Reye Syndrome",
+    "group": "Brain and Nerves",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What are the symptoms of Hypothyroidism?",
+    "qtype": "symptoms",
+    "topic_id": "6175",
+    "topic_title": "Hypothyroidism",
+    "group": "Endocrine System",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "What is (are) Health Problems in Pregnancy?",
+    "qtype": "information",
+    "topic_id": "1105",
+    "topic_title": "Health Problems in Pregnancy",
+    "group": "Pregnancy and Reproduction",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Noise",
+    "qtype": "information",
+    "topic_id": "500",
+    "topic_title": "Noise",
+    "group": "Ear, Nose and Throat",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Dietary Supplements",
+    "qtype": "information",
+    "topic_id": "3538",
+    "topic_title": "Dietary Supplements",
+    "group": "Food and Nutrition",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What are the treatments for Learning Disabilities?",
+    "qtype": "treatment",
+    "topic_id": "306",
+    "topic_title": "Learning Disabilities",
+    "group": "Mental Health and Behavior",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What is (are) Sun Exposure?",
+    "qtype": "information",
+    "topic_id": "1419",
+    "topic_title": "Sun Exposure",
+    "group": "Skin, Hair and Nails",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Diabetic Retinopathy?",
+    "qtype": "information",
+    "topic_id": "1340",
+    "topic_title": "Diabetic Eye Problems",
+    "group": "Eyes and Vision",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What causes Osteoarthritis?",
+    "qtype": "causes",
+    "topic_id": "1250",
+    "topic_title": "Osteoarthritis",
+    "group": "Bones, Joints and Muscles",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "Do you have information about Winter Weather Emergencies",
+    "qtype": "information",
+    "topic_id": "4608",
+    "topic_title": "Winter Weather Emergencies",
+    "group": "Disasters",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "How to diagnose Stroke?",
+    "qtype": "exams and tests",
+    "topic_id": "8",
+    "topic_title": "Stroke",
+    "group": "Blood, Heart and Circulation",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "what are the signs and symptoms of rabies?",
+    "qtype": "symptoms",
+    "topic_id": "523",
+    "topic_title": "Rabies",
+    "group": "Infections",
+    "source": "9_CDC_QA"
+  },
+  {
+    "question": "What is (are) Growth Disorders?",
+    "qtype": "information",
+    "topic_id": "265",
+    "topic_title": "Growth Disorders",
+    "group": "Endocrine System",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "what are the symptoms of botulism?",
+    "qtype": "symptoms",
+    "topic_id": "1557",
+    "topic_title": "Botulism",
+    "group": "Infections",
+    "source": "9_CDC_QA"
+  },
+  {
+    "question": "What is (are) Veterans and Military Family Health?",
+    "qtype": "information",
+    "topic_id": "4883",
+    "topic_title": "Veterans and Military Family Health",
+    "group": "Population Groups",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is the outlook for Tremor?",
+    "qtype": "outlook",
+    "topic_id": "1315",
+    "topic_title": "Tremor",
+    "group": "Brain and Nerves",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What are the complications of Abdominal Adhesions?",
+    "qtype": "complications",
+    "topic_id": "3920",
+    "topic_title": "Adhesions",
+    "group": "Digestive System",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "What are the treatments for Cataract?",
+    "qtype": "treatment",
+    "topic_id": "116",
+    "topic_title": "Cataract",
+    "group": "Eyes and Vision",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What is (are) Tracheal Disorders?",
+    "qtype": "information",
+    "topic_id": "5448",
+    "topic_title": "Tracheal Disorders",
+    "group": "Lungs and Breathing",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "what research (or clinical trials) is being done for Neuroblastoma?",
+    "qtype": "research",
+    "topic_id": "1240",
+    "topic_title": "Neuroblastoma",
+    "group": "Cancers",
+    "source": "1_CancerGov_QA"
+  },
+  {
+    "question": "What to do for Porphyria?",
+    "qtype": "considerations",
+    "topic_id": "1249",
+    "topic_title": "Porphyria",
+    "group": "Digestive System",
+    "source": "5_NIDDK_QA"
+  },
+  {
+    "question": "what research (or clinical trials) is being done for Swallowing Disorders?",
+    "qtype": "research",
+    "topic_id": "1309",
+    "topic_title": "Swallowing Disorders",
+    "group": "Digestive System",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What is (are) Penis Disorders?",
+    "qtype": "information",
+    "topic_id": "1360",
+    "topic_title": "Penis Disorders",
+    "group": "Sexual Health Issues",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "How many people are affected by Osteoarthritis?",
+    "qtype": "frequency",
+    "topic_id": "1250",
+    "topic_title": "Osteoarthritis",
+    "group": "Bones, Joints and Muscles",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What are the treatments for Depression?",
+    "qtype": "treatment",
+    "topic_id": "113",
+    "topic_title": "Depression",
+    "group": "Mental Health and Behavior",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What are the treatments for Myelodysplastic Syndromes?",
+    "qtype": "treatment",
+    "topic_id": "5550",
+    "topic_title": "Myelodysplastic Syndromes",
+    "group": "Immune System",
+    "source": "1_CancerGov_QA"
+  },
+  {
+    "question": "What is the outlook for Behcet's Disease?",
+    "qtype": "outlook",
+    "topic_id": "1084",
+    "topic_title": "Behcet's Syndrome",
+    "group": "Blood, Heart and Circulation",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "How to prevent COPD?",
+    "qtype": "prevention",
+    "topic_id": "27",
+    "topic_title": "COPD",
+    "group": "Lungs and Breathing",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What are the stages of Pituitary Tumors?",
+    "qtype": "stages",
+    "topic_id": "5328",
+    "topic_title": "Pituitary Tumors",
+    "group": "Cancers",
+    "source": "1_CancerGov_QA"
+  },
+  {
+    "question": "What is (are) Fatigue?",
+    "qtype": "information",
+    "topic_id": "5324",
+    "topic_title": "Fatigue",
+    "group": "Symptoms",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "How to diagnose Prostate Cancer?",
+    "qtype": "exams and tests",
+    "topic_id": "112",
+    "topic_title": "Prostate Cancer",
+    "group": "Cancers",
+    "source": "1_CancerGov_QA"
+  },
+  {
+    "question": "What causes Prostate Cancer?",
+    "qtype": "causes",
+    "topic_id": "112",
+    "topic_title": "Prostate Cancer",
+    "group": "Cancers",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What is (are) Addison Disease?",
+    "qtype": "information",
+    "topic_id": "1233",
+    "topic_title": "Addison Disease",
+    "group": "Immune System",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Bedbugs?",
+    "qtype": "information",
+    "topic_id": "5649",
+    "topic_title": "Bed Bugs",
+    "group": "Injuries and Wounds",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Drug Abuse?",
+    "qtype": "information",
+    "topic_id": "30",
+    "topic_title": "Drug Use and Addiction",
+    "group": "Substance Use and Disorders",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Disabilities?",
+    "qtype": "information",
+    "topic_id": "527",
+    "topic_title": "Disabilities",
+    "group": "Social/Family Issues",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is the outlook for Transient Ischemic Attack?",
+    "qtype": "outlook",
+    "topic_id": "1570",
+    "topic_title": "Transient Ischemic Attack",
+    "group": "Blood, Heart and Circulation",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What is (are) Chlamydia Infections?",
+    "qtype": "information",
+    "topic_id": "1307",
+    "topic_title": "Chlamydia Infections",
+    "group": "Infections",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "How many people are affected by Hearing Loss?",
+    "qtype": "frequency",
+    "topic_id": "204",
+    "topic_title": "Hearing Disorders and Deafness",
+    "group": "Ear, Nose and Throat",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What is (are) Tinea Infections?",
+    "qtype": "information",
+    "topic_id": "1228",
+    "topic_title": "Tinea Infections",
+    "group": "Infections",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Pet Health",
+    "qtype": "information",
+    "topic_id": "1399",
+    "topic_title": "Pet Health",
+    "group": "Wellness and Lifestyle",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is the outlook for Multiple Sclerosis?",
+    "qtype": "outlook",
+    "topic_id": "83",
+    "topic_title": "Multiple Sclerosis",
+    "group": "Bones, Joints and Muscles",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What is the outlook for Learning Disabilities?",
+    "qtype": "outlook",
+    "topic_id": "306",
+    "topic_title": "Learning Disabilities",
+    "group": "Mental Health and Behavior",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What is (are) Mycobacterial Infections?",
+    "qtype": "information",
+    "topic_id": "5360",
+    "topic_title": "Mycobacterial Infections",
+    "group": "Infections",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Health Facilities",
+    "qtype": "information",
+    "topic_id": "486",
+    "topic_title": "Health Facilities",
+    "group": "Health System",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What are the treatments for Urinary Incontinence?",
+    "qtype": "treatment",
+    "topic_id": "114",
+    "topic_title": "Urinary Incontinence",
+    "group": "Kidneys and Urinary System",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What are the treatments for Thoracic Outlet Syndrome?",
+    "qtype": "treatment",
+    "topic_id": "1251",
+    "topic_title": "Thoracic Outlet Syndrome",
+    "group": "Brain and Nerves",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "Do you have information about Genetic Counseling",
+    "qtype": "information",
+    "topic_id": "3811",
+    "topic_title": "Genetic Counseling",
+    "group": "Pregnancy and Reproduction",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What causes Glaucoma?",
+    "qtype": "causes",
+    "topic_id": "42",
+    "topic_title": "Glaucoma",
+    "group": "Eyes and Vision",
+    "source": "7_SeniorHealth_QA"
+  },
+  {
+    "question": "What is the outlook for Trigeminal Neuralgia?",
+    "qtype": "outlook",
+    "topic_id": "2729",
+    "topic_title": "Trigeminal Neuralgia",
+    "group": "Brain and Nerves",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "What is (are) Stomach Cancer?",
+    "qtype": "information",
+    "topic_id": "419",
+    "topic_title": "Stomach Cancer",
+    "group": "Cancers",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Smokeless Tobacco",
+    "qtype": "information",
+    "topic_id": "1474",
+    "topic_title": "Smokeless Tobacco",
+    "group": "Substance Use and Disorders",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Health Statistics",
+    "qtype": "information",
+    "topic_id": "275",
+    "topic_title": "Health Statistics",
+    "group": "Health System",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Clinical Trials",
+    "qtype": "information",
+    "topic_id": "192",
+    "topic_title": "Clinical Trials",
+    "group": "Personal Health Issues",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What is (are) Spider Bites?",
+    "qtype": "information",
+    "topic_id": "5249",
+    "topic_title": "Spider Bites",
+    "group": "Injuries and Wounds",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Statins",
+    "qtype": "information",
+    "topic_id": "4909",
+    "topic_title": "Statins",
+    "group": "Drug Therapy",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Toddler Health",
+    "qtype": "information",
+    "topic_id": "1547",
+    "topic_title": "Toddler Health",
+    "group": "Children and Teenagers",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "what research (or clinical trials) is being done for Behcet's Disease?",
+    "qtype": "research",
+    "topic_id": "1084",
+    "topic_title": "Behcet's Syndrome",
+    "group": "Blood, Heart and Circulation",
+    "source": "6_NINDS_QA"
+  },
+  {
+    "question": "How to prevent Lung Cancer?",
+    "qtype": "prevention",
+    "topic_id": "86",
+    "topic_title": "Lung Cancer",
+    "group": "Cancers",
+    "source": "1_CancerGov_QA"
+  },
+  {
+    "question": "What is (are) Tailbone Disorders?",
+    "qtype": "information",
+    "topic_id": "1448",
+    "topic_title": "Tailbone Disorders",
+    "group": "Bones, Joints and Muscles",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "Do you have information about Men's Health",
+    "qtype": "information",
+    "topic_id": "322",
+    "topic_title": "Men's Health",
+    "group": "Men",
+    "source": "4_MPlus_Health_Topics_QA"
+  },
+  {
+    "question": "What are the treatments for Behcet's Disease?",
+    "qtype": "treatment",
+    "topic_id": "1084",
+    "topic_title": "Behcet's Syndrome",
+    "group": "Blood, Heart and Circulation",
+    "source": "6_NINDS_QA"
+  }
+]

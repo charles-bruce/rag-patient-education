@@ -1,0 +1,12 @@
+# generated from the imports in app.py and the notebooks
+beautifulsoup4
+chromadb
+matplotlib
+numpy
+ollama
+pandas
+sentence-transformers
+streamlit
+textstat
+# Ollama itself is a separate install: https://ollama.com
+# models: mistral:7b-instruct (Q4_K_M), llama3.1:8b (Q4_K_M)

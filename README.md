@@ -8,15 +8,13 @@ A retrieval-augmented patient education system over the English MedlinePlus
 corpus, running entirely on local hardware, evaluated on 85 held-out questions
 for grounding and for the effect of prompt-level reading-level control.
 
-**The outputs in this repository have not been reviewed by clinicians and are
-not intended for clinical use.**
+**The outputs in this repository have not been reviewed by clinicians.**
 
 ## What is here
 
 | | |
 |---|---|
 | `app.py` | Streamlit prototype. Same configuration as the evaluation. |
-| `app_personalised.py` | Optional condition-profile variant. Implemented and demonstrable but **not evaluated**, and not reported in the paper. |
 | `PROMPTS.md` | Every generation and judge prompt, verbatim. |
 | `mplus_topics_2026-07-07.xml` | The corpus snapshot the results were produced from. |
 | `wk7_readability_heldout.jsonl` | The held-out run log. Every number in the paper is computed from this file. |
